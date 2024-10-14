@@ -1,31 +1,57 @@
 {
-    "16647921": {
-        "title": "Where in China is coal capacity under development?",
-        "subtitle": "Coal-fired power under development by status and Chinese province, megawatts (MW)",
-        "x_axis": "Province",
+    "19757464": {
+        "title": "Operating and developing ironmaking capacity",
+        "subtitle": "Ironmaking capacity by status and technology type",
+        "x_axis": "Status",
         "values": [
-            "Construction", "Permitted", "Pre-permit", "Announced"
+            "Blast furnace (BF)",	
+            "Direct reduced iron (DRI)",
+             "Other or unspecified"
         ],
-        "dataset": "china_provinces_data",
-        "initial_state": "All",
-        "summary": "status_text",
+        "dataset": "gist_ironmaking",
+        "initial_state": "China",
         "filterable": true,
-        "filter_by": [
-            "Construction", "Permitted", "Pre-permit", "Announced"
-        ]
+        "filter_by": "Country"
     },
-    "16644559": {
-        "title": "Which regions have coal capacity under development?",
-        "subtitle": "Coal-fired power under development by status and by region, in megawatts (MW)",
-        "x_axis": "Region",
+    "19757457": {
+        "title": "Operating and developing steelmaking capacity",
+        "subtitle": "Steelmaking capacity by status and technology type",
+        "x_axis": "Status",
         "values": [
-            "Construction", "Permitted", "Pre-permit", "Announced"
+            "Basic oxygen furnace (BOF)",
+            "Electric arc furnace (EAF)",
+            "Other or unspecified"
         ],
-        "dataset": "region_data",
-        "initial_state": "All",
+        "dataset": "gist_steelmaking",
+        "initial_state": "China",
         "filterable": true,
-        "filter_by": [
-            "Construction", "Permitted", "Pre-permit", "Announced"
-        ]
+        "filter_by": "Country"
+    },
+    "19757609": {
+        "title": "Age breakdown of iron and steel plant capacity",
+        "subtitle": "Operating iron and steelmaking capacity, by unit age group and technology type",
+        "x_axis": "Age group",
+        "values": [
+            "Blast furnace (BF)",
+            "Direct reduced iron (DRI)",
+            "Basic oxygen furnace (BOF)",
+            "Electric arc furnace (EAF)"
+        ],
+        "dataset": "gist_age_tech",
+        "initial_state": "China",
+        "filterable": true,
+        "filter_by": "Country"
+    },
+    "19757876": {
+        "title": "Iron and steelmaking capacity changes",
+        "subtitle": "Change in operating capacity in the latest year by technology type ",
+        "x_axis": "Technology",
+        "values": [
+           "Change"
+        ],
+        "dataset": "gist_change",
+        "initial_state": "China",
+        "filterable": true,
+        "filter_by": "Country"
     }
 }

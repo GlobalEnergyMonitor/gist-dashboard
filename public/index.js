@@ -48,13 +48,11 @@ async function getData() {
                         if (config.dashboard.tickers) {
                             if (i < jsonObjects.length - 2) {
                                 config.datasets[config.dashboard.flourish_ids[i]] = obj;
-                            }
-                            else {
+                            } else {
                                 if (obj.template && obj.template === '@flourish/number-ticker') config.datasets.ticker.flourish_template = obj;
                                 else config.datasets.ticker.data = obj;
                             }
-                        }
-                        else config.datasets[config.dashboard.flourish_ids[i]] = obj;
+                        } else config.datasets[config.dashboard.flourish_ids[i]] = obj;
                     })
                 })
                 .then(() => {
@@ -67,7 +65,7 @@ async function getData() {
                 })
                 .then(() => renderTickers())
                 .then(() => renderVisualisation())
-                .then(()=> {
+                .then(() => {
                     if (config.dashboard.extra_visualisations) addExtraVisualisations();
                 })
                 .catch((error) => {
@@ -86,15 +84,14 @@ function implementDropdown() {
 
     if (!config.text.dropdown) throw new Error('page-config specifies input of dropdown but text-config does not match')
 
-    let dropdownData = (typeof config.dashboard.input_filter === 'string') ? 
-        config.text.dropdown.map(entry => entry[config.dashboard.input_filter])
-        : config.dashboard.input_filter;
-    
+    let dropdownData = (typeof config.dashboard.input_filter === 'string') ?
+        config.text.dropdown.map(entry => entry[config.dashboard.input_filter]) :
+        config.dashboard.input_filter;
+
     dropdownData.forEach(input => {
         const opt = document.createElement('option');
         opt.value = formatName(input);
         opt.text = input;
-        if (input === config.input_default) opt.selected = true;
         dropdownEl.appendChild(opt);
     });
 
@@ -125,9 +122,9 @@ function implementFilterButtons() {
 
     if (!config.text.buttons) throw new Error('page-config specifies input of buttons but text-config does not match')
 
-    let buttonData = (typeof config.dashboard.input_filter === 'string') ? 
-        config.text.buttons.map(entry => entry[config.dashboard.input_filter])
-        : config.dashboard.input_filter;
+    let buttonData = (typeof config.dashboard.input_filter === 'string') ?
+        config.text.buttons.map(entry => entry[config.dashboard.input_filter]) :
+        config.dashboard.input_filter;
 
     buttonData.forEach((button, i) => {
         const btnContainer = document.createElement('div');
@@ -173,10 +170,12 @@ function renderTickers() {
         document.querySelector('.dashboard-intro').appendChild(container);
         const initialData = initialTickerData()[0];
 
-        const { state } = config.datasets.ticker.flourish_template;
+        const {
+            state
+        } = config.datasets.ticker.flourish_template;
         if (config.dashboard["ticker_text_font-size"]) {
             const tickerTextSplit = config.dashboard["ticker_text_font-size"]
-            .match(/[a-zA-Z]+|[0-9]+(?:\.[0-9]+)?|\.[0-9]+/g); // grab text size from config and split into size and unit needed in flourish:
+                .match(/[a-zA-Z]+|[0-9]+(?:\.[0-9]+)?|\.[0-9]+/g); // grab text size from config and split into size and unit needed in flourish:
             state.font_size = tickerTextSplit[0];
             state.font_unit = tickerTextSplit[1]
         }
@@ -192,13 +191,15 @@ function renderTickers() {
         };
 
         config.dashboard.tickers.forEach((entry, i) => {
-            const { id } = entry;
+            const {
+                id
+            } = entry;
             const container = document.createElement('div');
             container.id = id;
             container.classList.add('ticker-container');
             document.querySelector('.tickers-container').appendChild(container);
 
-            const tickerConf = config.dashboard.tickers.filter( entry => entry.id === id)[0];
+            const tickerConf = config.dashboard.tickers.filter(entry => entry.id === id)[0];
             tickers[id] = {};
             tickers[id].options = {
                 ...options,
@@ -220,22 +221,25 @@ function renderTickers() {
 
 function updateTickers() {
     config.dashboard.tickers.forEach((entry, i) => {
-        const { id } = entry;
+        const {
+            id
+        } = entry;
         const data = filterTickerData(getSelectedText());
         if (data[id]) {
             tickers[id].options.state.custom_template = formatWithTickerStyling(data, id)
             tickers[id].flourish.update(tickers[id].options)
             document.querySelector(`#${id} iframe`).style.opacity = 1;
-        }
-        else document.querySelector(`#${id} iframe`).style.opacity = 0.3;
+        } else document.querySelector(`#${id} iframe`).style.opacity = 0.3;
     });
 }
 
 function formatWithTickerStyling(data, id) {
     const text = data[id];
-    const { style } = config.dashboard.tickers.filter( entry => entry.id === id)[0];
+    const {
+        style
+    } = config.dashboard.tickers.filter(entry => entry.id === id)[0];
     const colourOverride = data[`${id}_color`];
-    const styledSpan =  Object.entries(style).reduce((prev, [key, val]) => `${prev} ${key}: ${(key === 'color' && colourOverride) ? colourOverride : val};`, '<span style="') + '">';
+    const styledSpan = Object.entries(style).reduce((prev, [key, val]) => `${prev} ${key}: ${(key === 'color' && colourOverride) ? colourOverride : val};`, '<span style="') + '">';
     return text.replace('<span>', styledSpan);
 }
 
@@ -268,8 +272,7 @@ function insertChartSummary(id) {
 
         if (typeof currentGraph.filter_by === 'string') {
             summaryTextObj = filterSummaries(currentGraph.filter_by, config.charts[id].initial_state);
-        }
-        else {
+        } else {
             summaryTextObj = config.text[(config.dashboard.input_type === 'dropdown') ? 'dropdown' : 'buttons'].filter(entry => entry[config.dashboard.input_key] === config.dashboard.input_default)[0];
         }
         if (summaryTextObj[currentGraph.summary]) {
@@ -294,7 +297,7 @@ function filterSummaries(key, selected) {
 }
 
 function updateOverallSummary(summaryTextObj) {
-    document.querySelector('.dashboard-intro--para').innerHTML = 
+    document.querySelector('.dashboard-intro--para').innerHTML =
         markdownToHTML((summaryTextObj.overall_summary) ? summaryTextObj.overall_summary : '');
 }
 
@@ -306,15 +309,14 @@ function updateGraphSummaries(key, summaryTextObj) {
             let filteredData;
             if (typeof config.charts[id].filter_by === 'string') {
                 filteredData = config.datasets[id].filter(entry => formatName(entry[currentGraph.filter_by]) === key);
-            }
-            else {
+            } else {
                 if (getUnformattedInputName(key) === 'All') filteredData = config.datasets[id];
                 else filteredData = filterDataOnColumnName(key, id);
             }
             const summary = document.querySelector(`#chart-${id} .chart-summary`);
             if (summary) {
                 summary.innerHTML = markdownToHTML(
-                    (filteredData.length <= 0 || !summaryTextObj[currentGraph.summary]) ? 
+                    (filteredData.length <= 0 || !summaryTextObj[currentGraph.summary]) ?
                     config.text.no_data.replace("{{selected}}", summaryTextObj[config.dashboard.input_filter]) : summaryTextObj[currentGraph.summary]);
             }
         }
@@ -323,33 +325,44 @@ function updateGraphSummaries(key, summaryTextObj) {
 
 function implentGraph(id) {
     graphs[id] = {};
-    graphs[id].opts = {
-        template: "@flourish/line-bar-pie",
-        version: 25,
-        container: `#chart-${id}`,
-        api_url: "/flourish",
-        api_key: "", //filled in server side
-        base_visualisation_id: id,
-        bindings: {
+
+    fetch(`https://public.flourish.studio/visualisation/${id}/visualisation.json`)
+    .then((response) => response.json())
+    .then((options) => {
+        graphs[id].opts = {
+            ...options,
+            // template: "@flourish/line-bar-pie",
+            // version: 25,
+            container: `#chart-${id}`,
+            api_url: "/flourish",
+            api_key: "", //filled in server side
+            base_visualisation_id: id,
+            bindings: {
+                ...options.bindings,
+                data: {
+                    ...options.bindings.data,
+                    label: config.charts[id].x_axis, // this seems to be the X axis
+                    value: config.charts[id].values, // this is the actual bar
+                }
+            },
             data: {
-                label: config.charts[id].x_axis, // this seems to be the X axis
-                value: config.charts[id].values, // this is the actual bar
+                ...options.data,
+                data: initialData(id),
+            },
+            state: {
+                ...options.state,
+                layout: {
+                    title: config.charts[id].title.replace('{{country}}', ''),
+                    subtitle: config.charts[id].subtitle,
+                }
             }
-        },
-        data: {
-            data: initialData(id),
-        },
-        state: {
-            layout: {
-                title: config.charts[id].title.replace('{{country}}', ''),
-                subtitle: config.charts[id].subtitle,
-            }
-        }
-    };
-    // if (config.charts[id].filterable) {
-    //     graphs[id].opts.bindings.data.metadata = config.charts[id].pop_up; // this is pop ups, can have multiple values
-    // }
-    graphs[id].flourish = new Flourish.Live(graphs[id].opts);
+        };
+        if (options.template === "@flourish/line-bar-pie") graphs[id].opts.version = 25;
+        // if (config.charts[id].filterable) {
+        //     graphs[id].opts.bindings.data.metadata = config.charts[id].pop_up; // this is pop ups, can have multiple values
+        // }
+        graphs[id].flourish = new Flourish.Live(graphs[id].opts);
+    });
 }
 
 function updateGraphs(key) {
@@ -361,8 +374,7 @@ function updateGraphs(key) {
             let filteredData;
             if (typeof config.charts[id].filter_by === 'string') {
                 filteredData = config.datasets[id].filter(entry => formatName(entry[currentGraph.filter_by]) === key);
-            }
-            else {
+            } else {
                 if (getUnformattedInputName(key) === 'All') filteredData = config.datasets[id];
                 else filteredData = filterDataOnColumnName(key, id);
             }
@@ -399,8 +411,7 @@ function initialData(id) {
     if (config.charts[id].filterable) {
         if (typeof config.charts[id].filter_by === 'string') {
             data = config.datasets[id].filter(entry => entry[config.dashboard.input_filter] === config.charts[id].initial_state);
-        }
-        else {
+        } else {
             const defaultFilter = config.dashboard.input_default;
             if (defaultFilter === "All") return data;
             else return filterDataOnColumnName(formatName(defaultFilter), id)
@@ -422,22 +433,18 @@ function filterDataOnColumnName(key, id) {
 }
 
 function initialTickerData() {
-    let data = config.datasets.ticker.data;
-    if (typeof config.dashboard.input_filter === 'string') return data.filter(entry => entry[config.dashboard.input_filter] === config.dashboard.input_default);
-    return data;
+    return config.datasets.ticker.data.filter(entry => entry[config.dashboard.input_filter] === config.dashboard.input_default);
 }
 
 function filterTickerData(key) {
-    const inputKey = (typeof config.dashboard.input_filter === 'string') ? 'input_filter' : 'input_key';
-    return config.datasets.ticker.data.filter(entry => entry[config.dashboard[inputKey]] === key)[0];
+    return config.datasets.ticker.data.filter(entry => entry[config.dashboard.input_filter] === key)[0];
 }
 
 function getSelectedText() {
     if (config.dashboard.input_type === 'dropdown') {
         const dropdown = document.querySelector('select');
         return dropdown[dropdown.selectedIndex].text;
-    }
-    else if (config.dashboard.input_type === 'buttons') {
+    } else if (config.dashboard.input_type === 'buttons') {
         const selectedButton = document.querySelector('input[name="filter"]:checked');
         return selectedButton.text;
     }

@@ -5,17 +5,10 @@ body {
     text-align: center;
     color: #1f1f1f;
     max-width: 2500px;
-    padding-bottom: 1rem;
 }
 
 .chart-container {
     text-align: left;
-}
-
-.tickers-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
 }
 
 .vis-container {
@@ -34,6 +27,12 @@ body {
     right: 0;
     margin-left: 25%;
   }
+
+.tickers-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
 
 .controls-container {
     padding: 0 0.5rem;
