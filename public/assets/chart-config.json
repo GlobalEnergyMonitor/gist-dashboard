@@ -8,7 +8,7 @@
             "Direct reduced iron (DRI)",
              "Other or unspecified"
         ],
-        "dataset": "gist_ironmaking",
+        "dataset": "2025-GIST-files/gist_ironmaking",
         "initial_state": "China",
         "filterable": true,
         "filter_by": "Country"
@@ -22,7 +22,7 @@
             "Electric arc furnace (EAF)",
             "Other or unspecified"
         ],
-        "dataset": "gist_steelmaking",
+        "dataset": "2025-GIST-files/gist_steelmaking",
         "initial_state": "China",
         "filterable": true,
         "filter_by": "Country"
@@ -37,7 +37,7 @@
             "Basic oxygen furnace (BOF)",
             "Electric arc furnace (EAF)"
         ],
-        "dataset": "gist_age_tech",
+        "dataset": "2025-GIST-files/gist_age_tech",
         "initial_state": "China",
         "filterable": true,
         "filter_by": "Country"
@@ -49,7 +49,7 @@
         "values": [
            "Change"
         ],
-        "dataset": "gist_change",
+        "dataset": "2025-GIST-files/gist_change",
         "initial_state": "China",
         "filterable": true,
         "filter_by": "Country"
