@@ -1,5 +1,8 @@
 # Global Iron and Steel Tracker dashboard
 
+## Updated json files stored here: 
+https://github.com/astridGS96/2025-GIST-files/tree/main 
+
 This repository hosts the code for the upcoming [Global Iron and Steel Tracker dashboard](https://gist-dashboard-48c2c12567e7.herokuapp.com/), built using the [Flourish API dashboard template setup](https://github.com/GlobalEnergyMonitor/Flourish-API-dashboard-template). For the full instructions on how the Flourish API framework, you can go through the comprehensive README that includes all the different steps on how to set and configure a new dashboard in the template Github repo. This repo will focus on how to update and make changes to the Global Iron and Steel Tracker dashboard, which has not yet launched (as of October 2024) and is in draft mode as a test version ahead of an expected launch in April 2025 when the new tracker data is released. 
 
 This README itself is split up into four different sections. The first section explains how each of the dashboard components are set up, with a snapshot of the data structure that make up each of the elements. Then there is a short guide to updating the dashboard. The third section provides detail on how each of the different elements making the dashboard up are structured and created, while the last section provides a more detailed step-by-step guide to updating the dashboard. 
