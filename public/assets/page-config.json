@@ -10,7 +10,7 @@
     "input_default": "China",
     "overall_summary": false,
     "ticker_text_font-size": "1.75rem",
-    "ticker_data": "2025-GIST-files/gist_data_ticker",
+    "ticker_data": "2025-GIST/gist_data_ticker",
     "tickers": [{
         "id": "summary_1",
         "decimal_places": 2,
