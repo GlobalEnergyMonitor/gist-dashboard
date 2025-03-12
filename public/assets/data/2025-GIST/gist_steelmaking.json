@@ -333,14 +333,14 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 79100,
    "Electric arc furnace (EAF)": 108177,
-   "Other or unspecified": 0
+   "Other or unspecified": 5790
  },
  {
    "Country": "Global",
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 269311,
    "Electric arc furnace (EAF)": 239780,
-   "Other or unspecified": 0
+   "Other or unspecified": 170133
  },
  {
    "Country": "Greece",
