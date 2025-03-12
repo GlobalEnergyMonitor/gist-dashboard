@@ -5,11 +5,12 @@
   "no_data": "No data available for {{selected}}",
   "dropdown": [
     {
-      "Country": "China",
+      "Country": "Global",
       "overall_summary": "Placeholder must update overall_summary in page-config to true"
-
     },
-
+     {
+      "Country": "China"
+    },
     {
       "Country": "India"
     },
