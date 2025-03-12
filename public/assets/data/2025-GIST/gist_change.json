@@ -1093,7 +1093,7 @@
  },
  {
    "Technology": "Blast furnace (BF)",
-   "Change": -750,
+   "Change": 0,
    "Type": "Iron",
    "Country": "Russia"
  },
@@ -1135,7 +1135,7 @@
  },
  {
    "Technology": "Blast furnace (BF)",
-   "Change": 2615,
+   "Change": 9650,
    "Type": "Iron",
    "Country": "India"
  },
@@ -1153,7 +1153,7 @@
  },
  {
    "Technology": "Blast furnace (BF)",
-   "Change": -615,
+   "Change": -1230,
    "Type": "Iron",
    "Country": "Pakistan"
  },
@@ -1237,13 +1237,13 @@
  },
  {
    "Technology": "Blast furnace (BF)",
-   "Change": 16911,
+   "Change": 16541,
    "Type": "Iron",
    "Country": "China"
  },
  {
    "Technology": "Blast furnace (BF)",
-   "Change": 2600,
+   "Change": 2000,
    "Type": "Iron",
    "Country": "Indonesia"
  },
@@ -1333,7 +1333,7 @@
  },
  {
    "Technology": "Blast furnace (BF)",
-   "Change": 0,
+   "Change": 600,
    "Type": "Iron",
    "Country": "Zimbabwe"
  },
@@ -1351,13 +1351,13 @@
  },
  {
    "Technology": "Blast furnace (BF)",
-   "Change": 880,
+   "Change": 0,
    "Type": "Iron",
    "Country": "Australia"
  },
  {
    "Technology": "Blast furnace (BF)",
-   "Change": 0,
+   "Change": -4770,
    "Type": "Iron",
    "Country": "United Kingdom"
  },
@@ -1483,7 +1483,7 @@
  },
  {
    "Technology": "Blast furnace (BF)",
-   "Change": 1150,
+   "Change": 0,
    "Type": "Iron",
    "Country": "Sri Lanka"
  },
