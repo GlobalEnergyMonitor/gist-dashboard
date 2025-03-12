@@ -1,5 +1,8 @@
 [
  {
+   "Country": "Global"
+ },
+ {
    "Country": "China"
  },
  {
@@ -15,184 +18,142 @@
    "Country": "Russia"
  },
  {
-   "Country": "Iran"
- },
- {
    "Country": "South Korea"
- },
- {
-   "Country": "Vietnam"
- },
- {
-   "Country": "Indonesia"
  },
  {
    "Country": "Türkiye"
  },
  {
-   "Country": "Germany"
+   "Country": "Iran"
  },
  {
    "Country": "Brazil"
  },
  {
-   "Country": "Ukraine"
+   "Country": "Vietnam"
  },
  {
-   "Country": "Malaysia"
+   "Country": "Germany"
  },
  {
    "Country": "Italy"
  },
  {
+   "Country": "Taiwan"
+ },
+ {
    "Country": "Mexico"
  },
  {
-   "Country": "France"
- },
- {
-   "Country": "Saudi Arabia"
- },
- {
-   "Country": "Taiwan"
+   "Country": "Indonesia"
  },
  {
    "Country": "Spain"
  },
  {
-   "Country": "Philippines"
+   "Country": "Ukraine"
  },
  {
    "Country": "Egypt"
  },
  {
-   "Country": "Canada"
+   "Country": "Malaysia"
  },
  {
-   "Country": "United Kingdom"
- },
- {
-   "Country": "Kazakhstan"
+   "Country": "Saudi Arabia"
  },
  {
    "Country": "Algeria"
  },
  {
-   "Country": "Netherlands"
- },
- {
-   "Country": "Sweden"
- },
- {
-   "Country": "Poland"
- },
- {
-   "Country": "Australia"
- },
- {
-   "Country": "Czech Republic"
- },
- {
-   "Country": "Romania"
- },
- {
-   "Country": "Oman"
- },
- {
-   "Country": "Thailand"
+   "Country": "France"
  },
  {
    "Country": "North Korea"
  },
  {
-   "Country": "South Africa"
+   "Country": "Canada"
  },
  {
-   "Country": "Bangladesh"
+   "Country": "Poland"
  },
  {
-   "Country": "Austria"
- },
- {
-   "Country": "Belgium"
- },
- {
-   "Country": "Finland"
- },
- {
-   "Country": "Pakistan"
+   "Country": "Thailand"
  },
  {
    "Country": "Argentina"
  },
  {
-   "Country": "Nigeria"
+   "Country": "Netherlands"
  },
  {
-   "Country": "United Arab Emirates"
+   "Country": "South Africa"
+ },
+ {
+   "Country": "Kazakhstan"
+ },
+ {
+   "Country": "Bangladesh"
+ },
+ {
+   "Country": "Belgium"
+ },
+ {
+   "Country": "Czech Republic"
+ },
+ {
+   "Country": "Australia"
+ },
+ {
+   "Country": "Austria"
  },
  {
    "Country": "Slovakia"
  },
  {
-   "Country": "Venezuela"
+   "Country": "Oman"
  },
  {
-   "Country": "Zimbabwe"
- },
- {
-   "Country": "Uzbekistan"
- },
- {
-   "Country": "Hungary"
- },
- {
-   "Country": "Namibia"
- },
- {
-   "Country": "Myanmar"
- },
- {
-   "Country": "Libya"
- },
- {
-   "Country": "Cambodia"
- },
- {
-   "Country": "Greece"
+   "Country": "United Arab Emirates"
  },
  {
    "Country": "Morocco"
  },
  {
+   "Country": "Sweden"
+ },
+ {
+   "Country": "United Kingdom"
+ },
+ {
    "Country": "Iraq"
  },
  {
-   "Country": "Luxembourg"
- },
- {
-   "Country": "Qatar"
+   "Country": "Romania"
  },
  {
    "Country": "Belarus"
  },
  {
-   "Country": "Peru"
+   "Country": "Greece"
  },
  {
    "Country": "Serbia"
  },
  {
+   "Country": "Finland"
+ },
+ {
+   "Country": "Qatar"
+ },
+ {
+   "Country": "Pakistan"
+ },
+ {
    "Country": "Syria"
  },
  {
-   "Country": "Azerbaijan"
- },
- {
-   "Country": "Kenya"
- },
- {
-   "Country": "Chile"
+   "Country": "Peru"
  },
  {
    "Country": "Bosnia and Herzegovina"
@@ -201,7 +162,13 @@
    "Country": "Portugal"
  },
  {
-   "Country": "Angola"
+   "Country": "Libya"
+ },
+ {
+   "Country": "Hungary"
+ },
+ {
+   "Country": "Philippines"
  },
  {
    "Country": "Bulgaria"
@@ -210,7 +177,7 @@
    "Country": "Switzerland"
  },
  {
-   "Country": "New Zealand"
+   "Country": "Luxembourg"
  },
  {
    "Country": "Kuwait"
@@ -219,13 +186,19 @@
    "Country": "Bahrain"
  },
  {
+   "Country": "Venezuela"
+ },
+ {
+   "Country": "Kenya"
+ },
+ {
    "Country": "Moldova"
  },
  {
-   "Country": "Trinidad and Tobago"
+   "Country": "Uzbekistan"
  },
  {
-   "Country": "Latvia"
+   "Country": "Azerbaijan"
  },
  {
    "Country": "Ghana"
@@ -240,7 +213,43 @@
    "Country": "Singapore"
  },
  {
-   "Country": "Bolivia"
+   "Country": "New Zealand"
+ },
+ {
+   "Country": "Zimbabwe"
+ },
+ {
+   "Country": "Nigeria"
+ },
+ {
+   "Country": "North Macedonia"
+ },
+ {
+   "Country": "Chile"
+ },
+ {
+   "Country": "Angola"
+ },
+ {
+   "Country": "Guatemala"
+ },
+ {
+   "Country": "Uganda"
+ },
+ {
+   "Country": "Myanmar"
+ },
+ {
+   "Country": "Trinidad and Tobago"
+ },
+ {
+   "Country": "Namibia"
+ },
+ {
+   "Country": "Cambodia"
+ },
+ {
+   "Country": "Latvia"
  },
  {
    "Country": "Albania"
@@ -252,18 +261,12 @@
    "Country": "Sri Lanka"
  },
  {
-   "Country": "North Macedonia"
- },
- {
-   "Country": "Guatemala"
- },
- {
    "Country": "Ethiopia"
  },
  {
-   "Country": "Mozambique"
+   "Country": "Bolivia"
  },
  {
-   "Country": "Uganda"
+   "Country": "Mozambique"
  }
 ]
