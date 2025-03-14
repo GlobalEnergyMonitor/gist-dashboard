@@ -7,7 +7,7 @@
     ],
     "input_type": "dropdown",
     "input_filter": "Country",
-    "input_default": "China",
+    "input_default": "Global",
     "overall_summary": false,
     "ticker_text_font-size": "1.75rem",
     "ticker_data": "2025-GIST/gist_data_ticker",
