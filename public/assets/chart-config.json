@@ -9,7 +9,7 @@
              "Other or unspecified"
         ],
         "dataset": "2025-GIST/gist_ironmaking",
-        "initial_state": "China",
+        "initial_state": "Global",
         "filterable": true,
         "filter_by": "Country"
     },
@@ -23,7 +23,7 @@
             "Other or unspecified"
         ],
         "dataset": "2025-GIST/gist_steelmaking",
-        "initial_state": "China",
+        "initial_state": "Global",
         "filterable": true,
         "filter_by": "Country"
     },
@@ -38,7 +38,7 @@
             "Electric arc furnace (EAF)"
         ],
         "dataset": "2025-GIST/gist_age_tech",
-        "initial_state": "China",
+        "initial_state": "Global",
         "filterable": true,
         "filter_by": "Country"
     },
@@ -50,7 +50,7 @@
            "Change"
         ],
         "dataset": "2025-GIST/gist_change",
-        "initial_state": "China",
+        "initial_state": "Global",
         "filterable": true,
         "filter_by": "Country"
     }
