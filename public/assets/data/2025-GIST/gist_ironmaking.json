@@ -234,7 +234,7 @@
    "Country": "Bolivia",
    "Status": "operating",
    "Blast furnace (BF)": 0,
-   "Direct reduced iron (DRI)": 0,
+   "Direct reduced iron (DRI)": 250,
    "Other or unspecified": 0
  },
  {
@@ -248,7 +248,7 @@
    "Country": "Bolivia",
    "Status": "construction",
    "Blast furnace (BF)": 0,
-   "Direct reduced iron (DRI)": 250,
+   "Direct reduced iron (DRI)": 0,
    "Other or unspecified": 0
  },
  {
@@ -289,7 +289,7 @@
  {
    "Country": "Brazil",
    "Status": "construction",
-   "Blast furnace (BF)": 1200,
+   "Blast furnace (BF)": 0,
    "Direct reduced iron (DRI)": 0,
    "Other or unspecified": 500
  },
@@ -388,7 +388,7 @@
    "Country": "China",
    "Status": "announced",
    "Blast furnace (BF)": 55696,
-   "Direct reduced iron (DRI)": 1000,
+   "Direct reduced iron (DRI)": 2600,
    "Other or unspecified": 680
  },
  {
@@ -737,7 +737,7 @@
  {
    "Country": "Japan",
    "Status": "operating",
-   "Blast furnace (BF)": 85514,
+   "Blast furnace (BF)": 80668,
    "Direct reduced iron (DRI)": 776,
    "Other or unspecified": 0
  },
@@ -751,7 +751,7 @@
  {
    "Country": "Japan",
    "Status": "construction",
-   "Blast furnace (BF)": 50,
+   "Blast furnace (BF)": 0,
    "Direct reduced iron (DRI)": 0,
    "Other or unspecified": 0
  },
@@ -1011,7 +1011,7 @@
    "Country": "Namibia",
    "Status": "operating",
    "Blast furnace (BF)": 0,
-   "Direct reduced iron (DRI)": 0,
+   "Direct reduced iron (DRI)": 1000,
    "Other or unspecified": 0
  },
  {
@@ -1025,7 +1025,7 @@
    "Country": "Namibia",
    "Status": "construction",
    "Blast furnace (BF)": 0,
-   "Direct reduced iron (DRI)": 1000,
+   "Direct reduced iron (DRI)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1774,7 +1774,7 @@
    "Country": "United States",
    "Status": "announced",
    "Blast furnace (BF)": 0,
-   "Direct reduced iron (DRI)": 4500,
+   "Direct reduced iron (DRI)": 2000,
    "Other or unspecified": 0
  },
  {
@@ -1871,22 +1871,22 @@
  {
    "Country": "Global",
    "Status": "operating",
-   "Blast furnace (BF)": 1480233,
-   "Direct reduced iron (DRI)": 155310,
+   "Blast furnace (BF)": 1475387,
+   "Direct reduced iron (DRI)": 156560,
    "Other or unspecified": 9327
  },
  {
    "Country": "Global",
    "Status": "announced",
    "Blast furnace (BF)": 222376,
-   "Direct reduced iron (DRI)": 167747,
+   "Direct reduced iron (DRI)": 166847,
    "Other or unspecified": 8680
  },
  {
    "Country": "Global",
    "Status": "construction",
-   "Blast furnace (BF)": 80407,
-   "Direct reduced iron (DRI)": 47612,
+   "Blast furnace (BF)": 79157,
+   "Direct reduced iron (DRI)": 46362,
    "Other or unspecified": 16150
  }
 ]
