@@ -20,6 +20,7 @@
         "values": [
             "Basic oxygen furnace (BOF)",
             "Electric arc furnace (EAF)",
+            "Induction furnace (IF)",
             "Other or unspecified"
         ],
         "dataset": "2025-GIST/gist_steelmaking",
