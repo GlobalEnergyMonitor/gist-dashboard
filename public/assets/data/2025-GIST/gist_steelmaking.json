@@ -4,6 +4,7 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -11,6 +12,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 1000,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -18,6 +20,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -25,6 +28,7 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 8690,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -32,6 +36,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 4400,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -39,6 +44,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -46,13 +52,15 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
-   "Other or unspecified": 500
+   "Induction furnace (IF)": 500,
+   "Other or unspecified": 0
  },
  {
    "Country": "Angola",
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 1000,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -60,6 +68,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -67,6 +76,7 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 3501,
    "Electric arc furnace (EAF)": 4370,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -74,6 +84,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -81,6 +92,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -88,6 +100,7 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 4400,
    "Electric arc furnace (EAF)": 1530,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -95,6 +108,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 7500,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -102,6 +116,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -109,6 +124,7 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 7570,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -116,6 +132,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -123,6 +140,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 3300,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -130,6 +148,7 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 800,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -137,6 +156,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -144,6 +164,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -151,6 +172,7 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 1300,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -158,6 +180,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -165,6 +188,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -172,13 +196,15 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 3040,
-   "Other or unspecified": 2131
+   "Induction furnace (IF)": 2131,
+   "Other or unspecified": 0
  },
  {
    "Country": "Bangladesh",
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -186,6 +212,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 3650,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -193,6 +220,7 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 3000,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -200,6 +228,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -207,6 +236,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -214,6 +244,7 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 5200,
    "Electric arc furnace (EAF)": 3000,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -221,6 +252,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -228,6 +260,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -235,6 +268,7 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 200,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -242,6 +276,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 500,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -249,6 +284,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -256,6 +292,7 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 1140,
    "Electric arc furnace (EAF)": 800,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -263,6 +300,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -270,6 +308,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -277,6 +316,7 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 32497,
    "Electric arc furnace (EAF)": 10420,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -284,6 +324,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 500,
    "Electric arc furnace (EAF)": 1100,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -291,6 +332,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 700,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -298,6 +340,7 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 1400,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -305,6 +348,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -312,6 +356,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -319,6 +364,7 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -326,6 +372,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -333,6 +380,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -340,6 +388,7 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 5800,
    "Electric arc furnace (EAF)": 8750,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -347,6 +396,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 2400,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -354,6 +404,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 1850,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -361,6 +412,7 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 520,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -368,6 +420,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -375,6 +428,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -382,13 +436,15 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 885642,
    "Electric arc furnace (EAF)": 187606,
-   "Other or unspecified": 240
+   "Induction furnace (IF)": 240,
+   "Other or unspecified": 0
  },
  {
    "Country": "China",
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 44565,
    "Electric arc furnace (EAF)": 19470,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -396,6 +452,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 23005,
    "Electric arc furnace (EAF)": 23897,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 1200
  },
  {
@@ -403,6 +460,7 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 2600,
    "Electric arc furnace (EAF)": 200,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -410,6 +468,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 1300,
    "Electric arc furnace (EAF)": 1300,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -417,6 +476,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 3500,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -424,6 +484,7 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 15560,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -431,6 +492,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 2000,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -438,6 +500,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -445,6 +508,7 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -452,6 +516,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -459,6 +524,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -466,6 +532,7 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 2600,
    "Electric arc furnace (EAF)": 1775,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -473,6 +540,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 5100,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -480,6 +548,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -487,6 +556,7 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 11850,
    "Electric arc furnace (EAF)": 5600,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -494,6 +564,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 5450,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -501,6 +572,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -508,6 +580,7 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 31520,
    "Electric arc furnace (EAF)": 13200,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -515,6 +588,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 12350,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -522,6 +596,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 1900,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -529,6 +604,7 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 800,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -536,6 +612,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -543,6 +620,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -550,6 +628,7 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 3150,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -557,6 +636,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -564,6 +644,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -571,6 +652,7 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 500,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -578,6 +660,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -585,6 +668,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -592,6 +676,7 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -599,6 +684,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 700,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -606,6 +692,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -613,6 +700,7 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -620,6 +708,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -627,6 +716,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -634,27 +724,31 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 85663,
    "Electric arc furnace (EAF)": 26578,
-   "Other or unspecified": 28218
+   "Induction furnace (IF)": 13768,
+   "Other or unspecified": 14450
  },
  {
    "Country": "India",
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 196442,
    "Electric arc furnace (EAF)": 37130,
-   "Other or unspecified": 102284
+   "Induction furnace (IF)": 17594,
+   "Other or unspecified": 84690
  },
  {
    "Country": "India",
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 15992,
    "Electric arc furnace (EAF)": 3244,
-   "Other or unspecified": 2064
+   "Induction furnace (IF)": 2064,
+   "Other or unspecified": 0
  },
  {
    "Country": "Indonesia",
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 11980,
    "Electric arc furnace (EAF)": 9420,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -662,6 +756,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 21000,
    "Electric arc furnace (EAF)": 1200,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 2000
  },
  {
@@ -669,6 +764,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -676,13 +772,15 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 5100,
    "Electric arc furnace (EAF)": 40723,
-   "Other or unspecified": 1935
+   "Induction furnace (IF)": 1935,
+   "Other or unspecified": 0
  },
  {
    "Country": "Iran",
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 2280,
    "Electric arc furnace (EAF)": 32120,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -690,6 +788,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 15813,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -697,6 +796,7 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 3180,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -704,6 +804,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -711,6 +812,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -718,6 +820,7 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 7800,
    "Electric arc furnace (EAF)": 23936,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -725,6 +828,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 8080,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -732,6 +836,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 3000,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -739,6 +844,7 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 76812,
    "Electric arc furnace (EAF)": 28788,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -746,6 +852,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 6000,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -753,6 +860,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -760,6 +868,7 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 6000,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -767,6 +876,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 818,
    "Electric arc furnace (EAF)": 4200,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 5000
  },
  {
@@ -774,6 +884,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 1200,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -781,6 +892,7 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 1000,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -788,6 +900,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -795,6 +908,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -802,6 +916,7 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 1200,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -809,6 +924,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -816,6 +932,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -823,6 +940,7 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -830,6 +948,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -837,6 +956,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -844,6 +964,7 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 1710,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -851,6 +972,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 2700,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -858,6 +980,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -865,6 +988,7 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 2600,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -872,6 +996,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -879,6 +1004,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -886,20 +1012,23 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 6200,
    "Electric arc furnace (EAF)": 4920,
-   "Other or unspecified": 800
+   "Induction furnace (IF)": 800,
+   "Other or unspecified": 0
  },
  {
    "Country": "Malaysia",
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 11600,
    "Electric arc furnace (EAF)": 500,
-   "Other or unspecified": 9300
+   "Induction furnace (IF)": 500,
+   "Other or unspecified": 8800
  },
  {
    "Country": "Malaysia",
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -907,6 +1036,7 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -914,6 +1044,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 2500
  },
  {
@@ -921,6 +1052,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -928,6 +1060,7 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 2500,
    "Electric arc furnace (EAF)": 19891,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -935,6 +1068,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 1500,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -942,6 +1076,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 4750,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -949,6 +1084,7 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -956,6 +1092,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -963,6 +1100,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -970,6 +1108,7 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 3320,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -977,6 +1116,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -984,6 +1124,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -991,6 +1132,7 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -998,6 +1140,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1005,6 +1148,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 500,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1012,6 +1156,7 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 400,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1019,6 +1164,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 4000,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1026,6 +1172,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1033,6 +1180,7 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1040,6 +1188,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1047,6 +1196,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 4500,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1054,6 +1204,7 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 7500,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1061,6 +1212,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 6580,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1068,6 +1220,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1075,6 +1228,7 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 670,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1082,6 +1236,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1089,6 +1244,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 650,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1096,6 +1252,7 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 600,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1103,6 +1260,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 3000,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 1500
  },
  {
@@ -1110,6 +1268,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 1300,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 1000
  },
  {
@@ -1117,6 +1276,7 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 4500,
    "Electric arc furnace (EAF)": 3502,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 2250
  },
  {
@@ -1124,6 +1284,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1131,6 +1292,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1138,6 +1300,7 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 550,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1145,6 +1308,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1152,6 +1316,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1159,6 +1324,7 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 770,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1166,6 +1332,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1173,6 +1340,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1180,6 +1348,7 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 3200,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1187,6 +1356,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1194,6 +1364,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 5100,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1201,27 +1372,31 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 450,
-   "Other or unspecified": 2048
+   "Induction furnace (IF)": 2048,
+   "Other or unspecified": 0
  },
  {
    "Country": "Pakistan",
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 1280,
-   "Other or unspecified": 1183
+   "Induction furnace (IF)": 183,
+   "Other or unspecified": 1000
  },
  {
    "Country": "Pakistan",
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
-   "Other or unspecified": 1000
+   "Induction furnace (IF)": 500,
+   "Other or unspecified": 500
  },
  {
    "Country": "Peru",
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 2000,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1229,6 +1404,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1236,6 +1412,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1243,6 +1420,7 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 2000,
    "Electric arc furnace (EAF)": 2100,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1250,6 +1428,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 6500,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1257,6 +1436,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 3300,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 1500
  },
  {
@@ -1264,6 +1444,7 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 5001,
    "Electric arc furnace (EAF)": 5010,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1271,6 +1452,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1278,6 +1460,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1285,6 +1468,7 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 1700,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1292,6 +1476,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1299,6 +1484,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1306,6 +1492,7 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 2900,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1313,6 +1500,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1320,6 +1508,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1327,6 +1516,7 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 1335,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1334,6 +1524,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 5300,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1341,6 +1532,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 300,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1348,6 +1540,7 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 51660,
    "Electric arc furnace (EAF)": 33355,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1355,6 +1548,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 1141,
    "Electric arc furnace (EAF)": 1470,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1362,6 +1556,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 4030,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1369,13 +1564,15 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 11650,
-   "Other or unspecified": 350
+   "Induction furnace (IF)": 350,
+   "Other or unspecified": 0
  },
  {
    "Country": "Saudi Arabia",
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 20100,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 4000
  },
  {
@@ -1383,6 +1580,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 630,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1390,6 +1588,7 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 2199,
    "Electric arc furnace (EAF)": 500,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1397,6 +1596,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1404,6 +1604,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1411,6 +1612,7 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 750,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1418,6 +1620,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1425,6 +1628,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1432,6 +1636,7 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 4500,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1439,6 +1644,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1446,6 +1652,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1453,6 +1660,7 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 726,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1460,6 +1668,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1467,6 +1676,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1474,6 +1684,7 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 3360,
    "Electric arc furnace (EAF)": 1450,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1481,6 +1692,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 1700,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1488,6 +1700,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1495,6 +1708,7 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 53000,
    "Electric arc furnace (EAF)": 27885,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1502,6 +1716,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 3500,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1509,6 +1724,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 2500,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1516,6 +1732,7 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 5400,
    "Electric arc furnace (EAF)": 13440,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1523,6 +1740,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 2600,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1530,6 +1748,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 1100,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1537,6 +1756,7 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1544,6 +1764,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1551,6 +1772,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 600,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1558,6 +1780,7 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 3800,
    "Electric arc furnace (EAF)": 1013,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1565,6 +1788,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 2500,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1572,6 +1796,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 6500,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1579,6 +1804,7 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 1370,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1586,6 +1812,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1593,6 +1820,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1600,6 +1828,7 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 2400,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1607,6 +1836,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1614,6 +1844,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1621,6 +1852,7 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 15001,
    "Electric arc furnace (EAF)": 9700,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1628,6 +1860,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 1500,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1635,6 +1868,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1642,13 +1876,15 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 8555,
-   "Other or unspecified": 730
+   "Induction furnace (IF)": 730,
+   "Other or unspecified": 0
  },
  {
    "Country": "Thailand",
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 2500,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1656,6 +1892,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1663,6 +1900,7 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1670,6 +1908,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1677,6 +1916,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1684,6 +1924,7 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 200,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1691,6 +1932,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 400,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1698,6 +1940,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1705,6 +1948,7 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 13102,
    "Electric arc furnace (EAF)": 43230,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1712,6 +1956,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 10150,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1719,6 +1964,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 2000,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1726,6 +1972,7 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 600,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1733,6 +1980,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 1000,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1740,6 +1988,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1747,13 +1996,15 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 12255,
    "Electric arc furnace (EAF)": 3303,
-   "Other or unspecified": 4119
+   "Induction furnace (IF)": 17,
+   "Other or unspecified": 4102
  },
  {
    "Country": "Ukraine",
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1761,6 +2012,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1768,13 +2020,15 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 4500,
-   "Other or unspecified": 600
+   "Induction furnace (IF)": 600,
+   "Other or unspecified": 0
  },
  {
    "Country": "United Arab Emirates",
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1782,6 +2036,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1789,6 +2044,7 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 4500,
    "Electric arc furnace (EAF)": 1500,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1796,6 +2052,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 1330,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1803,6 +2060,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 3200,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1810,6 +2068,7 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 29301,
    "Electric arc furnace (EAF)": 81545,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1817,6 +2076,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 7700,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1824,6 +2084,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 3740,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1831,6 +2092,7 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 1100,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1838,6 +2100,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 1500,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1845,6 +2108,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 1040,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1852,6 +2116,7 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 1020,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1859,6 +2124,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1866,6 +2132,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1873,13 +2140,15 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 25574,
    "Electric arc furnace (EAF)": 9502,
-   "Other or unspecified": 4850
+   "Induction furnace (IF)": 4350,
+   "Other or unspecified": 500
  },
  {
    "Country": "Vietnam",
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 14000,
    "Electric arc furnace (EAF)": 12900,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 8000
  },
  {
@@ -1887,6 +2156,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 500,
    "Electric arc furnace (EAF)": 3310,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1894,6 +2164,7 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 600,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1901,6 +2172,7 @@
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 1200,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 3200
  },
  {
@@ -1908,6 +2180,7 @@
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 0,
    "Electric arc furnace (EAF)": 0,
+   "Induction furnace (IF)": 0,
    "Other or unspecified": 0
  },
  {
@@ -1915,20 +2188,23 @@
    "Status": "operating",
    "Basic oxygen furnace (BOF)": 1440698,
    "Electric arc furnace (EAF)": 726888,
-   "Other or unspecified": 48771
+   "Induction furnace (IF)": 27469,
+   "Other or unspecified": 21302
  },
  {
    "Country": "Global",
    "Status": "announced",
    "Basic oxygen furnace (BOF)": 298646,
    "Electric arc furnace (EAF)": 251410,
-   "Other or unspecified": 138967
+   "Induction furnace (IF)": 18277,
+   "Other or unspecified": 120690
  },
  {
    "Country": "Global",
    "Status": "construction",
    "Basic oxygen furnace (BOF)": 41397,
    "Electric arc furnace (EAF)": 109204,
-   "Other or unspecified": 6764
+   "Induction furnace (IF)": 2564,
+   "Other or unspecified": 4200
  }
 ]
