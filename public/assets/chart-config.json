@@ -31,20 +31,9 @@
         "filterable": true,
         "filter_by": "Country"
     },
-    "19757609": {
-        "title": "Age breakdown of iron and steel plant capacity",
-        "subtitle": "Operating iron and steelmaking capacity, by unit age group and technology type",
-        "x_axis": "Age group",
-        "values": [
-            "Blast furnace (BF)",
-            "Direct reduced iron (DRI)",
-            "Basic oxygen furnace (BOF)",
-            "Electric arc furnace (EAF)"
-        ],
-        "dataset": "2025-GIST/gist_age_tech",
-        "initial_state": "Global",
-        "filterable": true,
-        "filter_by": "Country"
+    "28102005": {
+        "title": "Coal-based investments",
+        "subtitle": "Planned coal-based capacity development, compared against planned retirements, in million tonnes per year (mtpa)",
     },
     "19757876": {
         "title": "Iron and steelmaking capacity changes",
