@@ -32,8 +32,19 @@
         "filter_by": "Country"
     },
     "28102005": {
-        "title": "Coal-based investments",
-        "subtitle": "Planned coal-based capacity development, compared against planned retirements, in million tonnes per year (mtpa)",
+         "title": "Coal-based investments",
+        "subtitle": "Planned coal-based capacity development, compared against planned retirements",
+        "x_axis": "",
+        "values": [
+            "BF capacity in development",
+            "Coal-DRI capacity in development",
+            "Pre-retirement BF capacity",
+            "Existing BF capacity with planned or ongoing relining"
+        ],
+        "dataset": "2025-GIST/gist_coal",
+        "initial_state": "Global",
+        "filterable": true,
+        "filter_by": "Country"
     },
     "19757876": {
         "title": "Iron and steelmaking capacity changes",
