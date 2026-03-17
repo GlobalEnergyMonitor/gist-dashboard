@@ -31,7 +31,7 @@ async function getData() {
                 config.datasets[id] = [];
             })
             if (config.dashboard.tickers) {
-                dataURLS.push('https://public.flourish.studio/visualisation/16565310/visualisation.json') // this assumes we want the same template for all tickers
+                dataURLS.push('https://public.flourish.studio/visualisation/16565310/visualisation.json')
                 dataURLS.push(`./assets/data/${config.dashboard.ticker_data}.json`)
                 config.datasets.ticker = {};
             }
@@ -61,7 +61,6 @@ async function getData() {
                     if (config.dashboard.input_type === 'dropdown') implementDropdown();
                     if (config.dashboard.input_type === 'buttons') implementFilterButtons();
                     if (config.text.footer) document.querySelector('.dashboard-footer').innerHTML = markdownToHTML(config.text.footer);
-                    // add another to implement combo
                 })
                 .then(() => renderTickers())
                 .then(() => renderVisualisation())
@@ -133,7 +132,6 @@ function implementFilterButtons() {
         const btn = document.createElement('input');
         btn.type = 'radio';
         if (i === 0) btn.checked = "checked";
-        // btn.classList.add('filter-button');
         btn.value = formatName(button);
         btn.id = formatName(button);
         btn.text = button;
@@ -175,7 +173,7 @@ function renderTickers() {
         } = config.datasets.ticker.flourish_template;
         if (config.dashboard["ticker_text_font-size"]) {
             const tickerTextSplit = config.dashboard["ticker_text_font-size"]
-                .match(/[a-zA-Z]+|[0-9]+(?:\.[0-9]+)?|\.[0-9]+/g); // grab text size from config and split into size and unit needed in flourish:
+                .match(/[a-zA-Z]+|[0-9]+(?:\.[0-9]+)?|\.[0-9]+/g);
             state.font_size = tickerTextSplit[0];
             state.font_unit = tickerTextSplit[1]
         }
@@ -184,7 +182,7 @@ function renderTickers() {
             template: "@flourish/number-ticker",
             version: '1.5.1',
             api_url: "/flourish",
-            api_key: "", //filled in server side
+            api_key: "",
             state: {
                 ...state
             }
@@ -214,7 +212,7 @@ function renderTickers() {
                 }
             }
             tickers[id].flourish = new Flourish.Live(tickers[id].options);
-            tickers[id].flourish.iframe.style.width = "100%"; // needed to override full width in safari
+            tickers[id].flourish.iframe.style.width = "100%";
         });
     }
 }
@@ -331,20 +329,17 @@ function implentGraph(id) {
     .then((options) => {
         graphs[id].opts = {
             ...options,
-            // template: "@flourish/line-bar-pie",
-            // version: 25,
             container: `#chart-${id}`,
             api_url: "/flourish",
-            api_key: "", //filled in server side
+            api_key: "",
             base_visualisation_id: id,
             bindings: {
                 ...options.bindings,
                 data: {
                     ...options.bindings.data,
-                    ...(config.charts[id].x_axis && { label: config.charts[id].x_axis }),
+                    ...(config.charts[id].x_axis && { label: config.charts[id].x_axis }), // ← FIXED: skip label if x_axis is empty
                     value: config.charts[id].values,
                 }
-            },
             },
             data: {
                 ...options.data,
@@ -359,9 +354,6 @@ function implentGraph(id) {
             }
         };
         if (options.template === "@flourish/line-bar-pie") graphs[id].opts.version = 25;
-        // if (config.charts[id].filterable) {
-        //     graphs[id].opts.bindings.data.metadata = config.charts[id].pop_up; // this is pop ups, can have multiple values
-        // }
         graphs[id].flourish = new Flourish.Live(graphs[id].opts);
     });
 }
@@ -384,8 +376,6 @@ function updateGraphs(key) {
                 graphs[id].opts.data = {
                     data: filteredData
                 };
-                // const replacementString = key === currentGraph.initial_state.toLowerCase() ? chart_title_variation_initial : chart_title_variation_filtered.replace(chart_title_flag, filteredData[0].Country);
-                // graphs[id].opts.state.layout.title = currentGraph.title.replace('', ` ${replacementString}?`)
                 graphs[id].flourish.update(graphs[id].opts)
                 document.querySelector(`#chart-${id} iframe`).style.opacity = 1;
             } else {
