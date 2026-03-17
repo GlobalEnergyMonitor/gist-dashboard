@@ -36,11 +36,11 @@
         "subtitle": "Planned coal-based capacity development, compared against planned retirements",
         "x_axis": "",
         "values": [
+            "Net coal-based capacity investment",
             "BF capacity in development",
             "Coal-DRI capacity in development",
             "Pre-retirement BF capacity",
-            "Existing BF capacity with planned or ongoing relining",
-            "Net coal-based capacity investment"
+            "Existing BF capacity with planned or ongoing relining"
         ],
         "dataset": "2025-GIST/gist_coal",
         "initial_state": "Global",
