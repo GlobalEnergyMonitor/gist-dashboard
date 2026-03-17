@@ -337,7 +337,7 @@ function implentGraph(id) {
                 ...options.bindings,
                 data: {
                     ...options.bindings.data,
-                    ...(config.charts[id].x_axis && { label: config.charts[id].x_axis }), // ← FIXED: skip label if x_axis is empty
+                    ...(config.charts[id].x_axis && { label: config.charts[id].x_axis }), // FIX 1: skip label if x_axis is empty
                     value: config.charts[id].values,
                 }
             },
@@ -417,7 +417,7 @@ function filterDataOnColumnName(key, id) {
     filteredData = config.datasets[id].map(entry => {
         let output = {};
         output[filterValue] = entry[filterValue];
-        output[x_value] = entry[x_value];
+        if (x_value) output[x_value] = entry[x_value]; // FIX 2: skip if x_axis is empty
         return output;
     });
     return filteredData;
@@ -447,7 +447,7 @@ function getSelectedButton() {
 }
 
 function markdownToHTML(string) {
-    return converter.makeHtml(string).replace(/<\/?p[^>]*>/g, '');;
+    return converter.makeHtml(string).replace(/<\/?p[^>]*>/g, '');
 }
 
 function addExtraVisualisations() {
