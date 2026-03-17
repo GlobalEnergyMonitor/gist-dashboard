@@ -337,7 +337,7 @@ function implentGraph(id) {
                 ...options.bindings,
                 data: {
                     ...options.bindings.data,
-                    ...(config.charts[id].x_axis && { label: getColumnIndex(id, config.charts[id].x_axis) }) // FIX 1: skip label if x_axis is empty
+                    ...(config.charts[id].x_axis && { label: getColumnIndex(id, config.charts[id].x_axis) }), // FIX 1: skip label if x_axis is empty
                     value: config.charts[id].values.map(col => getColumnIndex(id, col)),
                 }
             },
