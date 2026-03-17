@@ -1,7 +1,7 @@
 [
  {
    "Technology": "Electric arc furnace (EAF)",
-   "Change": 0,
+   "Change": 4800,
    "Type": "Steel",
    "Country": "Türkiye"
  },
@@ -13,19 +13,19 @@
  },
  {
    "Technology": "Electric arc furnace (EAF)",
-   "Change": 2722,
+   "Change": 1800,
    "Type": "Steel",
    "Country": "Russia"
  },
  {
    "Technology": "Electric arc furnace (EAF)",
-   "Change": 0,
+   "Change": 2250,
    "Type": "Steel",
    "Country": "Bangladesh"
  },
  {
    "Technology": "Electric arc furnace (EAF)",
-   "Change": 0,
+   "Change": 1350,
    "Type": "Steel",
    "Country": "Italy"
  },
@@ -43,7 +43,7 @@
  },
  {
    "Technology": "Electric arc furnace (EAF)",
-   "Change": 0,
+   "Change": 1100,
    "Type": "Steel",
    "Country": "Spain"
  },
@@ -55,7 +55,7 @@
  },
  {
    "Technology": "Electric arc furnace (EAF)",
-   "Change": 0,
+   "Change": 2341,
    "Type": "Steel",
    "Country": "India"
  },
@@ -67,7 +67,7 @@
  },
  {
    "Technology": "Electric arc furnace (EAF)",
-   "Change": 0,
+   "Change": -1900,
    "Type": "Steel",
    "Country": "Germany"
  },
@@ -85,13 +85,13 @@
  },
  {
    "Technology": "Electric arc furnace (EAF)",
-   "Change": 1500,
+   "Change": 1650,
    "Type": "Steel",
    "Country": "Iran"
  },
  {
    "Technology": "Electric arc furnace (EAF)",
-   "Change": 0,
+   "Change": 1315,
    "Type": "Steel",
    "Country": "Japan"
  },
@@ -103,7 +103,7 @@
  },
  {
    "Technology": "Electric arc furnace (EAF)",
-   "Change": 0,
+   "Change": 580,
    "Type": "Steel",
    "Country": "Iraq"
  },
@@ -133,7 +133,7 @@
  },
  {
    "Technology": "Electric arc furnace (EAF)",
-   "Change": 0,
+   "Change": 1850,
    "Type": "Steel",
    "Country": "Canada"
  },
@@ -145,19 +145,19 @@
  },
  {
    "Technology": "Electric arc furnace (EAF)",
-   "Change": 800,
+   "Change": 4026,
    "Type": "Steel",
    "Country": "United States"
  },
  {
    "Technology": "Electric arc furnace (EAF)",
-   "Change": 0,
+   "Change": 4100,
    "Type": "Steel",
    "Country": "Mexico"
  },
  {
    "Technology": "Electric arc furnace (EAF)",
-   "Change": 7013,
+   "Change": 9179,
    "Type": "Steel",
    "Country": "China"
  },
@@ -169,13 +169,13 @@
  },
  {
    "Technology": "Electric arc furnace (EAF)",
-   "Change": 0,
+   "Change": -2500,
    "Type": "Steel",
    "Country": "Belgium"
  },
  {
    "Technology": "Electric arc furnace (EAF)",
-   "Change": 0,
+   "Change": 1700,
    "Type": "Steel",
    "Country": "Brazil"
  },
@@ -199,19 +199,19 @@
  },
  {
    "Technology": "Electric arc furnace (EAF)",
-   "Change": 0,
+   "Change": 250,
    "Type": "Steel",
    "Country": "Luxembourg"
  },
  {
    "Technology": "Electric arc furnace (EAF)",
-   "Change": 0,
+   "Change": -3075,
    "Type": "Steel",
    "Country": "France"
  },
  {
    "Technology": "Electric arc furnace (EAF)",
-   "Change": 950,
+   "Change": -500,
    "Type": "Steel",
    "Country": "Romania"
  },
@@ -247,7 +247,7 @@
  },
  {
    "Technology": "Electric arc furnace (EAF)",
-   "Change": 0,
+   "Change": 3500,
    "Type": "Steel",
    "Country": "Philippines"
  },
@@ -259,25 +259,25 @@
  },
  {
    "Technology": "Electric arc furnace (EAF)",
-   "Change": 0,
+   "Change": 2500,
    "Type": "Steel",
    "Country": "Finland"
  },
  {
    "Technology": "Electric arc furnace (EAF)",
-   "Change": 0,
+   "Change": 650,
    "Type": "Steel",
    "Country": "New Zealand"
  },
  {
    "Technology": "Electric arc furnace (EAF)",
-   "Change": 0,
+   "Change": 5000,
    "Type": "Steel",
    "Country": "Australia"
  },
  {
    "Technology": "Electric arc furnace (EAF)",
-   "Change": 0,
+   "Change": -1650,
    "Type": "Steel",
    "Country": "United Kingdom"
  },
@@ -295,7 +295,7 @@
  },
  {
    "Technology": "Electric arc furnace (EAF)",
-   "Change": 300,
+   "Change": 0,
    "Type": "Steel",
    "Country": "Vietnam"
  },
@@ -319,7 +319,7 @@
  },
  {
    "Technology": "Electric arc furnace (EAF)",
-   "Change": 0,
+   "Change": 2500,
    "Type": "Steel",
    "Country": "South Korea"
  },
@@ -337,7 +337,7 @@
  },
  {
    "Technology": "Electric arc furnace (EAF)",
-   "Change": 0,
+   "Change": 200,
    "Type": "Steel",
    "Country": "Bolivia"
  },
@@ -367,21 +367,27 @@
  },
  {
    "Technology": "Electric arc furnace (EAF)",
-   "Change": 0,
+   "Change": 2500,
    "Type": "Steel",
    "Country": "Sweden"
  },
  {
    "Technology": "Electric arc furnace (EAF)",
-   "Change": 1550,
+   "Change": 0,
    "Type": "Steel",
    "Country": "Qatar"
  },
  {
    "Technology": "Electric arc furnace (EAF)",
-   "Change": 0,
+   "Change": 2500,
    "Type": "Steel",
    "Country": "Oman"
+ },
+ {
+   "Technology": "Electric arc furnace (EAF)",
+   "Change": 0,
+   "Type": "Steel",
+   "Country": "Mauritania"
  },
  {
    "Technology": "Electric arc furnace (EAF)",
@@ -415,7 +421,7 @@
  },
  {
    "Technology": "Electric arc furnace (EAF)",
-   "Change": 2700,
+   "Change": 0,
    "Type": "Steel",
    "Country": "Libya"
  },
@@ -439,7 +445,7 @@
  },
  {
    "Technology": "Electric arc furnace (EAF)",
-   "Change": 0,
+   "Change": 2540,
    "Type": "Steel",
    "Country": "Uzbekistan"
  },
@@ -535,7 +541,13 @@
  },
  {
    "Technology": "Electric arc furnace (EAF)",
-   "Change": 17535,
+   "Change": 0,
+   "Type": "Steel",
+   "Country": "Tunisia"
+ },
+ {
+   "Technology": "Electric arc furnace (EAF)",
+   "Change": 50556,
    "Type": "Steel",
    "Country": "Global"
  },
@@ -553,7 +565,7 @@
  },
  {
    "Technology": "Basic oxygen furnace (BOF)",
-   "Change": 0,
+   "Change": -1141,
    "Type": "Steel",
    "Country": "Russia"
  },
@@ -577,7 +589,7 @@
  },
  {
    "Technology": "Basic oxygen furnace (BOF)",
-   "Change": 0,
+   "Change": -1899,
    "Type": "Steel",
    "Country": "South Africa"
  },
@@ -595,7 +607,7 @@
  },
  {
    "Technology": "Basic oxygen furnace (BOF)",
-   "Change": 9600,
+   "Change": 29520,
    "Type": "Steel",
    "Country": "India"
  },
@@ -613,7 +625,7 @@
  },
  {
    "Technology": "Basic oxygen furnace (BOF)",
-   "Change": -3000,
+   "Change": 0,
    "Type": "Steel",
    "Country": "Pakistan"
  },
@@ -631,13 +643,13 @@
  },
  {
    "Technology": "Basic oxygen furnace (BOF)",
-   "Change": 0,
+   "Change": -1243,
    "Type": "Steel",
    "Country": "Japan"
  },
  {
    "Technology": "Basic oxygen furnace (BOF)",
-   "Change": 0,
+   "Change": 818,
    "Type": "Steel",
    "Country": "Kazakhstan"
  },
@@ -655,7 +667,7 @@
  },
  {
    "Technology": "Basic oxygen furnace (BOF)",
-   "Change": 0,
+   "Change": 3200,
    "Type": "Steel",
    "Country": "Ukraine"
  },
@@ -673,7 +685,7 @@
  },
  {
    "Technology": "Basic oxygen furnace (BOF)",
-   "Change": 0,
+   "Change": -3700,
    "Type": "Steel",
    "Country": "Canada"
  },
@@ -697,7 +709,7 @@
  },
  {
    "Technology": "Basic oxygen furnace (BOF)",
-   "Change": 7160,
+   "Change": -11912,
    "Type": "Steel",
    "Country": "China"
  },
@@ -787,7 +799,7 @@
  },
  {
    "Technology": "Basic oxygen furnace (BOF)",
-   "Change": 0,
+   "Change": 12000,
    "Type": "Steel",
    "Country": "Philippines"
  },
@@ -817,7 +829,7 @@
  },
  {
    "Technology": "Basic oxygen furnace (BOF)",
-   "Change": -5000,
+   "Change": 0,
    "Type": "Steel",
    "Country": "United Kingdom"
  },
@@ -835,7 +847,7 @@
  },
  {
    "Technology": "Basic oxygen furnace (BOF)",
-   "Change": 4200,
+   "Change": 3000,
    "Type": "Steel",
    "Country": "Vietnam"
  },
@@ -883,7 +895,7 @@
  },
  {
    "Technology": "Basic oxygen furnace (BOF)",
-   "Change": 0,
+   "Change": -3600,
    "Type": "Steel",
    "Country": "Czech Republic"
  },
@@ -922,6 +934,12 @@
    "Change": 0,
    "Type": "Steel",
    "Country": "Oman"
+ },
+ {
+   "Technology": "Basic oxygen furnace (BOF)",
+   "Change": 0,
+   "Type": "Steel",
+   "Country": "Mauritania"
  },
  {
    "Technology": "Basic oxygen furnace (BOF)",
@@ -1064,24 +1082,30 @@
  {
    "Technology": "Basic oxygen furnace (BOF)",
    "Change": 0,
-   "Type": "Steel",
+   "Type": "Iron",
    "Country": "Kuwait"
  },
  {
    "Technology": "Basic oxygen furnace (BOF)",
-   "Change": 0,
-   "Type": "Steel",
+   "Change": 720,
+   "Type": "Iron",
    "Country": "Austria"
  },
  {
    "Technology": "Basic oxygen furnace (BOF)",
-   "Change": 12960,
-   "Type": "Steel",
+   "Change": 0,
+   "Type": "Iron",
+   "Country": "Tunisia"
+ },
+ {
+   "Technology": "Basic oxygen furnace (BOF)",
+   "Change": 25763,
+   "Type": "Iron",
    "Country": "Global"
  },
  {
    "Technology": "Blast furnace (BF)",
-   "Change": 0,
+   "Change": 2800,
    "Type": "Iron",
    "Country": "Türkiye"
  },
@@ -1117,13 +1141,13 @@
  },
  {
    "Technology": "Blast furnace (BF)",
-   "Change": 0,
+   "Change": -2044,
    "Type": "Iron",
    "Country": "South Africa"
  },
  {
    "Technology": "Blast furnace (BF)",
-   "Change": 0,
+   "Change": -4700,
    "Type": "Iron",
    "Country": "Spain"
  },
@@ -1135,7 +1159,7 @@
  },
  {
    "Technology": "Blast furnace (BF)",
-   "Change": 9650,
+   "Change": 21922,
    "Type": "Iron",
    "Country": "India"
  },
@@ -1147,13 +1171,13 @@
  },
  {
    "Technology": "Blast furnace (BF)",
-   "Change": 0,
+   "Change": -3700,
    "Type": "Iron",
    "Country": "Germany"
  },
  {
    "Technology": "Blast furnace (BF)",
-   "Change": -1230,
+   "Change": 0,
    "Type": "Iron",
    "Country": "Pakistan"
  },
@@ -1171,13 +1195,13 @@
  },
  {
    "Technology": "Blast furnace (BF)",
-   "Change": 0,
+   "Change": -4846,
    "Type": "Iron",
    "Country": "Japan"
  },
  {
    "Technology": "Blast furnace (BF)",
-   "Change": 0,
+   "Change": 728,
    "Type": "Iron",
    "Country": "Kazakhstan"
  },
@@ -1213,7 +1237,7 @@
  },
  {
    "Technology": "Blast furnace (BF)",
-   "Change": 0,
+   "Change": -3800,
    "Type": "Iron",
    "Country": "Canada"
  },
@@ -1237,434 +1261,446 @@
  },
  {
    "Technology": "Blast furnace (BF)",
-   "Change": 16541,
+   "Change": -1184,
    "Type": "Iron",
    "Country": "China"
  },
  {
    "Technology": "Blast furnace (BF)",
+   "Change": 1000,
+   "Type": "Iron",
+   "Country": "Indonesia"
+ },
+ {
+   "Technology": "Blast furnace (BF)",
+   "Change": 0,
+   "Type": "Iron",
+   "Country": "Belgium"
+ },
+ {
+   "Technology": "Blast furnace (BF)",
+   "Change": 1200,
+   "Type": "Iron",
+   "Country": "Brazil"
+ },
+ {
+   "Technology": "Blast furnace (BF)",
+   "Change": 0,
+   "Type": "Iron",
+   "Country": "United Arab Emirates"
+ },
+ {
+   "Technology": "Blast furnace (BF)",
+   "Change": 0,
+   "Type": "Iron",
+   "Country": "Argentina"
+ },
+ {
+   "Technology": "Blast furnace (BF)",
+   "Change": 0,
+   "Type": "Iron",
+   "Country": "Poland"
+ },
+ {
+   "Technology": "Blast furnace (BF)",
+   "Change": 0,
+   "Type": "Iron",
+   "Country": "Luxembourg"
+ },
+ {
+   "Technology": "Blast furnace (BF)",
+   "Change": -2500,
+   "Type": "Iron",
+   "Country": "France"
+ },
+ {
+   "Technology": "Blast furnace (BF)",
+   "Change": 0,
+   "Type": "Iron",
+   "Country": "Romania"
+ },
+ {
+   "Technology": "Blast furnace (BF)",
+   "Change": 0,
+   "Type": "Iron",
+   "Country": "Morocco"
+ },
+ {
+   "Technology": "Blast furnace (BF)",
+   "Change": 0,
+   "Type": "Iron",
+   "Country": "Bosnia and Herzegovina"
+ },
+ {
+   "Technology": "Blast furnace (BF)",
+   "Change": 0,
+   "Type": "Iron",
+   "Country": "Chile"
+ },
+ {
+   "Technology": "Blast furnace (BF)",
+   "Change": 0,
+   "Type": "Iron",
+   "Country": "Azerbaijan"
+ },
+ {
+   "Technology": "Blast furnace (BF)",
+   "Change": 0,
+   "Type": "Iron",
+   "Country": "Thailand"
+ },
+ {
+   "Technology": "Blast furnace (BF)",
+   "Change": 1790,
+   "Type": "Iron",
+   "Country": "Philippines"
+ },
+ {
+   "Technology": "Blast furnace (BF)",
+   "Change": 0,
+   "Type": "Iron",
+   "Country": "Zimbabwe"
+ },
+ {
+   "Technology": "Blast furnace (BF)",
+   "Change": 0,
+   "Type": "Iron",
+   "Country": "Finland"
+ },
+ {
+   "Technology": "Blast furnace (BF)",
+   "Change": 0,
+   "Type": "Iron",
+   "Country": "New Zealand"
+ },
+ {
+   "Technology": "Blast furnace (BF)",
+   "Change": 0,
+   "Type": "Iron",
+   "Country": "Australia"
+ },
+ {
+   "Technology": "Blast furnace (BF)",
+   "Change": 0,
+   "Type": "Iron",
+   "Country": "United Kingdom"
+ },
+ {
+   "Technology": "Blast furnace (BF)",
+   "Change": 0,
+   "Type": "Iron",
+   "Country": "Belarus"
+ },
+ {
+   "Technology": "Blast furnace (BF)",
+   "Change": 0,
+   "Type": "Iron",
+   "Country": "Cambodia"
+ },
+ {
+   "Technology": "Blast furnace (BF)",
+   "Change": 2800,
+   "Type": "Iron",
+   "Country": "Vietnam"
+ },
+ {
+   "Technology": "Blast furnace (BF)",
+   "Change": 0,
+   "Type": "Iron",
+   "Country": "Taiwan"
+ },
+ {
+   "Technology": "Blast furnace (BF)",
+   "Change": 0,
+   "Type": "Iron",
+   "Country": "North Korea"
+ },
+ {
+   "Technology": "Blast furnace (BF)",
+   "Change": 0,
+   "Type": "Iron",
+   "Country": "Venezuela"
+ },
+ {
+   "Technology": "Blast furnace (BF)",
+   "Change": 0,
+   "Type": "Iron",
+   "Country": "South Korea"
+ },
+ {
+   "Technology": "Blast furnace (BF)",
+   "Change": 0,
+   "Type": "Iron",
+   "Country": "Kenya"
+ },
+ {
+   "Technology": "Blast furnace (BF)",
+   "Change": 0,
+   "Type": "Iron",
+   "Country": "Ethiopia"
+ },
+ {
+   "Technology": "Blast furnace (BF)",
+   "Change": 0,
+   "Type": "Iron",
+   "Country": "Bolivia"
+ },
+ {
+   "Technology": "Blast furnace (BF)",
+   "Change": 0,
+   "Type": "Iron",
+   "Country": "Czech Republic"
+ },
+ {
+   "Technology": "Blast furnace (BF)",
+   "Change": 0,
+   "Type": "Iron",
+   "Country": "Syria"
+ },
+ {
+   "Technology": "Blast furnace (BF)",
+   "Change": 0,
+   "Type": "Iron",
+   "Country": "Greece"
+ },
+ {
+   "Technology": "Blast furnace (BF)",
+   "Change": 0,
+   "Type": "Iron",
+   "Country": "Serbia"
+ },
+ {
+   "Technology": "Blast furnace (BF)",
+   "Change": 0,
+   "Type": "Iron",
+   "Country": "Sweden"
+ },
+ {
+   "Technology": "Blast furnace (BF)",
+   "Change": 0,
+   "Type": "Iron",
+   "Country": "Qatar"
+ },
+ {
+   "Technology": "Blast furnace (BF)",
+   "Change": 0,
+   "Type": "Iron",
+   "Country": "Oman"
+ },
+ {
+   "Technology": "Blast furnace (BF)",
+   "Change": 0,
+   "Type": "Iron",
+   "Country": "Mauritania"
+ },
+ {
+   "Technology": "Blast furnace (BF)",
+   "Change": 0,
+   "Type": "Iron",
+   "Country": "Moldova"
+ },
+ {
+   "Technology": "Blast furnace (BF)",
+   "Change": 0,
+   "Type": "Iron",
+   "Country": "Myanmar"
+ },
+ {
+   "Technology": "Blast furnace (BF)",
+   "Change": 0,
+   "Type": "Iron",
+   "Country": "Albania"
+ },
+ {
+   "Technology": "Blast furnace (BF)",
+   "Change": 0,
+   "Type": "Iron",
+   "Country": "Sri Lanka"
+ },
+ {
+   "Technology": "Blast furnace (BF)",
+   "Change": 0,
+   "Type": "Iron",
+   "Country": "Hungary"
+ },
+ {
+   "Technology": "Blast furnace (BF)",
+   "Change": 0,
+   "Type": "Iron",
+   "Country": "Libya"
+ },
+ {
+   "Technology": "Blast furnace (BF)",
+   "Change": 0,
+   "Type": "Iron",
+   "Country": "Latvia"
+ },
+ {
+   "Technology": "Blast furnace (BF)",
+   "Change": 0,
+   "Type": "Iron",
+   "Country": "North Macedonia"
+ },
+ {
+   "Technology": "Blast furnace (BF)",
+   "Change": 0,
+   "Type": "Iron",
+   "Country": "Slovakia"
+ },
+ {
+   "Technology": "Blast furnace (BF)",
+   "Change": 0,
+   "Type": "Iron",
+   "Country": "Uzbekistan"
+ },
+ {
+   "Technology": "Blast furnace (BF)",
+   "Change": 0,
+   "Type": "Iron",
+   "Country": "Singapore"
+ },
+ {
+   "Technology": "Blast furnace (BF)",
+   "Change": 0,
+   "Type": "Iron",
+   "Country": "Trinidad and Tobago"
+ },
+ {
+   "Technology": "Blast furnace (BF)",
+   "Change": 0,
+   "Type": "Iron",
+   "Country": "Ghana"
+ },
+ {
+   "Technology": "Blast furnace (BF)",
+   "Change": 0,
+   "Type": "Iron",
+   "Country": "Norway"
+ },
+ {
+   "Technology": "Blast furnace (BF)",
+   "Change": 0,
+   "Type": "Iron",
+   "Country": "Hong Kong"
+ },
+ {
+   "Technology": "Blast furnace (BF)",
+   "Change": 0,
+   "Type": "Iron",
+   "Country": "Slovenia"
+ },
+ {
+   "Technology": "Blast furnace (BF)",
+   "Change": 0,
+   "Type": "Iron",
+   "Country": "Portugal"
+ },
+ {
+   "Technology": "Blast furnace (BF)",
+   "Change": 0,
+   "Type": "Iron",
+   "Country": "Switzerland"
+ },
+ {
+   "Technology": "Blast furnace (BF)",
+   "Change": 0,
+   "Type": "Iron",
+   "Country": "Bulgaria"
+ },
+ {
+   "Technology": "Blast furnace (BF)",
+   "Change": 0,
+   "Type": "Iron",
+   "Country": "Bahrain"
+ },
+ {
+   "Technology": "Blast furnace (BF)",
+   "Change": 0,
+   "Type": "Iron",
+   "Country": "Netherlands"
+ },
+ {
+   "Technology": "Blast furnace (BF)",
+   "Change": 0,
+   "Type": "Iron",
+   "Country": "Uganda"
+ },
+ {
+   "Technology": "Blast furnace (BF)",
+   "Change": 0,
+   "Type": "Iron",
+   "Country": "Mozambique"
+ },
+ {
+   "Technology": "Blast furnace (BF)",
+   "Change": 0,
+   "Type": "Iron",
+   "Country": "Kuwait"
+ },
+ {
+   "Technology": "Blast furnace (BF)",
+   "Change": 0,
+   "Type": "Iron",
+   "Country": "Austria"
+ },
+ {
+   "Technology": "Blast furnace (BF)",
+   "Change": 0,
+   "Type": "Iron",
+   "Country": "Tunisia"
+ },
+ {
+   "Technology": "Blast furnace (BF)",
+   "Change": 9466,
+   "Type": "Iron",
+   "Country": "Global"
+ },
+ {
+   "Technology": "Direct reduced iron (DRI)",
+   "Change": 0,
+   "Type": "Iron",
+   "Country": "Türkiye"
+ },
+ {
+   "Technology": "Direct reduced iron (DRI)",
+   "Change": 1000,
+   "Type": "Iron",
+   "Country": "Namibia"
+ },
+ {
+   "Technology": "Direct reduced iron (DRI)",
+   "Change": 3400,
+   "Type": "Iron",
+   "Country": "Russia"
+ },
+ {
+   "Technology": "Direct reduced iron (DRI)",
+   "Change": 2200,
+   "Type": "Iron",
+   "Country": "Bangladesh"
+ },
+ {
+   "Technology": "Direct reduced iron (DRI)",
+   "Change": 0,
+   "Type": "Iron",
+   "Country": "Italy"
+ },
+ {
+   "Technology": "Direct reduced iron (DRI)",
+   "Change": 0,
+   "Type": "Iron",
+   "Country": "Angola"
+ },
+ {
+   "Technology": "Direct reduced iron (DRI)",
+   "Change": 0,
+   "Type": "Iron",
+   "Country": "South Africa"
+ },
+ {
+   "Technology": "Direct reduced iron (DRI)",
    "Change": 2000,
    "Type": "Iron",
-   "Country": "Indonesia"
- },
- {
-   "Technology": "Blast furnace (BF)",
-   "Change": 0,
-   "Type": "Iron",
-   "Country": "Belgium"
- },
- {
-   "Technology": "Blast furnace (BF)",
-   "Change": 0,
-   "Type": "Iron",
-   "Country": "Brazil"
- },
- {
-   "Technology": "Blast furnace (BF)",
-   "Change": 0,
-   "Type": "Iron",
-   "Country": "United Arab Emirates"
- },
- {
-   "Technology": "Blast furnace (BF)",
-   "Change": 0,
-   "Type": "Iron",
-   "Country": "Argentina"
- },
- {
-   "Technology": "Blast furnace (BF)",
-   "Change": 0,
-   "Type": "Iron",
-   "Country": "Poland"
- },
- {
-   "Technology": "Blast furnace (BF)",
-   "Change": 0,
-   "Type": "Iron",
-   "Country": "Luxembourg"
- },
- {
-   "Technology": "Blast furnace (BF)",
-   "Change": 0,
-   "Type": "Iron",
-   "Country": "France"
- },
- {
-   "Technology": "Blast furnace (BF)",
-   "Change": 0,
-   "Type": "Iron",
-   "Country": "Romania"
- },
- {
-   "Technology": "Blast furnace (BF)",
-   "Change": 0,
-   "Type": "Iron",
-   "Country": "Morocco"
- },
- {
-   "Technology": "Blast furnace (BF)",
-   "Change": 0,
-   "Type": "Iron",
-   "Country": "Bosnia and Herzegovina"
- },
- {
-   "Technology": "Blast furnace (BF)",
-   "Change": 0,
-   "Type": "Iron",
-   "Country": "Chile"
- },
- {
-   "Technology": "Blast furnace (BF)",
-   "Change": 0,
-   "Type": "Iron",
-   "Country": "Azerbaijan"
- },
- {
-   "Technology": "Blast furnace (BF)",
-   "Change": 0,
-   "Type": "Iron",
-   "Country": "Thailand"
- },
- {
-   "Technology": "Blast furnace (BF)",
-   "Change": 0,
-   "Type": "Iron",
-   "Country": "Philippines"
- },
- {
-   "Technology": "Blast furnace (BF)",
-   "Change": 600,
-   "Type": "Iron",
-   "Country": "Zimbabwe"
- },
- {
-   "Technology": "Blast furnace (BF)",
-   "Change": 0,
-   "Type": "Iron",
-   "Country": "Finland"
- },
- {
-   "Technology": "Blast furnace (BF)",
-   "Change": 0,
-   "Type": "Iron",
-   "Country": "New Zealand"
- },
- {
-   "Technology": "Blast furnace (BF)",
-   "Change": 0,
-   "Type": "Iron",
-   "Country": "Australia"
- },
- {
-   "Technology": "Blast furnace (BF)",
-   "Change": -4770,
-   "Type": "Iron",
-   "Country": "United Kingdom"
- },
- {
-   "Technology": "Blast furnace (BF)",
-   "Change": 0,
-   "Type": "Iron",
-   "Country": "Belarus"
- },
- {
-   "Technology": "Blast furnace (BF)",
-   "Change": 0,
-   "Type": "Iron",
-   "Country": "Cambodia"
- },
- {
-   "Technology": "Blast furnace (BF)",
-   "Change": 0,
-   "Type": "Iron",
-   "Country": "Vietnam"
- },
- {
-   "Technology": "Blast furnace (BF)",
-   "Change": 0,
-   "Type": "Iron",
-   "Country": "Taiwan"
- },
- {
-   "Technology": "Blast furnace (BF)",
-   "Change": 0,
-   "Type": "Iron",
-   "Country": "North Korea"
- },
- {
-   "Technology": "Blast furnace (BF)",
-   "Change": 0,
-   "Type": "Iron",
-   "Country": "Venezuela"
- },
- {
-   "Technology": "Blast furnace (BF)",
-   "Change": 0,
-   "Type": "Iron",
-   "Country": "South Korea"
- },
- {
-   "Technology": "Blast furnace (BF)",
-   "Change": 0,
-   "Type": "Iron",
-   "Country": "Kenya"
- },
- {
-   "Technology": "Blast furnace (BF)",
-   "Change": 0,
-   "Type": "Iron",
-   "Country": "Ethiopia"
- },
- {
-   "Technology": "Blast furnace (BF)",
-   "Change": 0,
-   "Type": "Iron",
-   "Country": "Bolivia"
- },
- {
-   "Technology": "Blast furnace (BF)",
-   "Change": 0,
-   "Type": "Iron",
-   "Country": "Czech Republic"
- },
- {
-   "Technology": "Blast furnace (BF)",
-   "Change": 0,
-   "Type": "Iron",
-   "Country": "Syria"
- },
- {
-   "Technology": "Blast furnace (BF)",
-   "Change": 0,
-   "Type": "Iron",
-   "Country": "Greece"
- },
- {
-   "Technology": "Blast furnace (BF)",
-   "Change": 0,
-   "Type": "Iron",
-   "Country": "Serbia"
- },
- {
-   "Technology": "Blast furnace (BF)",
-   "Change": 0,
-   "Type": "Iron",
-   "Country": "Sweden"
- },
- {
-   "Technology": "Blast furnace (BF)",
-   "Change": 0,
-   "Type": "Iron",
-   "Country": "Qatar"
- },
- {
-   "Technology": "Blast furnace (BF)",
-   "Change": 0,
-   "Type": "Iron",
-   "Country": "Oman"
- },
- {
-   "Technology": "Blast furnace (BF)",
-   "Change": 0,
-   "Type": "Iron",
-   "Country": "Moldova"
- },
- {
-   "Technology": "Blast furnace (BF)",
-   "Change": 0,
-   "Type": "Iron",
-   "Country": "Myanmar"
- },
- {
-   "Technology": "Blast furnace (BF)",
-   "Change": 0,
-   "Type": "Iron",
-   "Country": "Albania"
- },
- {
-   "Technology": "Blast furnace (BF)",
-   "Change": 0,
-   "Type": "Iron",
-   "Country": "Sri Lanka"
- },
- {
-   "Technology": "Blast furnace (BF)",
-   "Change": 0,
-   "Type": "Iron",
-   "Country": "Hungary"
- },
- {
-   "Technology": "Blast furnace (BF)",
-   "Change": 0,
-   "Type": "Iron",
-   "Country": "Libya"
- },
- {
-   "Technology": "Blast furnace (BF)",
-   "Change": 0,
-   "Type": "Iron",
-   "Country": "Latvia"
- },
- {
-   "Technology": "Blast furnace (BF)",
-   "Change": 0,
-   "Type": "Iron",
-   "Country": "North Macedonia"
- },
- {
-   "Technology": "Blast furnace (BF)",
-   "Change": 0,
-   "Type": "Iron",
-   "Country": "Slovakia"
- },
- {
-   "Technology": "Blast furnace (BF)",
-   "Change": 0,
-   "Type": "Iron",
-   "Country": "Uzbekistan"
- },
- {
-   "Technology": "Blast furnace (BF)",
-   "Change": 0,
-   "Type": "Iron",
-   "Country": "Singapore"
- },
- {
-   "Technology": "Blast furnace (BF)",
-   "Change": 0,
-   "Type": "Iron",
-   "Country": "Trinidad and Tobago"
- },
- {
-   "Technology": "Blast furnace (BF)",
-   "Change": 0,
-   "Type": "Iron",
-   "Country": "Ghana"
- },
- {
-   "Technology": "Blast furnace (BF)",
-   "Change": 0,
-   "Type": "Iron",
-   "Country": "Norway"
- },
- {
-   "Technology": "Blast furnace (BF)",
-   "Change": 0,
-   "Type": "Iron",
-   "Country": "Hong Kong"
- },
- {
-   "Technology": "Blast furnace (BF)",
-   "Change": 0,
-   "Type": "Iron",
-   "Country": "Slovenia"
- },
- {
-   "Technology": "Blast furnace (BF)",
-   "Change": 0,
-   "Type": "Iron",
-   "Country": "Portugal"
- },
- {
-   "Technology": "Blast furnace (BF)",
-   "Change": 0,
-   "Type": "Iron",
-   "Country": "Switzerland"
- },
- {
-   "Technology": "Blast furnace (BF)",
-   "Change": 0,
-   "Type": "Iron",
-   "Country": "Bulgaria"
- },
- {
-   "Technology": "Blast furnace (BF)",
-   "Change": 0,
-   "Type": "Iron",
-   "Country": "Bahrain"
- },
- {
-   "Technology": "Blast furnace (BF)",
-   "Change": 0,
-   "Type": "Iron",
-   "Country": "Netherlands"
- },
- {
-   "Technology": "Blast furnace (BF)",
-   "Change": 0,
-   "Type": "Iron",
-   "Country": "Uganda"
- },
- {
-   "Technology": "Blast furnace (BF)",
-   "Change": 0,
-   "Type": "Iron",
-   "Country": "Mozambique"
- },
- {
-   "Technology": "Blast furnace (BF)",
-   "Change": 0,
-   "Type": "Iron",
-   "Country": "Kuwait"
- },
- {
-   "Technology": "Blast furnace (BF)",
-   "Change": 0,
-   "Type": "Iron",
-   "Country": "Austria"
- },
- {
-   "Technology": "Blast furnace (BF)",
-   "Change": 22791,
-   "Type": "Iron",
-   "Country": "Global"
- },
- {
-   "Technology": "Direct reduced iron (DRI)",
-   "Change": 0,
-   "Type": "Iron",
-   "Country": "Türkiye"
- },
- {
-   "Technology": "Direct reduced iron (DRI)",
-   "Change": 0,
-   "Type": "Iron",
-   "Country": "Namibia"
- },
- {
-   "Technology": "Direct reduced iron (DRI)",
-   "Change": 0,
-   "Type": "Iron",
-   "Country": "Russia"
- },
- {
-   "Technology": "Direct reduced iron (DRI)",
-   "Change": 0,
-   "Type": "Iron",
-   "Country": "Bangladesh"
- },
- {
-   "Technology": "Direct reduced iron (DRI)",
-   "Change": 0,
-   "Type": "Iron",
-   "Country": "Italy"
- },
- {
-   "Technology": "Direct reduced iron (DRI)",
-   "Change": 0,
-   "Type": "Iron",
-   "Country": "Angola"
- },
- {
-   "Technology": "Direct reduced iron (DRI)",
-   "Change": 0,
-   "Type": "Iron",
-   "Country": "South Africa"
- },
- {
-   "Technology": "Direct reduced iron (DRI)",
-   "Change": 0,
-   "Type": "Iron",
    "Country": "Spain"
  },
  {
@@ -1675,7 +1711,7 @@
  },
  {
    "Technology": "Direct reduced iron (DRI)",
-   "Change": 420,
+   "Change": 3525,
    "Type": "Iron",
    "Country": "India"
  },
@@ -1687,7 +1723,7 @@
  },
  {
    "Technology": "Direct reduced iron (DRI)",
-   "Change": 0,
+   "Change": 2550,
    "Type": "Iron",
    "Country": "Germany"
  },
@@ -1705,7 +1741,7 @@
  },
  {
    "Technology": "Direct reduced iron (DRI)",
-   "Change": 3610,
+   "Change": 8290,
    "Type": "Iron",
    "Country": "Iran"
  },
@@ -1729,7 +1765,7 @@
  },
  {
    "Technology": "Direct reduced iron (DRI)",
-   "Change": 0,
+   "Change": 2500,
    "Type": "Iron",
    "Country": "Saudi Arabia"
  },
@@ -1747,7 +1783,7 @@
  },
  {
    "Technology": "Direct reduced iron (DRI)",
-   "Change": 3000,
+   "Change": 2000,
    "Type": "Iron",
    "Country": "Algeria"
  },
@@ -1759,25 +1795,25 @@
  },
  {
    "Technology": "Direct reduced iron (DRI)",
-   "Change": 0,
+   "Change": 2500,
    "Type": "Iron",
    "Country": "Malaysia"
  },
  {
    "Technology": "Direct reduced iron (DRI)",
-   "Change": 0,
+   "Change": -2500,
    "Type": "Iron",
    "Country": "United States"
  },
  {
    "Technology": "Direct reduced iron (DRI)",
-   "Change": 0,
+   "Change": 2100,
    "Type": "Iron",
    "Country": "Mexico"
  },
  {
    "Technology": "Direct reduced iron (DRI)",
-   "Change": 0,
+   "Change": 1100,
    "Type": "Iron",
    "Country": "China"
  },
@@ -1825,7 +1861,7 @@
  },
  {
    "Technology": "Direct reduced iron (DRI)",
-   "Change": 0,
+   "Change": -2500,
    "Type": "Iron",
    "Country": "France"
  },
@@ -1879,19 +1915,19 @@
  },
  {
    "Technology": "Direct reduced iron (DRI)",
-   "Change": 0,
+   "Change": 2000,
    "Type": "Iron",
    "Country": "Finland"
  },
  {
    "Technology": "Direct reduced iron (DRI)",
-   "Change": 0,
+   "Change": -326,
    "Type": "Iron",
    "Country": "New Zealand"
  },
  {
    "Technology": "Direct reduced iron (DRI)",
-   "Change": 0,
+   "Change": 1200,
    "Type": "Iron",
    "Country": "Australia"
  },
@@ -1915,7 +1951,7 @@
  },
  {
    "Technology": "Direct reduced iron (DRI)",
-   "Change": 0,
+   "Change": 250,
    "Type": "Iron",
    "Country": "Vietnam"
  },
@@ -1939,7 +1975,7 @@
  },
  {
    "Technology": "Direct reduced iron (DRI)",
-   "Change": 300,
+   "Change": 0,
    "Type": "Iron",
    "Country": "South Korea"
  },
@@ -1987,7 +2023,7 @@
  },
  {
    "Technology": "Direct reduced iron (DRI)",
-   "Change": 0,
+   "Change": 2100,
    "Type": "Iron",
    "Country": "Sweden"
  },
@@ -1999,9 +2035,15 @@
  },
  {
    "Technology": "Direct reduced iron (DRI)",
-   "Change": 0,
+   "Change": 2250,
    "Type": "Iron",
    "Country": "Oman"
+ },
+ {
+   "Technology": "Direct reduced iron (DRI)",
+   "Change": 0,
+   "Type": "Iron",
+   "Country": "Mauritania"
  },
  {
    "Technology": "Direct reduced iron (DRI)",
@@ -2131,7 +2173,7 @@
  },
  {
    "Technology": "Direct reduced iron (DRI)",
-   "Change": 0,
+   "Change": 250,
    "Type": "Iron",
    "Country": "Uganda"
  },
@@ -2149,13 +2191,19 @@
  },
  {
    "Technology": "Direct reduced iron (DRI)",
-   "Change": 1,
+   "Change": 0,
    "Type": "Iron",
    "Country": "Austria"
  },
  {
    "Technology": "Direct reduced iron (DRI)",
-   "Change": 7331,
+   "Change": 0,
+   "Type": "Iron",
+   "Country": "Tunisia"
+ },
+ {
+   "Technology": "Direct reduced iron (DRI)",
+   "Change": 35889,
    "Type": "Iron",
    "Country": "Global"
  }
