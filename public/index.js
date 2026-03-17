@@ -337,8 +337,8 @@ function implentGraph(id) {
                 ...options.bindings,
                 data: {
                     ...options.bindings.data,
-                    ...(config.charts[id].x_axis && { label: config.charts[id].x_axis }), // FIX 1: skip label if x_axis is empty
-                    value: config.charts[id].values,
+                    ...(config.charts[id].x_axis && { label: getColumnIndex(id, config.charts[id].x_axis) }) // FIX 1: skip label if x_axis is empty
+                    value: config.charts[id].values.map(col => getColumnIndex(id, col)),
                 }
             },
             data: {
@@ -357,7 +357,10 @@ function implentGraph(id) {
         graphs[id].flourish = new Flourish.Live(graphs[id].opts);
     });
 }
-
+function getColumnIndex(id, columnName) {
+    const columns = Object.keys(config.datasets[id][0]);
+    return columns.indexOf(columnName);
+}
 function updateGraphs(key) {
     const graphIDs = config.dashboard.flourish_ids;
     graphIDs.forEach(id => {
