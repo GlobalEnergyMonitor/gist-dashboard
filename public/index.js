@@ -328,14 +328,6 @@ function implentGraph(id) {
             api_url: "/flourish",
             api_key: "",
             base_visualisation_id: id,
-            bindings: {
-                ...options.bindings,
-                data: {
-                    ...options.bindings.data,
-                    ...(config.charts[id].x_axis && { label: getColumnIndex(id, config.charts[id].x_axis) }),
-                    value: config.charts[id].values.map(col => getColumnIndex(id, col)),
-                }
-            },
             data: {
                 ...options.data,
                 data: initialData(id),
@@ -351,11 +343,6 @@ function implentGraph(id) {
         if (options.template === "@flourish/line-bar-pie") graphs[id].opts.version = 25;
         graphs[id].flourish = new Flourish.Live(graphs[id].opts);
     });
-}
-
-function getColumnIndex(id, columnName) {
-    const columns = Object.keys(config.datasets[id][0]);
-    return Number(columns.indexOf(columnName));
 }
 
 function updateGraphs(key) {
