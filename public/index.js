@@ -322,12 +322,21 @@ function implentGraph(id) {
     fetch(`https://public.flourish.studio/visualisation/${id}/visualisation.json`)
     .then((response) => response.json())
     .then((options) => {
+        const bindings = {
+            ...options.bindings,
+            data: {
+                ...options.bindings.data,
+                ...(config.charts[id].x_axis && { label: config.charts[id].x_axis }),
+                value: config.charts[id].values,
+            }
+        };
         graphs[id].opts = {
             ...options,
             container: `#chart-${id}`,
             api_url: "/flourish",
             api_key: "",
             base_visualisation_id: id,
+            bindings: bindings,
             data: {
                 ...options.data,
                 data: initialData(id),
