@@ -326,7 +326,7 @@ function implentGraph(id) {
             ...options.bindings,
             data: {
                 ...options.bindings.data,
-                ...(config.charts[id].x_axis && { label: config.charts[id].x_axis }),
+                label: config.charts[id].x_axis || "Country",
                 value: config.charts[id].values,
             }
         };
