@@ -355,7 +355,7 @@ function implentGraph(id) {
 
 function getColumnIndex(id, columnName) {
     const columns = Object.keys(config.datasets[id][0]);
-    return columns.indexOf(columnName);
+    return Number(columns.indexOf(columnName));
 }
 
 function updateGraphs(key) {
