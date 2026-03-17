@@ -39,7 +39,8 @@
             "BF capacity in development",
             "Coal-DRI capacity in development",
             "Pre-retirement BF capacity",
-            "Existing BF capacity with planned or ongoing relining"
+            "Existing BF capacity with planned or ongoing relining",
+            "Net coal-based capacity investment"
         ],
         "dataset": "2025-GIST/gist_coal",
         "initial_state": "Global",
