@@ -4,7 +4,7 @@
         "subtitle": "Ironmaking capacity by status and technology type",
         "x_axis": "Status",
         "values": [
-            "BF",	
+            "BF (coal)",	
             "DRI (coal)",
             "DRI (methane)",
             "DRI (other/unknown)",
