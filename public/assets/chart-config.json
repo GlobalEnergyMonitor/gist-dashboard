@@ -32,15 +32,15 @@
         "filter_by": "Country"
     },
     "28102005": {
-         "title": "Coal-based investments",
+         "title": "Coal-based iron investments",
         "subtitle": "Planned coal-based capacity development, compared against planned retirements",
         "x_axis": "",
         "values": [
-            "Net coal-based capacity investment",
-            "BF capacity in development",
-            "Coal-DRI capacity in development",
-            "Pre-retirement BF capacity",
-            "Existing BF capacity with planned or ongoing relining"
+            "Net coal-based capacity invested in",
+            "BF (coal) capacity in development",
+            "DRI (coal) capacity in development",
+            "BF (coal) capacity with planned retirement",
+            "BF (coal) capacity with planned or ongoing relining"
         ],
         "dataset": "2025-GIST/gist_coal",
         "initial_state": "Global",
