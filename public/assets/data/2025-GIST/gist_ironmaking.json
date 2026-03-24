@@ -1,1893 +1,3866 @@
 [
-  {
-    "Country": "Albania",
-    "Status": "operating",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Albania",
-    "Status": "announced",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Albania",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Algeria",
-    "Status": "operating",
-    "Blast furnace (BF)": 1500,
-    "Direct reduced iron (DRI)": 8000,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Algeria",
-    "Status": "announced",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 2500,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Algeria",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Angola",
-    "Status": "operating",
-    "Blast furnace (BF)": 96,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Angola",
-    "Status": "announced",
-    "Blast furnace (BF)": 423,
-    "Direct reduced iron (DRI)": 1200,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Angola",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Argentina",
-    "Status": "operating",
-    "Blast furnace (BF)": 4015,
-    "Direct reduced iron (DRI)": 1560,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Argentina",
-    "Status": "announced",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Argentina",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Australia",
-    "Status": "operating",
-    "Blast furnace (BF)": 4200,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Australia",
-    "Status": "announced",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 17500,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Australia",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 1500
-  },
-  {
-    "Country": "Austria",
-    "Status": "operating",
-    "Blast furnace (BF)": 6650,
-    "Direct reduced iron (DRI)": 1,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Austria",
-    "Status": "announced",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Austria",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Azerbaijan",
-    "Status": "operating",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Azerbaijan",
-    "Status": "announced",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Azerbaijan",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Bahrain",
-    "Status": "operating",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 1619,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Bahrain",
-    "Status": "announced",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Bahrain",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Bangladesh",
-    "Status": "operating",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Bangladesh",
-    "Status": "announced",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 2200,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Bangladesh",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Belarus",
-    "Status": "operating",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Belarus",
-    "Status": "announced",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Belarus",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Belgium",
-    "Status": "operating",
-    "Blast furnace (BF)": 5000,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Belgium",
-    "Status": "announced",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 2500,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Belgium",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Bolivia",
-    "Status": "operating",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 250,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Bolivia",
-    "Status": "announced",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Bolivia",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Bosnia and Herzegovina",
-    "Status": "operating",
-    "Blast furnace (BF)": 1100,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Bosnia and Herzegovina",
-    "Status": "announced",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Bosnia and Herzegovina",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Brazil",
-    "Status": "operating",
-    "Blast furnace (BF)": 33636,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Brazil",
-    "Status": "announced",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Brazil",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 500
-  },
-  {
-    "Country": "Bulgaria",
-    "Status": "operating",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Bulgaria",
-    "Status": "announced",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Bulgaria",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Cambodia",
-    "Status": "operating",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Cambodia",
-    "Status": "announced",
-    "Blast furnace (BF)": 3100,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Cambodia",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Canada",
-    "Status": "operating",
-    "Blast furnace (BF)": 7398,
-    "Direct reduced iron (DRI)": 1650,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Canada",
-    "Status": "announced",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 2500,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Canada",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Chile",
-    "Status": "operating",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Chile",
-    "Status": "announced",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Chile",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "China",
-    "Status": "operating",
-    "Blast furnace (BF)": 893299,
-    "Direct reduced iron (DRI)": 2410,
-    "Other or unspecified": 1627
-  },
-  {
-    "Country": "China",
-    "Status": "announced",
-    "Blast furnace (BF)": 52032,
-    "Direct reduced iron (DRI)": 2600,
-    "Other or unspecified": 680
-  },
-  {
-    "Country": "China",
-    "Status": "construction",
-    "Blast furnace (BF)": 48324,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 1650
-  },
-  {
-    "Country": "Czech Republic",
-    "Status": "operating",
-    "Blast furnace (BF)": 2100,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Czech Republic",
-    "Status": "announced",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Czech Republic",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Egypt",
-    "Status": "operating",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 8120,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Egypt",
-    "Status": "announced",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 2500,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Egypt",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Ethiopia",
-    "Status": "operating",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Ethiopia",
-    "Status": "announced",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Ethiopia",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Finland",
-    "Status": "operating",
-    "Blast furnace (BF)": 2600,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Finland",
-    "Status": "announced",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 4000,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Finland",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "France",
-    "Status": "operating",
-    "Blast furnace (BF)": 8900,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "France",
-    "Status": "announced",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 4000,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "France",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Germany",
-    "Status": "operating",
-    "Blast furnace (BF)": 31647,
-    "Direct reduced iron (DRI)": 600,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Germany",
-    "Status": "announced",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 5100,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Germany",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 2100,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Ghana",
-    "Status": "operating",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Ghana",
-    "Status": "announced",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Ghana",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Greece",
-    "Status": "operating",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Greece",
-    "Status": "announced",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Greece",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Guatemala",
-    "Status": "operating",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Guatemala",
-    "Status": "announced",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Guatemala",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Hong Kong",
-    "Status": "operating",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Hong Kong",
-    "Status": "announced",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Hong Kong",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Hungary",
-    "Status": "operating",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Hungary",
-    "Status": "announced",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Hungary",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "India",
-    "Status": "operating",
-    "Blast furnace (BF)": 117734,
-    "Direct reduced iron (DRI)": 35479,
-    "Other or unspecified": 3400
-  },
-  {
-    "Country": "India",
-    "Status": "announced",
-    "Blast furnace (BF)": 161860,
-    "Direct reduced iron (DRI)": 30302,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "India",
-    "Status": "construction",
-    "Blast furnace (BF)": 15700,
-    "Direct reduced iron (DRI)": 4656,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Indonesia",
-    "Status": "operating",
-    "Blast furnace (BF)": 10560,
-    "Direct reduced iron (DRI)": 1500,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Indonesia",
-    "Status": "announced",
-    "Blast furnace (BF)": 3000,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 3000
-  },
-  {
-    "Country": "Indonesia",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Iran",
-    "Status": "operating",
-    "Blast furnace (BF)": 5300,
-    "Direct reduced iron (DRI)": 44209,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Iran",
-    "Status": "announced",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 19100,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Iran",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 12210,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Iraq",
-    "Status": "operating",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Iraq",
-    "Status": "announced",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Iraq",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Italy",
-    "Status": "operating",
-    "Blast furnace (BF)": 4000,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Italy",
-    "Status": "announced",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 5000,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Italy",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Japan",
-    "Status": "operating",
-    "Blast furnace (BF)": 80668,
-    "Direct reduced iron (DRI)": 776,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Japan",
-    "Status": "announced",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Japan",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Kazakhstan",
-    "Status": "operating",
-    "Blast furnace (BF)": 6450,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Kazakhstan",
-    "Status": "announced",
-    "Blast furnace (BF)": 728,
-    "Direct reduced iron (DRI)": 4000,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Kazakhstan",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Kenya",
-    "Status": "operating",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 500,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Kenya",
-    "Status": "announced",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Kenya",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Kuwait",
-    "Status": "operating",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Kuwait",
-    "Status": "announced",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Kuwait",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Latvia",
-    "Status": "operating",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Latvia",
-    "Status": "announced",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Latvia",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Libya",
-    "Status": "operating",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 1806,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Libya",
-    "Status": "announced",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 7600,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Libya",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 2500,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Luxembourg",
-    "Status": "operating",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Luxembourg",
-    "Status": "announced",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Luxembourg",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Malaysia",
-    "Status": "operating",
-    "Blast furnace (BF)": 6400,
-    "Direct reduced iron (DRI)": 900,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Malaysia",
-    "Status": "announced",
-    "Blast furnace (BF)": 6600,
-    "Direct reduced iron (DRI)": 7000,
-    "Other or unspecified": 6500
-  },
-  {
-    "Country": "Malaysia",
-    "Status": "construction",
-    "Blast furnace (BF)": 5000,
-    "Direct reduced iron (DRI)": 2500,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Mexico",
-    "Status": "operating",
-    "Blast furnace (BF)": 1452,
-    "Direct reduced iron (DRI)": 5860,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Mexico",
-    "Status": "announced",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Mexico",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 2100,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Moldova",
-    "Status": "operating",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Moldova",
-    "Status": "announced",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Moldova",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Morocco",
-    "Status": "operating",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Morocco",
-    "Status": "announced",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Morocco",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Mozambique",
-    "Status": "operating",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Mozambique",
-    "Status": "announced",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Mozambique",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 1100,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Myanmar",
-    "Status": "operating",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Myanmar",
-    "Status": "announced",
-    "Blast furnace (BF)": 4000,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Myanmar",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 500,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Namibia",
-    "Status": "operating",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 1000,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Namibia",
-    "Status": "announced",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Namibia",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Netherlands",
-    "Status": "operating",
-    "Blast furnace (BF)": 6310,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Netherlands",
-    "Status": "announced",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 5655,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Netherlands",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "New Zealand",
-    "Status": "operating",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 652,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "New Zealand",
-    "Status": "announced",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "New Zealand",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Nigeria",
-    "Status": "operating",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Nigeria",
-    "Status": "announced",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 1500
-  },
-  {
-    "Country": "Nigeria",
-    "Status": "construction",
-    "Blast furnace (BF)": 1355,
-    "Direct reduced iron (DRI)": 1000,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "North Korea",
-    "Status": "operating",
-    "Blast furnace (BF)": 5249,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "North Korea",
-    "Status": "announced",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "North Korea",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "North Macedonia",
-    "Status": "operating",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "North Macedonia",
-    "Status": "announced",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "North Macedonia",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Norway",
-    "Status": "operating",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Norway",
-    "Status": "announced",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Norway",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Oman",
-    "Status": "operating",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 1820,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Oman",
-    "Status": "announced",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 5000,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Oman",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 4500,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Pakistan",
-    "Status": "operating",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Pakistan",
-    "Status": "announced",
-    "Blast furnace (BF)": 4500,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Pakistan",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Peru",
-    "Status": "operating",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Peru",
-    "Status": "announced",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Peru",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Philippines",
-    "Status": "operating",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Philippines",
-    "Status": "announced",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Philippines",
-    "Status": "construction",
-    "Blast furnace (BF)": 1790,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 11500
-  },
-  {
-    "Country": "Poland",
-    "Status": "operating",
-    "Blast furnace (BF)": 4500,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Poland",
-    "Status": "announced",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Poland",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Portugal",
-    "Status": "operating",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Portugal",
-    "Status": "announced",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Portugal",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Qatar",
-    "Status": "operating",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 1700,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Qatar",
-    "Status": "announced",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Qatar",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Romania",
-    "Status": "operating",
-    "Blast furnace (BF)": 2100,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Romania",
-    "Status": "announced",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 2500,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Romania",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Russia",
-    "Status": "operating",
-    "Blast furnace (BF)": 63525,
-    "Direct reduced iron (DRI)": 7780,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Russia",
-    "Status": "announced",
-    "Blast furnace (BF)": 3700,
-    "Direct reduced iron (DRI)": 6540,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Russia",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 3400,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Saudi Arabia",
-    "Status": "operating",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 6700,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Saudi Arabia",
-    "Status": "announced",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 10000,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Saudi Arabia",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Serbia",
-    "Status": "operating",
-    "Blast furnace (BF)": 1300,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Serbia",
-    "Status": "announced",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Serbia",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Singapore",
-    "Status": "operating",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Singapore",
-    "Status": "announced",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Singapore",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Slovakia",
-    "Status": "operating",
-    "Blast furnace (BF)": 5000,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Slovakia",
-    "Status": "announced",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Slovakia",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Slovenia",
-    "Status": "operating",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Slovenia",
-    "Status": "announced",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Slovenia",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "South Africa",
-    "Status": "operating",
-    "Blast furnace (BF)": 3200,
-    "Direct reduced iron (DRI)": 1404,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "South Africa",
-    "Status": "announced",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "South Africa",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "South Korea",
-    "Status": "operating",
-    "Blast furnace (BF)": 50090,
-    "Direct reduced iron (DRI)": 300,
-    "Other or unspecified": 4300
-  },
-  {
-    "Country": "South Korea",
-    "Status": "announced",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 6500,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "South Korea",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 2500,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Spain",
-    "Status": "operating",
-    "Blast furnace (BF)": 4700,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Spain",
-    "Status": "announced",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 4300,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Spain",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Sri Lanka",
-    "Status": "operating",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Sri Lanka",
-    "Status": "announced",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Sri Lanka",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Sweden",
-    "Status": "operating",
-    "Blast furnace (BF)": 4105,
-    "Direct reduced iron (DRI)": 9,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Sweden",
-    "Status": "announced",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 4800,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Sweden",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 2100,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Switzerland",
-    "Status": "operating",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Switzerland",
-    "Status": "announced",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Switzerland",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Syria",
-    "Status": "operating",
-    "Blast furnace (BF)": 300,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Syria",
-    "Status": "announced",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Syria",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Taiwan",
-    "Status": "operating",
-    "Blast furnace (BF)": 16020,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Taiwan",
-    "Status": "announced",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Taiwan",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Thailand",
-    "Status": "operating",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Thailand",
-    "Status": "announced",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 2500,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Thailand",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Trinidad and Tobago",
-    "Status": "operating",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 2000,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Trinidad and Tobago",
-    "Status": "announced",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Trinidad and Tobago",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Türkiye",
-    "Status": "operating",
-    "Blast furnace (BF)": 13988,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Türkiye",
-    "Status": "announced",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Türkiye",
-    "Status": "construction",
-    "Blast furnace (BF)": 1000,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Uganda",
-    "Status": "operating",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 1200,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Uganda",
-    "Status": "announced",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Uganda",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Ukraine",
-    "Status": "operating",
-    "Blast furnace (BF)": 18882,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Ukraine",
-    "Status": "announced",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Ukraine",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "United Arab Emirates",
-    "Status": "operating",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 4200,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "United Arab Emirates",
-    "Status": "announced",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "United Arab Emirates",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "United Kingdom",
-    "Status": "operating",
-    "Blast furnace (BF)": 3000,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "United Kingdom",
-    "Status": "announced",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "United Kingdom",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "United States",
-    "Status": "operating",
-    "Blast furnace (BF)": 25825,
-    "Direct reduced iron (DRI)": 6660,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "United States",
-    "Status": "announced",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 2000,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "United States",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 1000
-  },
-  {
-    "Country": "Uzbekistan",
-    "Status": "operating",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Uzbekistan",
-    "Status": "announced",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Uzbekistan",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 3600,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Venezuela",
-    "Status": "operating",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 6310,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Venezuela",
-    "Status": "announced",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Venezuela",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Vietnam",
-    "Status": "operating",
-    "Blast furnace (BF)": 22320,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Vietnam",
-    "Status": "announced",
-    "Blast furnace (BF)": 7800,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Vietnam",
-    "Status": "construction",
-    "Blast furnace (BF)": 580,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Zimbabwe",
-    "Status": "operating",
-    "Blast furnace (BF)": 600,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Zimbabwe",
-    "Status": "announced",
-    "Blast furnace (BF)": 5270,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Zimbabwe",
-    "Status": "construction",
-    "Blast furnace (BF)": 0,
-    "Direct reduced iron (DRI)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Global",
-    "Status": "operating",
-    "Blast furnace (BF)": 1485719,
-    "Direct reduced iron (DRI)": 156975,
-    "Other or unspecified": 9327
-  },
-  {
-    "Country": "Global",
-    "Status": "announced",
-    "Blast furnace (BF)": 253013,
-    "Direct reduced iron (DRI)": 169397,
-    "Other or unspecified": 11680
-  },
-  {
-    "Country": "Global",
-    "Status": "construction",
-    "Blast furnace (BF)": 73749,
-    "Direct reduced iron (DRI)": 44766,
-    "Other or unspecified": 16150
-  }
+ {
+   "Country": "Albania",
+   "Status": "operating",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Albania",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Albania",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Algeria",
+   "Status": "operating",
+   "BF (coal)": 0,
+   "DRI (coal)": 500,
+   "DRI (methane)": 5000,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 2500
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Algeria",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 4500
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Algeria",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Angola",
+   "Status": "operating",
+   "BF (coal)": 96,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Angola",
+   "Status": "announced",
+   "BF (coal)": 423,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 1200
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Angola",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Argentina",
+   "Status": "operating",
+   "BF (coal)": 4015,
+   "DRI (coal)": 0,
+   "DRI (methane)": 1560,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Argentina",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Argentina",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Australia",
+   "Status": "operating",
+   "BF (coal)": 4200,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Australia",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 14500,
+   "DRI (H2)": 13700,
+   "DRI (other": {
+      "unknown)": 1800
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Australia",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Austria",
+   "Status": "operating",
+   "BF (coal)": 6650,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 1,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Austria",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Austria",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 26,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Azerbaijan",
+   "Status": "operating",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Azerbaijan",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 2000,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Azerbaijan",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Bahrain",
+   "Status": "operating",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 1700,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Bahrain",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Bahrain",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Bangladesh",
+   "Status": "operating",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Bangladesh",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 2200
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Bangladesh",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Belarus",
+   "Status": "operating",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Belarus",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Belarus",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Belgium",
+   "Status": "operating",
+   "BF (coal)": 5000,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Belgium",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Belgium",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Bolivia",
+   "Status": "operating",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 250,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Bolivia",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Bolivia",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Bosnia and Herzegovina",
+   "Status": "operating",
+   "BF (coal)": 1100,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Bosnia and Herzegovina",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Bosnia and Herzegovina",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Brazil",
+   "Status": "operating",
+   "BF (coal)": 33636,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Brazil",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Brazil",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 500
+   }
+},
+ {
+   "Country": "Bulgaria",
+   "Status": "operating",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Bulgaria",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Bulgaria",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Cambodia",
+   "Status": "operating",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Cambodia",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Cambodia",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Canada",
+   "Status": "operating",
+   "BF (coal)": 5329,
+   "DRI (coal)": 0,
+   "DRI (methane)": 1650,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Canada",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 2500,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Canada",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Chile",
+   "Status": "operating",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Chile",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Chile",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "China",
+   "Status": "operating",
+   "BF (coal)": 910509,
+   "DRI (coal)": 300,
+   "DRI (methane)": 0,
+   "DRI (H2)": 1000,
+   "DRI (other": {
+      "unknown)": 1110
+   },
+   "Other": {
+      "unspecified": 4627
+   }
+},
+ {
+   "Country": "China",
+   "Status": "announced",
+   "BF (coal)": 46671,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 1100,
+   "DRI (other": {
+      "unknown)": 2000
+   },
+   "Other": {
+      "unspecified": 680
+   }
+},
+ {
+   "Country": "China",
+   "Status": "construction",
+   "BF (coal)": 35968,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 1650
+   }
+},
+ {
+   "Country": "Czech Republic",
+   "Status": "operating",
+   "BF (coal)": 2263,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Czech Republic",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Czech Republic",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Egypt",
+   "Status": "operating",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 6220,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 1800
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Egypt",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 2500
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Egypt",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Ethiopia",
+   "Status": "operating",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Ethiopia",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Ethiopia",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Finland",
+   "Status": "operating",
+   "BF (coal)": 2600,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Finland",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 4000,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Finland",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "France",
+   "Status": "operating",
+   "BF (coal)": 7900,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "France",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 2000,
+   "DRI (H2)": 2000,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "France",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Germany",
+   "Status": "operating",
+   "BF (coal)": 31987,
+   "DRI (coal)": 0,
+   "DRI (methane)": 600,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Germany",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 5100,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Germany",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 2100,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Ghana",
+   "Status": "operating",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Ghana",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Ghana",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Greece",
+   "Status": "operating",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Greece",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Greece",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Guatemala",
+   "Status": "operating",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Guatemala",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Guatemala",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Hong Kong",
+   "Status": "operating",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Hong Kong",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Hong Kong",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Hungary",
+   "Status": "operating",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Hungary",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Hungary",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "India",
+   "Status": "operating",
+   "BF (coal)": 118566,
+   "DRI (coal)": 22820,
+   "DRI (methane)": 10730,
+   "DRI (H2)": 1200,
+   "DRI (other": {
+      "unknown)": 1800
+   },
+   "Other": {
+      "unspecified": 3400
+   }
+},
+ {
+   "Country": "India",
+   "Status": "announced",
+   "BF (coal)": 183363,
+   "DRI (coal)": 19619,
+   "DRI (methane)": 0,
+   "DRI (H2)": 1168,
+   "DRI (other": {
+      "unknown)": 12565
+   },
+   "Other": {
+      "unspecified": 59600
+   }
+},
+ {
+   "Country": "India",
+   "Status": "construction",
+   "BF (coal)": 9000,
+   "DRI (coal)": 2490,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 2000
+   },
+   "Other": {
+      "unspecified": 1500
+   }
+},
+ {
+   "Country": "Indonesia",
+   "Status": "operating",
+   "BF (coal)": 10560,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Indonesia",
+   "Status": "announced",
+   "BF (coal)": 3000,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 3000
+   }
+},
+ {
+   "Country": "Indonesia",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Iran",
+   "Status": "operating",
+   "BF (coal)": 5265,
+   "DRI (coal)": 0,
+   "DRI (methane)": 42342,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 13302
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Iran",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 1350,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 13620
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Iran",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 1000,
+   "DRI (methane)": 4520,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 16060
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Iraq",
+   "Status": "operating",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Iraq",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 2000
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Iraq",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Italy",
+   "Status": "operating",
+   "BF (coal)": 4000,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Italy",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 2500,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Italy",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Japan",
+   "Status": "operating",
+   "BF (coal)": 79608,
+   "DRI (coal)": 776,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Japan",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Japan",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Kazakhstan",
+   "Status": "operating",
+   "BF (coal)": 6450,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Kazakhstan",
+   "Status": "announced",
+   "BF (coal)": 728,
+   "DRI (coal)": 0,
+   "DRI (methane)": 3000,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 4000
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Kazakhstan",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Kenya",
+   "Status": "operating",
+   "BF (coal)": 500,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Kenya",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Kenya",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Kuwait",
+   "Status": "operating",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Kuwait",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Kuwait",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Latvia",
+   "Status": "operating",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Latvia",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Latvia",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Libya",
+   "Status": "operating",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 1806
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Libya",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 2400,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 5600
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Libya",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 2500
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Luxembourg",
+   "Status": "operating",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Luxembourg",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Luxembourg",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Malaysia",
+   "Status": "operating",
+   "BF (coal)": 6400,
+   "DRI (coal)": 0,
+   "DRI (methane)": 900,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Malaysia",
+   "Status": "announced",
+   "BF (coal)": 6600,
+   "DRI (coal)": 0,
+   "DRI (methane)": 7000,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 6500
+   }
+},
+ {
+   "Country": "Malaysia",
+   "Status": "construction",
+   "BF (coal)": 5000,
+   "DRI (coal)": 0,
+   "DRI (methane)": 2500,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Mauritania",
+   "Status": "operating",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Mauritania",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Mauritania",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Mexico",
+   "Status": "operating",
+   "BF (coal)": 1452,
+   "DRI (coal)": 0,
+   "DRI (methane)": 3200,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 2660
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Mexico",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Mexico",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 2100,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Moldova",
+   "Status": "operating",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Moldova",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Moldova",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Morocco",
+   "Status": "operating",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Morocco",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Morocco",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Mozambique",
+   "Status": "operating",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Mozambique",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Mozambique",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 1100,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Myanmar",
+   "Status": "operating",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Myanmar",
+   "Status": "announced",
+   "BF (coal)": 4000,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Myanmar",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 950
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Namibia",
+   "Status": "operating",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 1000,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Namibia",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Namibia",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Netherlands",
+   "Status": "operating",
+   "BF (coal)": 6500,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Netherlands",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 5655,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Netherlands",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "New Zealand",
+   "Status": "operating",
+   "BF (coal)": 0,
+   "DRI (coal)": 652,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "New Zealand",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "New Zealand",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Nigeria",
+   "Status": "operating",
+   "BF (coal)": 0,
+   "DRI (coal)": 1000,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Nigeria",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 1500
+   }
+},
+ {
+   "Country": "Nigeria",
+   "Status": "construction",
+   "BF (coal)": 1355,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "North Korea",
+   "Status": "operating",
+   "BF (coal)": 5249,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "North Korea",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "North Korea",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "North Macedonia",
+   "Status": "operating",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "North Macedonia",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "North Macedonia",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Norway",
+   "Status": "operating",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Norway",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Norway",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Oman",
+   "Status": "operating",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 2000,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Oman",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 7500,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Oman",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 4750
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Pakistan",
+   "Status": "operating",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Pakistan",
+   "Status": "announced",
+   "BF (coal)": 4500,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Pakistan",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Peru",
+   "Status": "operating",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Peru",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Peru",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Philippines",
+   "Status": "operating",
+   "BF (coal)": 1790,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Philippines",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Philippines",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 1500
+   }
+},
+ {
+   "Country": "Poland",
+   "Status": "operating",
+   "BF (coal)": 2300,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Poland",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Poland",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Portugal",
+   "Status": "operating",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Portugal",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Portugal",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Qatar",
+   "Status": "operating",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 2500,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Qatar",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Qatar",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Romania",
+   "Status": "operating",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Romania",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 2500,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Romania",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Russia",
+   "Status": "operating",
+   "BF (coal)": 62355,
+   "DRI (coal)": 0,
+   "DRI (methane)": 7780,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Russia",
+   "Status": "announced",
+   "BF (coal)": 3700,
+   "DRI (coal)": 0,
+   "DRI (methane)": 1960,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 2500
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Russia",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 2080,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 3400
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Saudi Arabia",
+   "Status": "operating",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 3100,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 3600
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Saudi Arabia",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 7500,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Saudi Arabia",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Serbia",
+   "Status": "operating",
+   "BF (coal)": 1300,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Serbia",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Serbia",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Singapore",
+   "Status": "operating",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Singapore",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Singapore",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Slovakia",
+   "Status": "operating",
+   "BF (coal)": 4500,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Slovakia",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Slovakia",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Slovenia",
+   "Status": "operating",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Slovenia",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Slovenia",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "South Africa",
+   "Status": "operating",
+   "BF (coal)": 3200,
+   "DRI (coal)": 1404,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "South Africa",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "South Africa",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "South Korea",
+   "Status": "operating",
+   "BF (coal)": 50090,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 9,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 4300
+   }
+},
+ {
+   "Country": "South Korea",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 2800,
+   "DRI (other": {
+      "unknown)": 4000
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "South Korea",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 262
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Spain",
+   "Status": "operating",
+   "BF (coal)": 2500,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Spain",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 4300,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Spain",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Sri Lanka",
+   "Status": "operating",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Sri Lanka",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Sri Lanka",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Sweden",
+   "Status": "operating",
+   "BF (coal)": 4105,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 9,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Sweden",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 4800,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Sweden",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 2100,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Switzerland",
+   "Status": "operating",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Switzerland",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Switzerland",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Syria",
+   "Status": "operating",
+   "BF (coal)": 300,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Syria",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Syria",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Taiwan",
+   "Status": "operating",
+   "BF (coal)": 16020,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Taiwan",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Taiwan",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Thailand",
+   "Status": "operating",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Thailand",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 2500,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Thailand",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Trinidad and Tobago",
+   "Status": "operating",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 2000,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Trinidad and Tobago",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Trinidad and Tobago",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Tunisia",
+   "Status": "operating",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Tunisia",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Tunisia",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Türkiye",
+   "Status": "operating",
+   "BF (coal)": 15195,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Türkiye",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Türkiye",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Uganda",
+   "Status": "operating",
+   "BF (coal)": 0,
+   "DRI (coal)": 350,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 250
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Uganda",
+   "Status": "announced",
+   "BF (coal)": 1000,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Uganda",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Ukraine",
+   "Status": "operating",
+   "BF (coal)": 19941,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Ukraine",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Ukraine",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "United Arab Emirates",
+   "Status": "operating",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 2600,
+   "DRI (H2)": 1600,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "United Arab Emirates",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "United Arab Emirates",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "United Kingdom",
+   "Status": "operating",
+   "BF (coal)": 3000,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "United Kingdom",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "United Kingdom",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "United States",
+   "Status": "operating",
+   "BF (coal)": 23325,
+   "DRI (coal)": 0,
+   "DRI (methane)": 6660,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "United States",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 2300,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 2000
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "United States",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 1000
+   }
+},
+ {
+   "Country": "Uzbekistan",
+   "Status": "operating",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Uzbekistan",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Uzbekistan",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 3600
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Venezuela",
+   "Status": "operating",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 6310,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Venezuela",
+   "Status": "announced",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Venezuela",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Vietnam",
+   "Status": "operating",
+   "BF (coal)": 22320,
+   "DRI (coal)": 250,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Vietnam",
+   "Status": "announced",
+   "BF (coal)": 7800,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Vietnam",
+   "Status": "construction",
+   "BF (coal)": 580,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Zimbabwe",
+   "Status": "operating",
+   "BF (coal)": 600,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Zimbabwe",
+   "Status": "announced",
+   "BF (coal)": 5270,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Zimbabwe",
+   "Status": "construction",
+   "BF (coal)": 0,
+   "DRI (coal)": 0,
+   "DRI (methane)": 0,
+   "DRI (H2)": 0,
+   "DRI (other": {
+      "unknown)": 0
+   },
+   "Other": {
+      "unspecified": 0
+   }
+},
+ {
+   "Country": "Global",
+   "Status": "operating",
+   "BF (coal)": 1492676,
+   "DRI (coal)": 28052,
+   "DRI (methane)": 107102,
+   "DRI (H2)": 4819,
+   "DRI (other": {
+      "unknown)": 28828
+   },
+   "Other": {
+      "unspecified": 12327
+   }
+},
+ {
+   "Country": "Global",
+   "Status": "announced",
+   "BF (coal)": 267055,
+   "DRI (coal)": 20969,
+   "DRI (methane)": 70915,
+   "DRI (H2)": 33868,
+   "DRI (other": {
+      "unknown)": 60485
+   },
+   "Other": {
+      "unspecified": 71280
+   }
+},
+ {
+   "Country": "Global",
+   "Status": "construction",
+   "BF (coal)": 51903,
+   "DRI (coal)": 4590,
+   "DRI (methane)": 13300,
+   "DRI (H2)": 2126,
+   "DRI (other": {
+      "unknown)": 33522
+   },
+   "Other": {
+      "unspecified": 6150
+   }
+}
 ]
-

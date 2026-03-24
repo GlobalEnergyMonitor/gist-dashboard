@@ -1,12 +1,15 @@
 {
-    "19757464": {
+    "28084877": {
         "title": "Operating and developing ironmaking capacity",
         "subtitle": "Ironmaking capacity by status and technology type",
         "x_axis": "Status",
         "values": [
-            "Blast furnace (BF)",	
-            "Direct reduced iron (DRI)",
-             "Other or unspecified"
+            "BF (coal)",	
+            "DRI (coal)",
+            "DRI (methane)",
+            "DRI (other/unknown)",
+            "DRI (H2)",
+             "Other/unspecified"
         ],
         "dataset": "2025-GIST/gist_ironmaking",
         "initial_state": "Global",
@@ -18,8 +21,9 @@
         "subtitle": "Steelmaking capacity by status and technology type",
         "x_axis": "Status",
         "values": [
-            "Basic oxygen furnace (BOF)",
-            "Electric arc furnace (EAF)",
+            "BOF",
+            "EAF",
+            "IF",
             "Other or unspecified"
         ],
         "dataset": "2025-GIST/gist_steelmaking",
@@ -27,17 +31,18 @@
         "filterable": true,
         "filter_by": "Country"
     },
-    "19757609": {
-        "title": "Age breakdown of iron and steel plant capacity",
-        "subtitle": "Operating iron and steelmaking capacity, by unit age group and technology type",
-        "x_axis": "Age group",
+    "28102005": {
+         "title": "Coal-based iron investments",
+        "subtitle": "Planned coal-based capacity development, compared against planned retirements",
+        "x_axis": "",
         "values": [
-            "Blast furnace (BF)",
-            "Direct reduced iron (DRI)",
-            "Basic oxygen furnace (BOF)",
-            "Electric arc furnace (EAF)"
+            "Net coal-based capacity invested in",
+            "BF (coal) capacity in development",
+            "DRI (coal) capacity in development",
+            "BF (coal) capacity with planned retirement",
+            "BF (coal) capacity with planned or ongoing relining"
         ],
-        "dataset": "2025-GIST/gist_age_tech",
+        "dataset": "2025-GIST/gist_coal",
         "initial_state": "Global",
         "filterable": true,
         "filter_by": "Country"

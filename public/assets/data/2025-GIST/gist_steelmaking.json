@@ -1,1892 +1,2210 @@
 [
-  {
-    "Country": "Albania",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Albania",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Albania",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Algeria",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 350,
-    "Electric arc furnace (EAF)": 11000,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Algeria",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 1800,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Algeria",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Angola",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 500
-  },
-  {
-    "Country": "Angola",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 1000,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Angola",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Argentina",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 3501,
-    "Electric arc furnace (EAF)": 4370,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Argentina",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Argentina",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Australia",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 4400,
-    "Electric arc furnace (EAF)": 1530,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Australia",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 7000,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Australia",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Austria",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 7570,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Austria",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Austria",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 3300,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Azerbaijan",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 800,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Azerbaijan",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Azerbaijan",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Bahrain",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 1265,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Bahrain",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Bahrain",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Bangladesh",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 3040,
-    "Other or unspecified": 2636
-  },
-  {
-    "Country": "Bangladesh",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 1400,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Bangladesh",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 2250,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Belarus",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 3000,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Belarus",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Belarus",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Belgium",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 5000,
-    "Electric arc furnace (EAF)": 3000,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Belgium",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 2500,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Belgium",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Bolivia",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 200,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Bolivia",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 500,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Bolivia",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Bosnia and Herzegovina",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 1140,
-    "Electric arc furnace (EAF)": 800,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Bosnia and Herzegovina",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Bosnia and Herzegovina",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Brazil",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 33211,
-    "Electric arc furnace (EAF)": 10391,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Brazil",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 500,
-    "Electric arc furnace (EAF)": 200,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Brazil",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 500,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Bulgaria",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 1400,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Bulgaria",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Bulgaria",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Cambodia",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Cambodia",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 3100,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Cambodia",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Canada",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 9000,
-    "Electric arc furnace (EAF)": 10400,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Canada",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 2400,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Canada",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Chile",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 520,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Chile",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Chile",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "China",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 892209,
-    "Electric arc furnace (EAF)": 160171,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "China",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 44865,
-    "Electric arc furnace (EAF)": 26347,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "China",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 34388,
-    "Electric arc furnace (EAF)": 29853,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Czech Republic",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 6200,
-    "Electric arc furnace (EAF)": 200,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Czech Republic",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 1300,
-    "Electric arc furnace (EAF)": 1300,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Czech Republic",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 3500,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Egypt",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 16600,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Egypt",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 2000,
-    "Other or unspecified": 1800
-  },
-  {
-    "Country": "Egypt",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Ethiopia",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Ethiopia",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Ethiopia",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Finland",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 2600,
-    "Electric arc furnace (EAF)": 1775,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Finland",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 5100,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Finland",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "France",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 11850,
-    "Electric arc furnace (EAF)": 6395,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "France",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 4550,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "France",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Germany",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 36000,
-    "Electric arc furnace (EAF)": 13200,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Germany",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 12350,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Germany",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 1900,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Ghana",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 800,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Ghana",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Ghana",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Greece",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 2850,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Greece",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Greece",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Guatemala",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 500,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Guatemala",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Guatemala",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Hong Kong",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Hong Kong",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 700,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Hong Kong",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Hungary",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 1600,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Hungary",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 3000,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Hungary",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "India",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 85194,
-    "Electric arc furnace (EAF)": 31278,
-    "Other or unspecified": 21881.52
-  },
-  {
-    "Country": "India",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 218407,
-    "Electric arc furnace (EAF)": 34639,
-    "Other or unspecified": 94851
-  },
-  {
-    "Country": "India",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 22612,
-    "Electric arc furnace (EAF)": 6244,
-    "Other or unspecified": 2064
-  },
-  {
-    "Country": "Indonesia",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 11980,
-    "Electric arc furnace (EAF)": 8870,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Indonesia",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 21000,
-    "Electric arc furnace (EAF)": 1200,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Indonesia",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Iran",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 5100,
-    "Electric arc furnace (EAF)": 37699,
-    "Other or unspecified": 1100
-  },
-  {
-    "Country": "Iran",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 2280,
-    "Electric arc furnace (EAF)": 26650,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Iran",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 20913,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Iraq",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 3335,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Iraq",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Iraq",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 500,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Italy",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 7800,
-    "Electric arc furnace (EAF)": 23436,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Italy",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 6100,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Italy",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Japan",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 75357,
-    "Electric arc furnace (EAF)": 27588,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Japan",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 4800,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Japan",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Kazakhstan",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 6000,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Kazakhstan",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 818,
-    "Electric arc furnace (EAF)": 1200,
-    "Other or unspecified": 5800
-  },
-  {
-    "Country": "Kazakhstan",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Kenya",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 1000,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Kenya",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Kenya",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Kuwait",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 1200,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Kuwait",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Kuwait",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Latvia",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Latvia",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Latvia",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Libya",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 1614,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Libya",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 2700,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Libya",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Luxembourg",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 2350,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Luxembourg",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Luxembourg",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 1250,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Malaysia",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 6200,
-    "Electric arc furnace (EAF)": 6170,
-    "Other or unspecified": 800
-  },
-  {
-    "Country": "Malaysia",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 6600,
-    "Electric arc furnace (EAF)": 500,
-    "Other or unspecified": 10500
-  },
-  {
-    "Country": "Malaysia",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 5000,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Mexico",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 2500,
-    "Electric arc furnace (EAF)": 20541,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Mexico",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 1500,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Mexico",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 2600,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Moldova",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 1000,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Moldova",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Moldova",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Morocco",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 4000,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Morocco",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Morocco",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Mozambique",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Mozambique",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Mozambique",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 500,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Myanmar",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 200,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Myanmar",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 4000,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Myanmar",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 200,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Namibia",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Namibia",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Namibia",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 4500,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Netherlands",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 7500,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Netherlands",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 6580,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Netherlands",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "New Zealand",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 670,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "New Zealand",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "New Zealand",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 650,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Nigeria",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 600,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Nigeria",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 3000,
-    "Other or unspecified": 1500
-  },
-  {
-    "Country": "Nigeria",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 1300,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 1000
-  },
-  {
-    "Country": "North Korea",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 4500,
-    "Electric arc furnace (EAF)": 3502,
-    "Other or unspecified": 2250
-  },
-  {
-    "Country": "North Korea",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "North Korea",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "North Macedonia",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 550,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "North Macedonia",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "North Macedonia",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Norway",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 770,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Norway",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Norway",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Oman",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 4300,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Oman",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Oman",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 5100,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Pakistan",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 450,
-    "Other or unspecified": 1948
-  },
-  {
-    "Country": "Pakistan",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 1280,
-    "Other or unspecified": 1583
-  },
-  {
-    "Country": "Pakistan",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 1100
-  },
-  {
-    "Country": "Peru",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 2000,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Peru",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Peru",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Philippines",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 1500,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Philippines",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 7500,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Philippines",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 12000,
-    "Electric arc furnace (EAF)": 2300,
-    "Other or unspecified": 1500
-  },
-  {
-    "Country": "Poland",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 5001,
-    "Electric arc furnace (EAF)": 4690,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Poland",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Poland",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Portugal",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 1700,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Portugal",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Portugal",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Qatar",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 2574,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Qatar",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Qatar",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Romania",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 3000,
-    "Electric arc furnace (EAF)": 1835,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Romania",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 5300,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Romania",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 500,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Russia",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 52801,
-    "Electric arc furnace (EAF)": 33005,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Russia",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 1141,
-    "Electric arc furnace (EAF)": 1470,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Russia",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 4030,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Saudi Arabia",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 11650,
-    "Other or unspecified": 350
-  },
-  {
-    "Country": "Saudi Arabia",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 9667,
-    "Other or unspecified": 4150
-  },
-  {
-    "Country": "Saudi Arabia",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 630,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Serbia",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 2199,
-    "Electric arc furnace (EAF)": 500,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Serbia",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Serbia",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Singapore",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 720,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Singapore",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Singapore",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Slovakia",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 4500,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Slovakia",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Slovakia",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Slovenia",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 726,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Slovenia",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Slovenia",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "South Africa",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 3360,
-    "Electric arc furnace (EAF)": 1450,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "South Africa",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 3600,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "South Africa",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "South Korea",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 53000,
-    "Electric arc furnace (EAF)": 26828,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "South Korea",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 3500,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "South Korea",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 2500,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Spain",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 5400,
-    "Electric arc furnace (EAF)": 14040,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Spain",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 2600,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Spain",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 1100,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Sri Lanka",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Sri Lanka",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Sri Lanka",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 600,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Sweden",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 3800,
-    "Electric arc furnace (EAF)": 1013,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Sweden",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 5000,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Sweden",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 4000,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Switzerland",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 1370,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Switzerland",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Switzerland",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Syria",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 2200,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Syria",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Syria",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Taiwan",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 15001,
-    "Electric arc furnace (EAF)": 8601,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Taiwan",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 1500,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Taiwan",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Thailand",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 8555,
-    "Other or unspecified": 730
-  },
-  {
-    "Country": "Thailand",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 2500,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Thailand",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Trinidad and Tobago",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Trinidad and Tobago",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Trinidad and Tobago",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Türkiye",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 13102,
-    "Electric arc furnace (EAF)": 42431,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Türkiye",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 8900,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Türkiye",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 2000,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Uganda",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 450,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Uganda",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Uganda",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Ukraine",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 12255,
-    "Electric arc furnace (EAF)": 2320,
-    "Other or unspecified": 2930
-  },
-  {
-    "Country": "Ukraine",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Ukraine",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "United Arab Emirates",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 3600,
-    "Other or unspecified": 600
-  },
-  {
-    "Country": "United Arab Emirates",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "United Arab Emirates",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "United Kingdom",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 3201,
-    "Electric arc furnace (EAF)": 2920,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "United Kingdom",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 1280,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "United Kingdom",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 3200,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "United States",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 32023,
-    "Electric arc furnace (EAF)": 81399,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "United States",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 5350,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "United States",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 3000,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Uzbekistan",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 1100,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Uzbekistan",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 1500,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Uzbekistan",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 1040,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Venezuela",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 1020,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Venezuela",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Venezuela",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Vietnam",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 22675,
-    "Electric arc furnace (EAF)": 8202,
-    "Other or unspecified": 4350
-  },
-  {
-    "Country": "Vietnam",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 14000,
-    "Electric arc furnace (EAF)": 15180,
-    "Other or unspecified": 7500
-  },
-  {
-    "Country": "Vietnam",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 500,
-    "Electric arc furnace (EAF)": 2000,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Zimbabwe",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 600,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Zimbabwe",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 1200,
-    "Other or unspecified": 3200
-  },
-  {
-    "Country": "Zimbabwe",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 0,
-    "Electric arc furnace (EAF)": 0,
-    "Other or unspecified": 0
-  },
-  {
-    "Country": "Global",
-    "Status": "operating",
-    "Basic oxygen furnace (BOF)": 1458750,
-    "Electric arc furnace (EAF)": 703659,
-    "Other or unspecified": 40075.52
-  },
-  {
-    "Country": "Global",
-    "Status": "announced",
-    "Basic oxygen furnace (BOF)": 318011,
-    "Electric arc furnace (EAF)": 238343,
-    "Other or unspecified": 130884
-  },
-  {
-    "Country": "Global",
-    "Status": "construction",
-    "Basic oxygen furnace (BOF)": 76400,
-    "Electric arc furnace (EAF)": 110060,
-    "Other or unspecified": 5664
-  }
+ {
+   "Country": "Albania",
+   "Status": "operating",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Albania",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 1000,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Albania",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Algeria",
+   "Status": "operating",
+   "BOF": 0,
+   "EAF": 8690,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Algeria",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 4400,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Algeria",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Angola",
+   "Status": "operating",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 500,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Angola",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 1000,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Angola",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Argentina",
+   "Status": "operating",
+   "BOF": 3501,
+   "EAF": 4370,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Argentina",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Argentina",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Australia",
+   "Status": "operating",
+   "BOF": 4400,
+   "EAF": 1530,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Australia",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 7500,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Australia",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Austria",
+   "Status": "operating",
+   "BOF": 7570,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Austria",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Austria",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 3300,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Azerbaijan",
+   "Status": "operating",
+   "BOF": 0,
+   "EAF": 800,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Azerbaijan",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Azerbaijan",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Bahrain",
+   "Status": "operating",
+   "BOF": 0,
+   "EAF": 1300,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Bahrain",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Bahrain",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Bangladesh",
+   "Status": "operating",
+   "BOF": 0,
+   "EAF": 3040,
+   "IF": 2131,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Bangladesh",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Bangladesh",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 3650,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Belarus",
+   "Status": "operating",
+   "BOF": 0,
+   "EAF": 3000,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Belarus",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Belarus",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Belgium",
+   "Status": "operating",
+   "BOF": 5200,
+   "EAF": 3000,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Belgium",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Belgium",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Bolivia",
+   "Status": "operating",
+   "BOF": 0,
+   "EAF": 200,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Bolivia",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 500,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Bolivia",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Bosnia and Herzegovina",
+   "Status": "operating",
+   "BOF": 1140,
+   "EAF": 800,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Bosnia and Herzegovina",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Bosnia and Herzegovina",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Brazil",
+   "Status": "operating",
+   "BOF": 32497,
+   "EAF": 10420,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Brazil",
+   "Status": "announced",
+   "BOF": 500,
+   "EAF": 1100,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Brazil",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 700,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Bulgaria",
+   "Status": "operating",
+   "BOF": 0,
+   "EAF": 1400,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Bulgaria",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Bulgaria",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Cambodia",
+   "Status": "operating",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Cambodia",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Cambodia",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Canada",
+   "Status": "operating",
+   "BOF": 5800,
+   "EAF": 8750,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Canada",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 2400,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Canada",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 1850,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Chile",
+   "Status": "operating",
+   "BOF": 0,
+   "EAF": 520,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Chile",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Chile",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "China",
+   "Status": "operating",
+   "BOF": 885642,
+   "EAF": 187606,
+   "IF": 240,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "China",
+   "Status": "announced",
+   "BOF": 44565,
+   "EAF": 19470,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "China",
+   "Status": "construction",
+   "BOF": 23005,
+   "EAF": 23897,
+   "IF": 0,
+   "Other or unspecified": 1200
+ },
+ {
+   "Country": "Czech Republic",
+   "Status": "operating",
+   "BOF": 2600,
+   "EAF": 200,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Czech Republic",
+   "Status": "announced",
+   "BOF": 1300,
+   "EAF": 1300,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Czech Republic",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 3500,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Egypt",
+   "Status": "operating",
+   "BOF": 0,
+   "EAF": 15560,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Egypt",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 2000,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Egypt",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Ethiopia",
+   "Status": "operating",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Ethiopia",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Ethiopia",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Finland",
+   "Status": "operating",
+   "BOF": 2600,
+   "EAF": 1775,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Finland",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 5100,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Finland",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "France",
+   "Status": "operating",
+   "BOF": 11850,
+   "EAF": 5600,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "France",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 5450,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "France",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Germany",
+   "Status": "operating",
+   "BOF": 31520,
+   "EAF": 13200,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Germany",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 12350,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Germany",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 1900,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Ghana",
+   "Status": "operating",
+   "BOF": 0,
+   "EAF": 800,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Ghana",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Ghana",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Greece",
+   "Status": "operating",
+   "BOF": 0,
+   "EAF": 3150,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Greece",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Greece",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Guatemala",
+   "Status": "operating",
+   "BOF": 0,
+   "EAF": 500,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Guatemala",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Guatemala",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Hong Kong",
+   "Status": "operating",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Hong Kong",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 700,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Hong Kong",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Hungary",
+   "Status": "operating",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Hungary",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Hungary",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "India",
+   "Status": "operating",
+   "BOF": 85663,
+   "EAF": 26578,
+   "IF": 13768,
+   "Other or unspecified": 14450
+ },
+ {
+   "Country": "India",
+   "Status": "announced",
+   "BOF": 196442,
+   "EAF": 37130,
+   "IF": 17594,
+   "Other or unspecified": 84690
+ },
+ {
+   "Country": "India",
+   "Status": "construction",
+   "BOF": 15992,
+   "EAF": 3244,
+   "IF": 2064,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Indonesia",
+   "Status": "operating",
+   "BOF": 11980,
+   "EAF": 9420,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Indonesia",
+   "Status": "announced",
+   "BOF": 21000,
+   "EAF": 1200,
+   "IF": 0,
+   "Other or unspecified": 2000
+ },
+ {
+   "Country": "Indonesia",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Iran",
+   "Status": "operating",
+   "BOF": 5100,
+   "EAF": 40723,
+   "IF": 1935,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Iran",
+   "Status": "announced",
+   "BOF": 2280,
+   "EAF": 32120,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Iran",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 15813,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Iraq",
+   "Status": "operating",
+   "BOF": 0,
+   "EAF": 3180,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Iraq",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Iraq",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Italy",
+   "Status": "operating",
+   "BOF": 7800,
+   "EAF": 23936,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Italy",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 8080,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Italy",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 3000,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Japan",
+   "Status": "operating",
+   "BOF": 76812,
+   "EAF": 28788,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Japan",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 6000,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Japan",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Kazakhstan",
+   "Status": "operating",
+   "BOF": 6000,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Kazakhstan",
+   "Status": "announced",
+   "BOF": 818,
+   "EAF": 4200,
+   "IF": 0,
+   "Other or unspecified": 5000
+ },
+ {
+   "Country": "Kazakhstan",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 1200,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Kenya",
+   "Status": "operating",
+   "BOF": 1000,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Kenya",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Kenya",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Kuwait",
+   "Status": "operating",
+   "BOF": 0,
+   "EAF": 1200,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Kuwait",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Kuwait",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Latvia",
+   "Status": "operating",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Latvia",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Latvia",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Libya",
+   "Status": "operating",
+   "BOF": 0,
+   "EAF": 1710,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Libya",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 2700,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Libya",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Luxembourg",
+   "Status": "operating",
+   "BOF": 0,
+   "EAF": 2600,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Luxembourg",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Luxembourg",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Malaysia",
+   "Status": "operating",
+   "BOF": 6200,
+   "EAF": 4920,
+   "IF": 800,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Malaysia",
+   "Status": "announced",
+   "BOF": 11600,
+   "EAF": 500,
+   "IF": 500,
+   "Other or unspecified": 8800
+ },
+ {
+   "Country": "Malaysia",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Mauritania",
+   "Status": "operating",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Mauritania",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 2500
+ },
+ {
+   "Country": "Mauritania",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Mexico",
+   "Status": "operating",
+   "BOF": 2500,
+   "EAF": 19891,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Mexico",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 1500,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Mexico",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 4750,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Moldova",
+   "Status": "operating",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Moldova",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Moldova",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Morocco",
+   "Status": "operating",
+   "BOF": 0,
+   "EAF": 3320,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Morocco",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Morocco",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Mozambique",
+   "Status": "operating",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Mozambique",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Mozambique",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 500,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Myanmar",
+   "Status": "operating",
+   "BOF": 0,
+   "EAF": 400,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Myanmar",
+   "Status": "announced",
+   "BOF": 4000,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Myanmar",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Namibia",
+   "Status": "operating",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Namibia",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Namibia",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 4500,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Netherlands",
+   "Status": "operating",
+   "BOF": 7500,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Netherlands",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 6580,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Netherlands",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "New Zealand",
+   "Status": "operating",
+   "BOF": 670,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "New Zealand",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "New Zealand",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 650,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Nigeria",
+   "Status": "operating",
+   "BOF": 0,
+   "EAF": 600,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Nigeria",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 3000,
+   "IF": 0,
+   "Other or unspecified": 1500
+ },
+ {
+   "Country": "Nigeria",
+   "Status": "construction",
+   "BOF": 1300,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 1000
+ },
+ {
+   "Country": "North Korea",
+   "Status": "operating",
+   "BOF": 4500,
+   "EAF": 3502,
+   "IF": 0,
+   "Other or unspecified": 2250
+ },
+ {
+   "Country": "North Korea",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "North Korea",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "North Macedonia",
+   "Status": "operating",
+   "BOF": 0,
+   "EAF": 550,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "North Macedonia",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "North Macedonia",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Norway",
+   "Status": "operating",
+   "BOF": 0,
+   "EAF": 770,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Norway",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Norway",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Oman",
+   "Status": "operating",
+   "BOF": 0,
+   "EAF": 3200,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Oman",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Oman",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 5100,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Pakistan",
+   "Status": "operating",
+   "BOF": 0,
+   "EAF": 450,
+   "IF": 2048,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Pakistan",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 1280,
+   "IF": 183,
+   "Other or unspecified": 1000
+ },
+ {
+   "Country": "Pakistan",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 500,
+   "Other or unspecified": 500
+ },
+ {
+   "Country": "Peru",
+   "Status": "operating",
+   "BOF": 0,
+   "EAF": 2000,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Peru",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Peru",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Philippines",
+   "Status": "operating",
+   "BOF": 2000,
+   "EAF": 2100,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Philippines",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 6500,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Philippines",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 3300,
+   "IF": 0,
+   "Other or unspecified": 1500
+ },
+ {
+   "Country": "Poland",
+   "Status": "operating",
+   "BOF": 5001,
+   "EAF": 5010,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Poland",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Poland",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Portugal",
+   "Status": "operating",
+   "BOF": 0,
+   "EAF": 1700,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Portugal",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Portugal",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Qatar",
+   "Status": "operating",
+   "BOF": 0,
+   "EAF": 2900,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Qatar",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Qatar",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Romania",
+   "Status": "operating",
+   "BOF": 0,
+   "EAF": 1335,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Romania",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 5300,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Romania",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 300,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Russia",
+   "Status": "operating",
+   "BOF": 51660,
+   "EAF": 33355,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Russia",
+   "Status": "announced",
+   "BOF": 1141,
+   "EAF": 1470,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Russia",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 4030,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Saudi Arabia",
+   "Status": "operating",
+   "BOF": 0,
+   "EAF": 11650,
+   "IF": 350,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Saudi Arabia",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 20100,
+   "IF": 0,
+   "Other or unspecified": 4000
+ },
+ {
+   "Country": "Saudi Arabia",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 630,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Serbia",
+   "Status": "operating",
+   "BOF": 2199,
+   "EAF": 500,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Serbia",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Serbia",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Singapore",
+   "Status": "operating",
+   "BOF": 0,
+   "EAF": 750,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Singapore",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Singapore",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Slovakia",
+   "Status": "operating",
+   "BOF": 4500,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Slovakia",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Slovakia",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Slovenia",
+   "Status": "operating",
+   "BOF": 0,
+   "EAF": 726,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Slovenia",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Slovenia",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "South Africa",
+   "Status": "operating",
+   "BOF": 3360,
+   "EAF": 1450,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "South Africa",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 1700,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "South Africa",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "South Korea",
+   "Status": "operating",
+   "BOF": 53000,
+   "EAF": 27885,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "South Korea",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 3500,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "South Korea",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 2500,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Spain",
+   "Status": "operating",
+   "BOF": 5400,
+   "EAF": 13440,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Spain",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 2600,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Spain",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 1100,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Sri Lanka",
+   "Status": "operating",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Sri Lanka",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Sri Lanka",
+   "Status": "construction",
+   "BOF": 600,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Sweden",
+   "Status": "operating",
+   "BOF": 3800,
+   "EAF": 1013,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Sweden",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 2500,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Sweden",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 6500,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Switzerland",
+   "Status": "operating",
+   "BOF": 0,
+   "EAF": 1370,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Switzerland",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Switzerland",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Syria",
+   "Status": "operating",
+   "BOF": 0,
+   "EAF": 2400,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Syria",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Syria",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Taiwan",
+   "Status": "operating",
+   "BOF": 15001,
+   "EAF": 9700,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Taiwan",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 1500,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Taiwan",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Thailand",
+   "Status": "operating",
+   "BOF": 0,
+   "EAF": 8555,
+   "IF": 730,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Thailand",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 2500,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Thailand",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Trinidad and Tobago",
+   "Status": "operating",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Trinidad and Tobago",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Trinidad and Tobago",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Tunisia",
+   "Status": "operating",
+   "BOF": 0,
+   "EAF": 200,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Tunisia",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 400,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Tunisia",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Türkiye",
+   "Status": "operating",
+   "BOF": 13102,
+   "EAF": 43230,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Türkiye",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 10150,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Türkiye",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 2000,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Uganda",
+   "Status": "operating",
+   "BOF": 0,
+   "EAF": 600,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Uganda",
+   "Status": "announced",
+   "BOF": 1000,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Uganda",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Ukraine",
+   "Status": "operating",
+   "BOF": 12255,
+   "EAF": 3303,
+   "IF": 17,
+   "Other or unspecified": 4102
+ },
+ {
+   "Country": "Ukraine",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Ukraine",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "United Arab Emirates",
+   "Status": "operating",
+   "BOF": 0,
+   "EAF": 4500,
+   "IF": 600,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "United Arab Emirates",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "United Arab Emirates",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "United Kingdom",
+   "Status": "operating",
+   "BOF": 4500,
+   "EAF": 1500,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "United Kingdom",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 1330,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "United Kingdom",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 3200,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "United States",
+   "Status": "operating",
+   "BOF": 29301,
+   "EAF": 81545,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "United States",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 7700,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "United States",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 3740,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Uzbekistan",
+   "Status": "operating",
+   "BOF": 0,
+   "EAF": 1100,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Uzbekistan",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 1500,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Uzbekistan",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 1040,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Venezuela",
+   "Status": "operating",
+   "BOF": 0,
+   "EAF": 1020,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Venezuela",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Venezuela",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Vietnam",
+   "Status": "operating",
+   "BOF": 25574,
+   "EAF": 9502,
+   "IF": 4350,
+   "Other or unspecified": 500
+ },
+ {
+   "Country": "Vietnam",
+   "Status": "announced",
+   "BOF": 14000,
+   "EAF": 12900,
+   "IF": 0,
+   "Other or unspecified": 8000
+ },
+ {
+   "Country": "Vietnam",
+   "Status": "construction",
+   "BOF": 500,
+   "EAF": 3310,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Zimbabwe",
+   "Status": "operating",
+   "BOF": 0,
+   "EAF": 600,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Zimbabwe",
+   "Status": "announced",
+   "BOF": 0,
+   "EAF": 1200,
+   "IF": 0,
+   "Other or unspecified": 3200
+ },
+ {
+   "Country": "Zimbabwe",
+   "Status": "construction",
+   "BOF": 0,
+   "EAF": 0,
+   "IF": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Global",
+   "Status": "operating",
+   "BOF": 1440698,
+   "EAF": 726888,
+   "IF": 27469,
+   "Other or unspecified": 21302
+ },
+ {
+   "Country": "Global",
+   "Status": "announced",
+   "BOF": 298646,
+   "EAF": 251410,
+   "IF": 18277,
+   "Other or unspecified": 120690
+ },
+ {
+   "Country": "Global",
+   "Status": "construction",
+   "BOF": 41397,
+   "EAF": 109204,
+   "IF": 2564,
+   "Other or unspecified": 4200
+ }
 ]

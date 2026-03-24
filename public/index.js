@@ -31,7 +31,7 @@ async function getData() {
                 config.datasets[id] = [];
             })
             if (config.dashboard.tickers) {
-                dataURLS.push('https://public.flourish.studio/visualisation/16565310/visualisation.json') // this assumes we want the same template for all tickers
+                dataURLS.push('https://public.flourish.studio/visualisation/16565310/visualisation.json')
                 dataURLS.push(`./assets/data/${config.dashboard.ticker_data}.json`)
                 config.datasets.ticker = {};
             }
@@ -61,7 +61,6 @@ async function getData() {
                     if (config.dashboard.input_type === 'dropdown') implementDropdown();
                     if (config.dashboard.input_type === 'buttons') implementFilterButtons();
                     if (config.text.footer) document.querySelector('.dashboard-footer').innerHTML = markdownToHTML(config.text.footer);
-                    // add another to implement combo
                 })
                 .then(() => renderTickers())
                 .then(() => renderVisualisation())
@@ -78,11 +77,11 @@ function implementDropdown() {
     if (!config.text.dropdown_label) throw new Error('input_label not found or does not match input type. Check page and text configs');
     const label = document.createElement('label');
     label.innerHTML = markdownToHTML(config.text.dropdown_label);
-    label.for = "dropdown-selection"
+    label.for = "dropdown-selection";
     const dropdownEl = document.createElement('select');
     dropdownEl.id = "dropdown-selection";
 
-    if (!config.text.dropdown) throw new Error('page-config specifies input of dropdown but text-config does not match')
+    if (!config.text.dropdown) throw new Error('page-config specifies input of dropdown but text-config does not match');
 
     let dropdownData = (typeof config.dashboard.input_filter === 'string') ?
         config.text.dropdown.map(entry => entry[config.dashboard.input_filter]) :
@@ -104,23 +103,23 @@ function implementDropdown() {
         const selectedValue = evt.target.value;
         updateSummaries(selectedValue);
         updateGraphs(selectedValue);
-    })
+    });
 }
 
 function implementFilterButtons() {
-    if (!config.text.buttons_label) throw new Error('input_label not found or does not match input type. Check page and text configs')
+    if (!config.text.buttons_label) throw new Error('input_label not found or does not match input type. Check page and text configs');
     const label = document.createElement('legend');
     label.innerHTML = markdownToHTML(config.text.buttons_label);
-    label.for = "button-group"
+    label.for = "button-group";
     const btnGroup = document.createElement('fieldset');
     btnGroup.classList.add('button-group');
     btnGroup.appendChild(label);
 
-    btnsWrapper = document.createElement('div');
+    const btnsWrapper = document.createElement('div');
     btnsWrapper.classList.add('buttons-wrapper');
     btnGroup.appendChild(btnsWrapper);
 
-    if (!config.text.buttons) throw new Error('page-config specifies input of buttons but text-config does not match')
+    if (!config.text.buttons) throw new Error('page-config specifies input of buttons but text-config does not match');
 
     let buttonData = (typeof config.dashboard.input_filter === 'string') ?
         config.text.buttons.map(entry => entry[config.dashboard.input_filter]) :
@@ -132,12 +131,12 @@ function implementFilterButtons() {
 
         const btn = document.createElement('input');
         btn.type = 'radio';
-        if (i === 0) btn.checked = "checked";
-        // btn.classList.add('filter-button');
+        if (i === 0) btn.checked = true;
         btn.value = formatName(button);
         btn.id = formatName(button);
         btn.text = button;
         btn.name = 'filter';
+
         const label = document.createElement('label');
         label.innerHTML = button;
         label.for = formatName(button);
@@ -146,6 +145,7 @@ function implementFilterButtons() {
         btnContainer.appendChild(btn);
         btnsWrapper.appendChild(btnContainer);
     });
+
     const controlsContainer = document.querySelector('.controls-container');
     controlsContainer.appendChild(btnGroup);
     controlsContainer.classList.add('controls-container--buttons');
@@ -154,12 +154,11 @@ function implementFilterButtons() {
     buttonEls.forEach(btn => {
         btn.addEventListener('click', (evt) => {
             buttonEls.forEach(btnEl => btnEl.checked = false);
-            evt.target.checked = "checked";
-
+            evt.target.checked = true;
             const selectedValue = evt.target.value;
             updateSummaries(selectedValue);
             updateGraphs(selectedValue);
-        })
+        });
     });
 }
 
@@ -170,30 +169,24 @@ function renderTickers() {
         document.querySelector('.dashboard-intro').appendChild(container);
         const initialData = initialTickerData()[0];
 
-        const {
-            state
-        } = config.datasets.ticker.flourish_template;
+        const { state } = config.datasets.ticker.flourish_template;
         if (config.dashboard["ticker_text_font-size"]) {
             const tickerTextSplit = config.dashboard["ticker_text_font-size"]
-                .match(/[a-zA-Z]+|[0-9]+(?:\.[0-9]+)?|\.[0-9]+/g); // grab text size from config and split into size and unit needed in flourish:
+                .match(/[a-zA-Z]+|[0-9]+(?:\.[0-9]+)?|\.[0-9]+/g);
             state.font_size = tickerTextSplit[0];
-            state.font_unit = tickerTextSplit[1]
+            state.font_unit = tickerTextSplit[1];
         }
 
         const options = {
             template: "@flourish/number-ticker",
             version: '1.5.1',
             api_url: "/flourish",
-            api_key: "", //filled in server side
-            state: {
-                ...state
-            }
+            api_key: "",
+            state: { ...state }
         };
 
         config.dashboard.tickers.forEach((entry, i) => {
-            const {
-                id
-            } = entry;
+            const { id } = entry;
             const container = document.createElement('div');
             container.id = id;
             container.classList.add('ticker-container');
@@ -212,32 +205,30 @@ function renderTickers() {
                         n_dec: tickerConf.decimal_places,
                     }
                 }
-            }
+            };
             tickers[id].flourish = new Flourish.Live(tickers[id].options);
-            tickers[id].flourish.iframe.style.width = "100%"; // needed to override full width in safari
+            tickers[id].flourish.iframe.style.width = "100%";
         });
     }
 }
 
 function updateTickers() {
     config.dashboard.tickers.forEach((entry, i) => {
-        const {
-            id
-        } = entry;
+        const { id } = entry;
         const data = filterTickerData(getSelectedText());
         if (data[id]) {
-            tickers[id].options.state.custom_template = formatWithTickerStyling(data, id)
-            tickers[id].flourish.update(tickers[id].options)
+            tickers[id].options.state.custom_template = formatWithTickerStyling(data, id);
+            tickers[id].flourish.update(tickers[id].options);
             document.querySelector(`#${id} iframe`).style.opacity = 1;
-        } else document.querySelector(`#${id} iframe`).style.opacity = 0.3;
+        } else {
+            document.querySelector(`#${id} iframe`).style.opacity = 0.3;
+        }
     });
 }
 
 function formatWithTickerStyling(data, id) {
     const text = data[id];
-    const {
-        style
-    } = config.dashboard.tickers.filter(entry => entry.id === id)[0];
+    const { style } = config.dashboard.tickers.filter(entry => entry.id === id)[0];
     const colourOverride = data[`${id}_color`];
     const styledSpan = Object.entries(style).reduce((prev, [key, val]) => `${prev} ${key}: ${(key === 'color' && colourOverride) ? colourOverride : val};`, '<span style="') + '">';
     return text.replace('<span>', styledSpan);
@@ -252,7 +243,7 @@ function renderVisualisation() {
         document.querySelector('.flourish-container').appendChild(container);
         insertChartSummary(id);
         implentGraph(id);
-    })
+    });
 }
 
 function insertOverallSummary() {
@@ -273,7 +264,8 @@ function insertChartSummary(id) {
         if (typeof currentGraph.filter_by === 'string') {
             summaryTextObj = filterSummaries(currentGraph.filter_by, config.charts[id].initial_state);
         } else {
-            summaryTextObj = config.text[(config.dashboard.input_type === 'dropdown') ? 'dropdown' : 'buttons'].filter(entry => entry[config.dashboard.input_key] === config.dashboard.input_default)[0];
+            summaryTextObj = config.text[(config.dashboard.input_type === 'dropdown') ? 'dropdown' : 'buttons']
+                .filter(entry => entry[config.dashboard.input_key] === config.dashboard.input_default)[0];
         }
         if (summaryTextObj[currentGraph.summary]) {
             summary.innerHTML = markdownToHTML(summaryTextObj[currentGraph.summary]);
@@ -317,7 +309,8 @@ function updateGraphSummaries(key, summaryTextObj) {
             if (summary) {
                 summary.innerHTML = markdownToHTML(
                     (filteredData.length <= 0 || !summaryTextObj[currentGraph.summary]) ?
-                    config.text.no_data.replace("{{selected}}", summaryTextObj[config.dashboard.input_filter]) : summaryTextObj[currentGraph.summary]);
+                    config.text.no_data.replace("{{selected}}", summaryTextObj[config.dashboard.input_filter]) :
+                    summaryTextObj[currentGraph.summary]);
             }
         }
     });
@@ -329,22 +322,21 @@ function implentGraph(id) {
     fetch(`https://public.flourish.studio/visualisation/${id}/visualisation.json`)
     .then((response) => response.json())
     .then((options) => {
+        const bindings = {
+            ...options.bindings,
+            data: {
+                ...options.bindings.data,
+                label: config.charts[id].x_axis || "Country",
+                value: config.charts[id].values,
+            }
+        };
         graphs[id].opts = {
             ...options,
-            // template: "@flourish/line-bar-pie",
-            // version: 25,
             container: `#chart-${id}`,
             api_url: "/flourish",
-            api_key: "", //filled in server side
+            api_key: "",
             base_visualisation_id: id,
-            bindings: {
-                ...options.bindings,
-                data: {
-                    ...options.bindings.data,
-                    label: config.charts[id].x_axis, // this seems to be the X axis
-                    value: config.charts[id].values, // this is the actual bar
-                }
-            },
+            bindings: bindings,
             data: {
                 ...options.data,
                 data: initialData(id),
@@ -358,9 +350,6 @@ function implentGraph(id) {
             }
         };
         if (options.template === "@flourish/line-bar-pie") graphs[id].opts.version = 25;
-        // if (config.charts[id].filterable) {
-        //     graphs[id].opts.bindings.data.metadata = config.charts[id].pop_up; // this is pop ups, can have multiple values
-        // }
         graphs[id].flourish = new Flourish.Live(graphs[id].opts);
     });
 }
@@ -370,7 +359,6 @@ function updateGraphs(key) {
     graphIDs.forEach(id => {
         const currentGraph = config.charts[id];
         if (currentGraph.filterable) {
-
             let filteredData;
             if (typeof config.charts[id].filter_by === 'string') {
                 filteredData = config.datasets[id].filter(entry => formatName(entry[currentGraph.filter_by]) === key);
@@ -383,9 +371,7 @@ function updateGraphs(key) {
                 graphs[id].opts.data = {
                     data: filteredData
                 };
-                // const replacementString = key === currentGraph.initial_state.toLowerCase() ? chart_title_variation_initial : chart_title_variation_filtered.replace(chart_title_flag, filteredData[0].Country);
-                // graphs[id].opts.state.layout.title = currentGraph.title.replace('', ` ${replacementString}?`)
-                graphs[id].flourish.update(graphs[id].opts)
+                graphs[id].flourish.update(graphs[id].opts);
                 document.querySelector(`#chart-${id} iframe`).style.opacity = 1;
             } else {
                 document.querySelector(`#chart-${id} iframe`).style.opacity = 0.3;
@@ -402,7 +388,7 @@ function getUnformattedInputName(string) {
     let output = '';
     config.dashboard.input_filter.forEach(key => {
         if (formatName(key) === string) output = key;
-    })
+    });
     return output;
 }
 
@@ -414,7 +400,7 @@ function initialData(id) {
         } else {
             const defaultFilter = config.dashboard.input_default;
             if (defaultFilter === "All") return data;
-            else return filterDataOnColumnName(formatName(defaultFilter), id)
+            else return filterDataOnColumnName(formatName(defaultFilter), id);
         }
     }
     return data;
@@ -423,10 +409,10 @@ function initialData(id) {
 function filterDataOnColumnName(key, id) {
     const filterValue = getUnformattedInputName(key);
     const x_value = config.charts[id].x_axis;
-    filteredData = config.datasets[id].map(entry => {
+    const filteredData = config.datasets[id].map(entry => {
         let output = {};
         output[filterValue] = entry[filterValue];
-        output[x_value] = entry[x_value];
+        if (x_value) output[x_value] = entry[x_value];
         return output;
     });
     return filteredData;
@@ -456,13 +442,13 @@ function getSelectedButton() {
 }
 
 function markdownToHTML(string) {
-    return converter.makeHtml(string).replace(/<\/?p[^>]*>/g, '');;
+    return converter.makeHtml(string).replace(/<\/?p[^>]*>/g, '');
 }
 
 function addExtraVisualisations() {
     const wrapper = document.createElement('div');
     wrapper.classList.add('vis-container');
-    document.querySelector('body').insertBefore(wrapper, document.querySelector('.dashboard-footer'))
+    document.querySelector('body').insertBefore(wrapper, document.querySelector('.dashboard-footer'));
     const IDsToAdd = config.dashboard.extra_visualisations;
     IDsToAdd.forEach(id => {
         const container = document.createElement('div');
