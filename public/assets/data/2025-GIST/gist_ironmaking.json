@@ -2188,5 +2188,35 @@
     "DRI (H2)": 0,
     "DRI (other/unknown)": 0,
     "Other/unspecified": 0
+  },
+  {
+    "Country": "Global",
+    "Status": "operating",
+    "BF (coal)": 1492676,
+    "DRI (coal)": 28052,
+    "DRI (methane)": 107102,
+    "DRI (H2)": 4819,
+    "DRI (other/unknown)": 28828,
+    "Other/unspecified": 12327
+  },
+  {
+    "Country": "Global",
+    "Status": "announced",
+    "BF (coal)": 267055,
+    "DRI (coal)": 20969,
+    "DRI (methane)": 70915,
+    "DRI (H2)": 33868,
+    "DRI (other/unknown)": 60485,
+    "Other/unspecified": 71280
+  },
+  {
+    "Country": "Global",
+    "Status": "construction",
+    "BF (coal)": 51903,
+    "DRI (coal)": 4590,
+    "DRI (methane)": 13300,
+    "DRI (H2)": 2126,
+    "DRI (other/unknown)": 33522,
+    "Other/unspecified": 6150
   }
 ]
