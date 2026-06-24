@@ -1,5 +1,5 @@
 {
-    "28084877": {
+    "28356069": {
         "title": "Operating and developing ironmaking capacity",
         "subtitle": "Ironmaking capacity by status and technology type",
         "x_axis": "Status",
@@ -16,7 +16,7 @@
         "filterable": true,
         "filter_by": "Country"
     },
-    "19757457": {
+    "28356080": {
         "title": "Operating and developing steelmaking capacity",
         "subtitle": "Steelmaking capacity by status and technology type",
         "x_axis": "Status",
@@ -31,7 +31,7 @@
         "filterable": true,
         "filter_by": "Country"
     },
-    "28102005": {
+    "28356101": {
          "title": "Coal-based iron investments",
         "subtitle": "Planned coal-based capacity development, compared against planned retirements",
         "x_axis": "",
@@ -47,7 +47,7 @@
         "filterable": true,
         "filter_by": "Country"
     },
-    "19757876": {
+    "28356113": {
         "title": "Iron and steelmaking capacity changes",
         "subtitle": "Change in operating capacity in the latest year by technology type ",
         "x_axis": "Technology",

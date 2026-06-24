@@ -31,7 +31,7 @@ async function getData() {
                 config.datasets[id] = [];
             })
             if (config.dashboard.tickers) {
-                dataURLS.push('https://public.flourish.studio/visualisation/16565310/visualisation.json')
+                dataURLS.push('https://public.flourish.studio/visualisation/28342067/visualisation.json')
                 dataURLS.push(`./assets/data/${config.dashboard.ticker_data}.json`)
                 config.datasets.ticker = {};
             }
@@ -344,6 +344,7 @@ function implentGraph(id) {
             state: {
                 ...options.state,
                 layout: {
+                    ...options.state.layout,
                     title: config.charts[id].title.replace('{{country}}', ''),
                     subtitle: config.charts[id].subtitle,
                 }
