@@ -434,15 +434,15 @@
  {
    "Country": "China",
    "Status": "operating",
-   "BOF": 885642,
-   "EAF": 187606,
+   "BOF": 898083,
+   "EAF": 190721,
    "IF": 240,
    "Other or unspecified": 0
  },
  {
    "Country": "China",
    "Status": "announced",
-   "BOF": 44565,
+   "BOF": 42265,
    "EAF": 19470,
    "IF": 0,
    "Other or unspecified": 0
@@ -450,8 +450,8 @@
  {
    "Country": "China",
    "Status": "construction",
-   "BOF": 23005,
-   "EAF": 23897,
+   "BOF": 20553,
+   "EAF": 20572,
    "IF": 0,
    "Other or unspecified": 1200
  },
@@ -587,7 +587,7 @@
    "Country": "Germany",
    "Status": "announced",
    "BOF": 0,
-   "EAF": 12350,
+   "EAF": 10600,
    "IF": 0,
    "Other or unspecified": 0
  },
@@ -595,7 +595,7 @@
    "Country": "Germany",
    "Status": "construction",
    "BOF": 0,
-   "EAF": 1900,
+   "EAF": 3650,
    "IF": 0,
    "Other or unspecified": 0
  },
@@ -722,7 +722,7 @@
  {
    "Country": "India",
    "Status": "operating",
-   "BOF": 85663,
+   "BOF": 90663,
    "EAF": 26578,
    "IF": 13768,
    "Other or unspecified": 14450
@@ -730,16 +730,16 @@
  {
    "Country": "India",
    "Status": "announced",
-   "BOF": 196442,
-   "EAF": 37130,
+   "BOF": 177142,
+   "EAF": 36080,
    "IF": 17594,
    "Other or unspecified": 84690
  },
  {
    "Country": "India",
    "Status": "construction",
-   "BOF": 15992,
-   "EAF": 3244,
+   "BOF": 31192,
+   "EAF": 4294,
    "IF": 2064,
    "Other or unspecified": 0
  },
@@ -771,7 +771,7 @@
    "Country": "Iran",
    "Status": "operating",
    "BOF": 5100,
-   "EAF": 40723,
+   "EAF": 29723,
    "IF": 1935,
    "Other or unspecified": 0
  },
@@ -843,7 +843,7 @@
    "Country": "Japan",
    "Status": "operating",
    "BOF": 76812,
-   "EAF": 28788,
+   "EAF": 29088,
    "IF": 0,
    "Other or unspecified": 0
  },
@@ -851,7 +851,7 @@
    "Country": "Japan",
    "Status": "announced",
    "BOF": 0,
-   "EAF": 6000,
+   "EAF": 5700,
    "IF": 0,
    "Other or unspecified": 0
  },
@@ -987,7 +987,7 @@
    "Country": "Luxembourg",
    "Status": "operating",
    "BOF": 0,
-   "EAF": 2600,
+   "EAF": 3600,
    "IF": 0,
    "Other or unspecified": 0
  },
@@ -1018,7 +1018,7 @@
  {
    "Country": "Malaysia",
    "Status": "announced",
-   "BOF": 11600,
+   "BOF": 10000,
    "EAF": 500,
    "IF": 500,
    "Other or unspecified": 8800
@@ -1059,7 +1059,7 @@
    "Country": "Mexico",
    "Status": "operating",
    "BOF": 2500,
-   "EAF": 19891,
+   "EAF": 20541,
    "IF": 0,
    "Other or unspecified": 0
  },
@@ -1067,7 +1067,7 @@
    "Country": "Mexico",
    "Status": "announced",
    "BOF": 0,
-   "EAF": 1500,
+   "EAF": 0,
    "IF": 0,
    "Other or unspecified": 0
  },
@@ -1075,7 +1075,7 @@
    "Country": "Mexico",
    "Status": "construction",
    "BOF": 0,
-   "EAF": 4750,
+   "EAF": 5600,
    "IF": 0,
    "Other or unspecified": 0
  },
@@ -1227,7 +1227,7 @@
    "Country": "New Zealand",
    "Status": "operating",
    "BOF": 670,
-   "EAF": 0,
+   "EAF": 650,
    "IF": 0,
    "Other or unspecified": 0
  },
@@ -1243,7 +1243,7 @@
    "Country": "New Zealand",
    "Status": "construction",
    "BOF": 0,
-   "EAF": 650,
+   "EAF": 0,
    "IF": 0,
    "Other or unspecified": 0
  },
@@ -1355,7 +1355,7 @@
    "Country": "Oman",
    "Status": "announced",
    "BOF": 0,
-   "EAF": 0,
+   "EAF": 100,
    "IF": 0,
    "Other or unspecified": 0
  },
@@ -1363,7 +1363,7 @@
    "Country": "Oman",
    "Status": "construction",
    "BOF": 0,
-   "EAF": 5100,
+   "EAF": 5000,
    "IF": 0,
    "Other or unspecified": 0
  },
@@ -1571,7 +1571,7 @@
    "Country": "Saudi Arabia",
    "Status": "announced",
    "BOF": 0,
-   "EAF": 20100,
+   "EAF": 18600,
    "IF": 0,
    "Other or unspecified": 4000
  },
@@ -1579,7 +1579,7 @@
    "Country": "Saudi Arabia",
    "Status": "construction",
    "BOF": 0,
-   "EAF": 630,
+   "EAF": 2330,
    "IF": 0,
    "Other or unspecified": 0
  },
@@ -2066,7 +2066,7 @@
  {
    "Country": "United States",
    "Status": "operating",
-   "BOF": 29301,
+   "BOF": 30651,
    "EAF": 81545,
    "IF": 0,
    "Other or unspecified": 0
@@ -2186,24 +2186,24 @@
  {
    "Country": "Global",
    "Status": "operating",
-   "BOF": 1440698,
-   "EAF": 726888,
+   "BOF": 1459489,
+   "EAF": 721603,
    "IF": 27469,
    "Other or unspecified": 21302
  },
  {
    "Country": "Global",
    "Status": "announced",
-   "BOF": 298646,
-   "EAF": 251410,
+   "BOF": 275446,
+   "EAF": 245410,
    "IF": 18277,
    "Other or unspecified": 120690
  },
  {
    "Country": "Global",
    "Status": "construction",
-   "BOF": 41397,
-   "EAF": 109204,
+   "BOF": 54145,
+   "EAF": 110479,
    "IF": 2564,
    "Other or unspecified": 4200
  }
