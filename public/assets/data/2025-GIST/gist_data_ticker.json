@@ -78,7 +78,7 @@
  },
  {
    "Country": "Germany",
-   "summary_1": "<span>{{33}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_1": "<span>{{31}}mtpa</span><br>ironmaking capacity<br>in operation",
    "summary_2": "<span>{{7}}mtpa</span><br>ironmaking capacity<br>in development",
    "summary_3": "<span>{{45}}mtpa</span><br>steelmaking capacity<br>in operation",
    "summary_4": "<span>{{14}}mtpa</span><br>steelmaking capacity<br>in development"
@@ -134,9 +134,9 @@
  },
  {
    "Country": "Ukraine",
-   "summary_1": "<span>{{20}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_1": "<span>{{16}}mtpa</span><br>ironmaking capacity<br>in operation",
    "summary_2": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in development",
-   "summary_3": "<span>{{20}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_3": "<span>{{19}}mtpa</span><br>steelmaking capacity<br>in operation",
    "summary_4": "<span>{{0}}mtpa</span><br>steelmaking capacity<br>in development"
  },
  {
@@ -184,8 +184,8 @@
  {
    "Country": "China",
    "summary_1": "<span>{{916}}mtpa</span><br>ironmaking capacity<br>in operation",
-   "summary_2": "<span>{{82}}mtpa</span><br>ironmaking capacity<br>in development",
-   "summary_3": "<span>{{1088}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_2": "<span>{{83}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{1089}}mtpa</span><br>steelmaking capacity<br>in operation",
    "summary_4": "<span>{{104}}mtpa</span><br>steelmaking capacity<br>in development"
  },
  {
@@ -204,7 +204,7 @@
  },
  {
    "Country": "Brazil",
-   "summary_1": "<span>{{34}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_1": "<span>{{32}}mtpa</span><br>ironmaking capacity<br>in operation",
    "summary_2": "<span>{{1}}mtpa</span><br>ironmaking capacity<br>in development",
    "summary_3": "<span>{{43}}mtpa</span><br>steelmaking capacity<br>in operation",
    "summary_4": "<span>{{2}}mtpa</span><br>steelmaking capacity<br>in development"
@@ -239,7 +239,7 @@
  },
  {
    "Country": "France",
-   "summary_1": "<span>{{8}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_1": "<span>{{10}}mtpa</span><br>ironmaking capacity<br>in operation",
    "summary_2": "<span>{{4}}mtpa</span><br>ironmaking capacity<br>in development",
    "summary_3": "<span>{{17}}mtpa</span><br>steelmaking capacity<br>in operation",
    "summary_4": "<span>{{5}}mtpa</span><br>steelmaking capacity<br>in development"
@@ -609,6 +609,20 @@
    "summary_4": "<span>{{1}}mtpa</span><br>steelmaking capacity<br>in development"
  },
  {
+   "Country": "Mauritania",
+   "summary_1": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{0}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{3}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Tunisia",
+   "summary_1": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{0}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{0}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
    "Country": "Kuwait",
    "summary_1": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in operation",
    "summary_2": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in development",
@@ -624,9 +638,9 @@
  },
  {
    "Country": "Global",
-   "summary_1": "<span>{{1660}}mtpa</span><br>ironmaking capacity<br>in operation",
-   "summary_2": "<span>{{632}}mtpa</span><br>ironmaking capacity<br>in development",
-   "summary_3": "<span>{{2229}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_1": "<span>{{1657}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{633}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{2228}}mtpa</span><br>steelmaking capacity<br>in operation",
    "summary_4": "<span>{{831}}mtpa</span><br>steelmaking capacity<br>in development"
  }
 ]
