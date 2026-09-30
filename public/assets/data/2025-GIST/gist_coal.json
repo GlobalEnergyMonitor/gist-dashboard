@@ -1,7 +1,7 @@
 [
  {
    "Country": "Global",
-   "Net coal-based capacity investment": 267.496,
+   "Net coal-based capacity invested in": 267.496,
    "BF (coal) capacity in development": 320.008,
    "DRI (coal) capacity in development": 25.559,
    "BF (coal) capacity with planned retirement": -127.953,
@@ -9,7 +9,7 @@
  },
  {
    "Country": "China",
-   "Net coal-based capacity investment": 29.998,
+   "Net coal-based capacity invested in": 29.998,
    "BF (coal) capacity in development": 77.289,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": -47.291,
@@ -17,7 +17,7 @@
  },
  {
    "Country": "India",
-   "Net coal-based capacity investment": 227.642,
+   "Net coal-based capacity invested in": 227.642,
    "BF (coal) capacity in development": 193.263,
    "DRI (coal) capacity in development": 22.109,
    "BF (coal) capacity with planned retirement": -3.433,
@@ -25,7 +25,7 @@
  },
  {
    "Country": "Japan",
-   "Net coal-based capacity investment": -0.552,
+   "Net coal-based capacity invested in": -0.552,
    "BF (coal) capacity in development": 0,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": -8.227,
@@ -33,7 +33,7 @@
  },
  {
    "Country": "Russia",
-   "Net coal-based capacity investment": 0.114,
+   "Net coal-based capacity invested in": 0.114,
    "BF (coal) capacity in development": 3.7,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": -3.586,
@@ -41,7 +41,7 @@
  },
  {
    "Country": "South Korea",
-   "Net coal-based capacity investment": 4.28,
+   "Net coal-based capacity invested in": 4.28,
    "BF (coal) capacity in development": 0,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": 0,
@@ -49,7 +49,7 @@
  },
  {
    "Country": "Brazil",
-   "Net coal-based capacity investment": 3.213,
+   "Net coal-based capacity invested in": 3.213,
    "BF (coal) capacity in development": 0,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": 0,
@@ -57,7 +57,7 @@
  },
  {
    "Country": "Vietnam",
-   "Net coal-based capacity investment": 8.38,
+   "Net coal-based capacity invested in": 8.38,
    "BF (coal) capacity in development": 8.38,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": 0,
@@ -65,7 +65,7 @@
  },
  {
    "Country": "Ukraine",
-   "Net coal-based capacity investment": 5.387,
+   "Net coal-based capacity invested in": 5.387,
    "BF (coal) capacity in development": 0,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": 0,
@@ -73,7 +73,7 @@
  },
  {
    "Country": "United States",
-   "Net coal-based capacity investment": 3.75,
+   "Net coal-based capacity invested in": 3.75,
    "BF (coal) capacity in development": 0,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": 0,
@@ -81,7 +81,7 @@
  },
  {
    "Country": "Malaysia",
-   "Net coal-based capacity investment": 16.5,
+   "Net coal-based capacity invested in": 16.5,
    "BF (coal) capacity in development": 16.5,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": 0,
@@ -89,7 +89,7 @@
  },
  {
    "Country": "Türkiye",
-   "Net coal-based capacity investment": 0,
+   "Net coal-based capacity invested in": 0,
    "BF (coal) capacity in development": 0,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": 0,
@@ -97,7 +97,7 @@
  },
  {
    "Country": "Taiwan",
-   "Net coal-based capacity investment": -2.1,
+   "Net coal-based capacity invested in": -2.1,
    "BF (coal) capacity in development": 0,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": -2.1,
@@ -105,7 +105,7 @@
  },
  {
    "Country": "Indonesia",
-   "Net coal-based capacity investment": 1,
+   "Net coal-based capacity invested in": 1,
    "BF (coal) capacity in development": 3,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": -2,
@@ -113,7 +113,7 @@
  },
  {
    "Country": "Iran",
-   "Net coal-based capacity investment": 2.35,
+   "Net coal-based capacity invested in": 2.35,
    "BF (coal) capacity in development": 0,
    "DRI (coal) capacity in development": 2.35,
    "BF (coal) capacity with planned retirement": 0,
@@ -121,7 +121,7 @@
  },
  {
    "Country": "Kazakhstan",
-   "Net coal-based capacity investment": 0.728,
+   "Net coal-based capacity invested in": 0.728,
    "BF (coal) capacity in development": 0.728,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": 0,
@@ -129,7 +129,7 @@
  },
  {
    "Country": "Zimbabwe",
-   "Net coal-based capacity investment": 5.27,
+   "Net coal-based capacity invested in": 5.27,
    "BF (coal) capacity in development": 5.27,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": 0,
@@ -137,7 +137,7 @@
  },
  {
    "Country": "North Korea",
-   "Net coal-based capacity investment": 0,
+   "Net coal-based capacity invested in": 0,
    "BF (coal) capacity in development": 0,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": 0,
@@ -145,7 +145,7 @@
  },
  {
    "Country": "Belgium",
-   "Net coal-based capacity investment": 0,
+   "Net coal-based capacity invested in": 0,
    "BF (coal) capacity in development": 0,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": 0,
@@ -153,7 +153,7 @@
  },
  {
    "Country": "Pakistan",
-   "Net coal-based capacity investment": 4.5,
+   "Net coal-based capacity invested in": 4.5,
    "BF (coal) capacity in development": 4.5,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": 0,
@@ -161,7 +161,7 @@
  },
  {
    "Country": "Slovakia",
-   "Net coal-based capacity investment": 0,
+   "Net coal-based capacity invested in": 0,
    "BF (coal) capacity in development": 0,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": 0,
@@ -169,7 +169,7 @@
  },
  {
    "Country": "Argentina",
-   "Net coal-based capacity investment": 0,
+   "Net coal-based capacity invested in": 0,
    "BF (coal) capacity in development": 0,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": 0,
@@ -177,7 +177,7 @@
  },
  {
    "Country": "Myanmar",
-   "Net coal-based capacity investment": 4,
+   "Net coal-based capacity invested in": 4,
    "BF (coal) capacity in development": 4,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": 0,
@@ -185,7 +185,7 @@
  },
  {
    "Country": "France",
-   "Net coal-based capacity investment": 0,
+   "Net coal-based capacity invested in": 0,
    "BF (coal) capacity in development": 0,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": -2.5,
@@ -193,7 +193,7 @@
  },
  {
    "Country": "Poland",
-   "Net coal-based capacity investment": 0,
+   "Net coal-based capacity invested in": 0,
    "BF (coal) capacity in development": 0,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": 0,
@@ -201,7 +201,7 @@
  },
  {
    "Country": "Philippines",
-   "Net coal-based capacity investment": 0,
+   "Net coal-based capacity invested in": 0,
    "BF (coal) capacity in development": 0,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": 0,
@@ -209,7 +209,7 @@
  },
  {
    "Country": "Austria",
-   "Net coal-based capacity investment": -2.525,
+   "Net coal-based capacity invested in": -2.525,
    "BF (coal) capacity in development": 0,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": -2.525,
@@ -217,7 +217,7 @@
  },
  {
    "Country": "Mexico",
-   "Net coal-based capacity investment": 0,
+   "Net coal-based capacity invested in": 0,
    "BF (coal) capacity in development": 0,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": 0,
@@ -225,7 +225,7 @@
  },
  {
    "Country": "Nigeria",
-   "Net coal-based capacity investment": 1.355,
+   "Net coal-based capacity invested in": 1.355,
    "BF (coal) capacity in development": 1.355,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": 0,
@@ -233,7 +233,7 @@
  },
  {
    "Country": "Serbia",
-   "Net coal-based capacity investment": 0,
+   "Net coal-based capacity invested in": 0,
    "BF (coal) capacity in development": 0,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": 0,
@@ -241,7 +241,7 @@
  },
  {
    "Country": "Bosnia and Herzegovina",
-   "Net coal-based capacity investment": 0,
+   "Net coal-based capacity invested in": 0,
    "BF (coal) capacity in development": 0,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": 0,
@@ -249,7 +249,7 @@
  },
  {
    "Country": "Mozambique",
-   "Net coal-based capacity investment": 1.1,
+   "Net coal-based capacity invested in": 1.1,
    "BF (coal) capacity in development": 0,
    "DRI (coal) capacity in development": 1.1,
    "BF (coal) capacity with planned retirement": 0,
@@ -257,7 +257,7 @@
  },
  {
    "Country": "Uganda",
-   "Net coal-based capacity investment": 1,
+   "Net coal-based capacity invested in": 1,
    "BF (coal) capacity in development": 1,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": 0,
@@ -265,7 +265,7 @@
  },
  {
    "Country": "South Africa",
-   "Net coal-based capacity investment": 0.6,
+   "Net coal-based capacity invested in": 0.6,
    "BF (coal) capacity in development": 0,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": -1.3,
@@ -273,7 +273,7 @@
  },
  {
    "Country": "Angola",
-   "Net coal-based capacity investment": 0.423,
+   "Net coal-based capacity invested in": 0.423,
    "BF (coal) capacity in development": 0.423,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": 0,
@@ -281,7 +281,7 @@
  },
  {
    "Country": "Kenya",
-   "Net coal-based capacity investment": 0,
+   "Net coal-based capacity invested in": 0,
    "BF (coal) capacity in development": 0,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": 0,
@@ -289,7 +289,7 @@
  },
  {
    "Country": "Syria",
-   "Net coal-based capacity investment": 0,
+   "Net coal-based capacity invested in": 0,
    "BF (coal) capacity in development": 0,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": 0,
@@ -297,7 +297,7 @@
  },
  {
    "Country": "Czech Republic",
-   "Net coal-based capacity investment": -1.095,
+   "Net coal-based capacity invested in": -1.095,
    "BF (coal) capacity in development": 0,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": -1.095,
@@ -305,7 +305,7 @@
  },
  {
    "Country": "Albania",
-   "Net coal-based capacity investment": 0,
+   "Net coal-based capacity invested in": 0,
    "BF (coal) capacity in development": 0,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": 0,
@@ -313,7 +313,7 @@
  },
  {
    "Country": "Algeria",
-   "Net coal-based capacity investment": 0,
+   "Net coal-based capacity invested in": 0,
    "BF (coal) capacity in development": 0,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": 0,
@@ -321,7 +321,7 @@
  },
  {
    "Country": "Azerbaijan",
-   "Net coal-based capacity investment": 0,
+   "Net coal-based capacity invested in": 0,
    "BF (coal) capacity in development": 0,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": 0,
@@ -329,7 +329,7 @@
  },
  {
    "Country": "Bahrain",
-   "Net coal-based capacity investment": 0,
+   "Net coal-based capacity invested in": 0,
    "BF (coal) capacity in development": 0,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": 0,
@@ -337,7 +337,7 @@
  },
  {
    "Country": "Bangladesh",
-   "Net coal-based capacity investment": 0,
+   "Net coal-based capacity invested in": 0,
    "BF (coal) capacity in development": 0,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": 0,
@@ -345,7 +345,7 @@
  },
  {
    "Country": "Belarus",
-   "Net coal-based capacity investment": 0,
+   "Net coal-based capacity invested in": 0,
    "BF (coal) capacity in development": 0,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": 0,
@@ -353,7 +353,7 @@
  },
  {
    "Country": "Bolivia",
-   "Net coal-based capacity investment": 0,
+   "Net coal-based capacity invested in": 0,
    "BF (coal) capacity in development": 0,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": 0,
@@ -361,7 +361,7 @@
  },
  {
    "Country": "Bulgaria",
-   "Net coal-based capacity investment": 0,
+   "Net coal-based capacity invested in": 0,
    "BF (coal) capacity in development": 0,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": 0,
@@ -369,7 +369,7 @@
  },
  {
    "Country": "Cambodia",
-   "Net coal-based capacity investment": 0,
+   "Net coal-based capacity invested in": 0,
    "BF (coal) capacity in development": 0,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": 0,
@@ -377,7 +377,7 @@
  },
  {
    "Country": "Chile",
-   "Net coal-based capacity investment": 0,
+   "Net coal-based capacity invested in": 0,
    "BF (coal) capacity in development": 0,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": 0,
@@ -385,7 +385,7 @@
  },
  {
    "Country": "Egypt",
-   "Net coal-based capacity investment": 0,
+   "Net coal-based capacity invested in": 0,
    "BF (coal) capacity in development": 0,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": 0,
@@ -393,7 +393,7 @@
  },
  {
    "Country": "Ethiopia",
-   "Net coal-based capacity investment": 0,
+   "Net coal-based capacity invested in": 0,
    "BF (coal) capacity in development": 0,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": 0,
@@ -401,7 +401,7 @@
  },
  {
    "Country": "Ghana",
-   "Net coal-based capacity investment": 0,
+   "Net coal-based capacity invested in": 0,
    "BF (coal) capacity in development": 0,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": 0,
@@ -409,7 +409,7 @@
  },
  {
    "Country": "Greece",
-   "Net coal-based capacity investment": 0,
+   "Net coal-based capacity invested in": 0,
    "BF (coal) capacity in development": 0,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": 0,
@@ -417,7 +417,7 @@
  },
  {
    "Country": "Guatemala",
-   "Net coal-based capacity investment": 0,
+   "Net coal-based capacity invested in": 0,
    "BF (coal) capacity in development": 0,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": 0,
@@ -425,7 +425,7 @@
  },
  {
    "Country": "Hong Kong",
-   "Net coal-based capacity investment": 0,
+   "Net coal-based capacity invested in": 0,
    "BF (coal) capacity in development": 0,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": 0,
@@ -433,7 +433,7 @@
  },
  {
    "Country": "Hungary",
-   "Net coal-based capacity investment": 0,
+   "Net coal-based capacity invested in": 0,
    "BF (coal) capacity in development": 0,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": 0,
@@ -441,7 +441,7 @@
  },
  {
    "Country": "Iraq",
-   "Net coal-based capacity investment": 0,
+   "Net coal-based capacity invested in": 0,
    "BF (coal) capacity in development": 0,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": 0,
@@ -449,7 +449,7 @@
  },
  {
    "Country": "Kuwait",
-   "Net coal-based capacity investment": 0,
+   "Net coal-based capacity invested in": 0,
    "BF (coal) capacity in development": 0,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": 0,
@@ -457,7 +457,7 @@
  },
  {
    "Country": "Latvia",
-   "Net coal-based capacity investment": 0,
+   "Net coal-based capacity invested in": 0,
    "BF (coal) capacity in development": 0,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": 0,
@@ -465,7 +465,7 @@
  },
  {
    "Country": "Libya",
-   "Net coal-based capacity investment": 0,
+   "Net coal-based capacity invested in": 0,
    "BF (coal) capacity in development": 0,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": 0,
@@ -473,7 +473,7 @@
  },
  {
    "Country": "Luxembourg",
-   "Net coal-based capacity investment": 0,
+   "Net coal-based capacity invested in": 0,
    "BF (coal) capacity in development": 0,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": 0,
@@ -481,7 +481,7 @@
  },
  {
    "Country": "Mauritania",
-   "Net coal-based capacity investment": 0,
+   "Net coal-based capacity invested in": 0,
    "BF (coal) capacity in development": 0,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": 0,
@@ -489,7 +489,7 @@
  },
  {
    "Country": "Moldova",
-   "Net coal-based capacity investment": 0,
+   "Net coal-based capacity invested in": 0,
    "BF (coal) capacity in development": 0,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": 0,
@@ -497,7 +497,7 @@
  },
  {
    "Country": "Morocco",
-   "Net coal-based capacity investment": 0,
+   "Net coal-based capacity invested in": 0,
    "BF (coal) capacity in development": 0,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": 0,
@@ -505,7 +505,7 @@
  },
  {
    "Country": "Namibia",
-   "Net coal-based capacity investment": 0,
+   "Net coal-based capacity invested in": 0,
    "BF (coal) capacity in development": 0,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": 0,
@@ -513,7 +513,7 @@
  },
  {
    "Country": "North Macedonia",
-   "Net coal-based capacity investment": 0,
+   "Net coal-based capacity invested in": 0,
    "BF (coal) capacity in development": 0,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": 0,
@@ -521,7 +521,7 @@
  },
  {
    "Country": "Norway",
-   "Net coal-based capacity investment": 0,
+   "Net coal-based capacity invested in": 0,
    "BF (coal) capacity in development": 0,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": 0,
@@ -529,7 +529,7 @@
  },
  {
    "Country": "Oman",
-   "Net coal-based capacity investment": 0,
+   "Net coal-based capacity invested in": 0,
    "BF (coal) capacity in development": 0,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": 0,
@@ -537,7 +537,7 @@
  },
  {
    "Country": "Peru",
-   "Net coal-based capacity investment": 0,
+   "Net coal-based capacity invested in": 0,
    "BF (coal) capacity in development": 0,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": 0,
@@ -545,7 +545,7 @@
  },
  {
    "Country": "Portugal",
-   "Net coal-based capacity investment": 0,
+   "Net coal-based capacity invested in": 0,
    "BF (coal) capacity in development": 0,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": 0,
@@ -553,7 +553,7 @@
  },
  {
    "Country": "Qatar",
-   "Net coal-based capacity investment": 0,
+   "Net coal-based capacity invested in": 0,
    "BF (coal) capacity in development": 0,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": 0,
@@ -561,7 +561,7 @@
  },
  {
    "Country": "Romania",
-   "Net coal-based capacity investment": 0,
+   "Net coal-based capacity invested in": 0,
    "BF (coal) capacity in development": 0,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": 0,
@@ -569,7 +569,7 @@
  },
  {
    "Country": "Saudi Arabia",
-   "Net coal-based capacity investment": 0,
+   "Net coal-based capacity invested in": 0,
    "BF (coal) capacity in development": 0,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": 0,
@@ -577,7 +577,7 @@
  },
  {
    "Country": "Singapore",
-   "Net coal-based capacity investment": 0,
+   "Net coal-based capacity invested in": 0,
    "BF (coal) capacity in development": 0,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": 0,
@@ -585,7 +585,7 @@
  },
  {
    "Country": "Slovenia",
-   "Net coal-based capacity investment": 0,
+   "Net coal-based capacity invested in": 0,
    "BF (coal) capacity in development": 0,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": 0,
@@ -593,7 +593,7 @@
  },
  {
    "Country": "Sri Lanka",
-   "Net coal-based capacity investment": 0,
+   "Net coal-based capacity invested in": 0,
    "BF (coal) capacity in development": 0,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": 0,
@@ -601,7 +601,7 @@
  },
  {
    "Country": "Switzerland",
-   "Net coal-based capacity investment": 0,
+   "Net coal-based capacity invested in": 0,
    "BF (coal) capacity in development": 0,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": 0,
@@ -609,7 +609,7 @@
  },
  {
    "Country": "Thailand",
-   "Net coal-based capacity investment": 0,
+   "Net coal-based capacity invested in": 0,
    "BF (coal) capacity in development": 0,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": 0,
@@ -617,7 +617,7 @@
  },
  {
    "Country": "Trinidad and Tobago",
-   "Net coal-based capacity investment": 0,
+   "Net coal-based capacity invested in": 0,
    "BF (coal) capacity in development": 0,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": 0,
@@ -625,7 +625,7 @@
  },
  {
    "Country": "Tunisia",
-   "Net coal-based capacity investment": 0,
+   "Net coal-based capacity invested in": 0,
    "BF (coal) capacity in development": 0,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": 0,
@@ -633,7 +633,7 @@
  },
  {
    "Country": "United Arab Emirates",
-   "Net coal-based capacity investment": 0,
+   "Net coal-based capacity invested in": 0,
    "BF (coal) capacity in development": 0,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": 0,
@@ -641,7 +641,7 @@
  },
  {
    "Country": "Uzbekistan",
-   "Net coal-based capacity investment": 0.6,
+   "Net coal-based capacity invested in": 0.6,
    "BF (coal) capacity in development": 0.6,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": 0,
@@ -649,7 +649,7 @@
  },
  {
    "Country": "Venezuela",
-   "Net coal-based capacity investment": 0,
+   "Net coal-based capacity invested in": 0,
    "BF (coal) capacity in development": 0,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": 0,
@@ -657,7 +657,7 @@
  },
  {
    "Country": "New Zealand",
-   "Net coal-based capacity investment": -0.326,
+   "Net coal-based capacity invested in": -0.326,
    "BF (coal) capacity in development": 0,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": 0,
@@ -665,7 +665,7 @@
  },
  {
    "Country": "Canada",
-   "Net coal-based capacity investment": -0.129,
+   "Net coal-based capacity invested in": -0.129,
    "BF (coal) capacity in development": 0,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": -2.929,
@@ -673,7 +673,7 @@
  },
  {
    "Country": "Spain",
-   "Net coal-based capacity investment": -4.7,
+   "Net coal-based capacity invested in": -4.7,
    "BF (coal) capacity in development": 0,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": -4.7,
@@ -681,7 +681,7 @@
  },
  {
    "Country": "Finland",
-   "Net coal-based capacity investment": -2.6,
+   "Net coal-based capacity invested in": -2.6,
    "BF (coal) capacity in development": 0,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": -2.6,
@@ -689,7 +689,7 @@
  },
  {
    "Country": "United Kingdom",
-   "Net coal-based capacity investment": -3,
+   "Net coal-based capacity invested in": -3,
    "BF (coal) capacity in development": 0,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": -3,
@@ -697,7 +697,7 @@
  },
  {
    "Country": "Italy",
-   "Net coal-based capacity investment": -4,
+   "Net coal-based capacity invested in": -4,
    "BF (coal) capacity in development": 0,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": -4,
@@ -705,7 +705,7 @@
  },
  {
    "Country": "Sweden",
-   "Net coal-based capacity investment": -4.105,
+   "Net coal-based capacity invested in": -4.105,
    "BF (coal) capacity in development": 0,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": -4.105,
@@ -713,7 +713,7 @@
  },
  {
    "Country": "Australia",
-   "Net coal-based capacity investment": -1.2,
+   "Net coal-based capacity invested in": -1.2,
    "BF (coal) capacity in development": 0,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": -4.2,
@@ -721,7 +721,7 @@
  },
  {
    "Country": "Netherlands",
-   "Net coal-based capacity investment": -6.5,
+   "Net coal-based capacity invested in": -6.5,
    "BF (coal) capacity in development": 0,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": -6.5,
@@ -729,7 +729,7 @@
  },
  {
    "Country": "Germany",
-   "Net coal-based capacity investment": -21.862,
+   "Net coal-based capacity invested in": -21.862,
    "BF (coal) capacity in development": 0,
    "DRI (coal) capacity in development": 0,
    "BF (coal) capacity with planned retirement": -21.862,
