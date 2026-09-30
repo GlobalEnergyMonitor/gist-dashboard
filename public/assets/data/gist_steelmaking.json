@@ -434,8 +434,8 @@
  {
    "Country": "China",
    "Status": "operating",
-   "BOF": 898083,
-   "EAF": 190721,
+   "BOF": 898833,
+   "EAF": 189571,
    "IF": 240,
    "Other or unspecified": 0
  },
@@ -1994,7 +1994,7 @@
  {
    "Country": "Ukraine",
    "Status": "operating",
-   "BOF": 12255,
+   "BOF": 11172,
    "EAF": 3303,
    "IF": 17,
    "Other or unspecified": 4102
@@ -2186,8 +2186,8 @@
  {
    "Country": "Global",
    "Status": "operating",
-   "BOF": 1459489,
-   "EAF": 721603,
+   "BOF": 1459156,
+   "EAF": 720453,
    "IF": 27469,
    "Other or unspecified": 21302
  },
