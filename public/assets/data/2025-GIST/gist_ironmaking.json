@@ -392,7 +392,7 @@
  {
    "Country": "Brazil",
    "Status": "operating",
-   "BF (coal)": 33636,
+   "BF (coal)": 31956,
    "DRI (coal)": 0,
    "DRI (methane)": 0,
    "DRI (H2)": 0,
@@ -542,7 +542,7 @@
  {
    "Country": "China",
    "Status": "operating",
-   "BF (coal)": 908589,
+   "BF (coal)": 909414,
    "DRI (coal)": 300,
    "DRI (methane)": 0,
    "DRI (H2)": 1000,
@@ -552,7 +552,7 @@
  {
    "Country": "China",
    "Status": "announced",
-   "BF (coal)": 43931,
+   "BF (coal)": 44971,
    "DRI (coal)": 0,
    "DRI (methane)": 0,
    "DRI (H2)": 1100,
@@ -692,7 +692,7 @@
  {
    "Country": "France",
    "Status": "operating",
-   "BF (coal)": 7900,
+   "BF (coal)": 10400,
    "DRI (coal)": 0,
    "DRI (methane)": 0,
    "DRI (H2)": 0,
@@ -722,7 +722,7 @@
  {
    "Country": "Germany",
    "Status": "operating",
-   "BF (coal)": 31987,
+   "BF (coal)": 30287,
    "DRI (coal)": 0,
    "DRI (methane)": 600,
    "DRI (H2)": 0,
@@ -2492,7 +2492,7 @@
  {
    "Country": "Ukraine",
    "Status": "operating",
-   "BF (coal)": 19941,
+   "BF (coal)": 16323,
    "DRI (coal)": 0,
    "DRI (methane)": 0,
    "DRI (H2)": 0,
@@ -2732,7 +2732,7 @@
  {
    "Country": "Global",
    "Status": "operating",
-   "BF (coal)": 1494226,
+   "BF (coal)": 1490553,
    "DRI (coal)": 27692,
    "DRI (methane)": 93331,
    "DRI (H2)": 3834,
@@ -2742,7 +2742,7 @@
  {
    "Country": "Global",
    "Status": "announced",
-   "BF (coal)": 253215,
+   "BF (coal)": 254255,
    "DRI (coal)": 20969,
    "DRI (methane)": 63415,
    "DRI (H2)": 35668,
